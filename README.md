@@ -11,7 +11,7 @@ The contract uses a deterministic algorithm to generate a random index from the 
 ## Deployed Address
 
 EVM on Flow Testnet: https://evm-testnet.flowscan.io/address/0xe26B2E42892a5C2Cd43CE38DDa0b38547CF35464?tab=read_write_contract
-EVM on Flow Mainnet:
+EVM on Flow Mainnet: https://evm.flowscan.io/address/0x72ae7d588dec0Ff4E7b0ABf32aDc2b33e868AE66?tab=read_write_contract
 
 ## Usage
 

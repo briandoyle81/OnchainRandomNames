@@ -8,8 +8,17 @@ const config: HardhatUserConfig = {
   etherscan: {
     apiKey: {
       "flow-testnet": "abc",
+      flow: "abc",
     },
     customChains: [
+      {
+        network: "flow",
+        chainId: 747,
+        urls: {
+          apiURL: "https://evm.flowscan.io/api",
+          browserURL: "https://evm.flowscan.io",
+        },
+      },
       {
         network: "flow-testnet",
         chainId: 545,
@@ -23,6 +32,11 @@ const config: HardhatUserConfig = {
   networks: {
     "flow-testnet": {
       url: "https://testnet.evm.nodes.onflow.org",
+      accounts: [process.env.METAMASK_WALLET_1 as string],
+      gas: 500000,
+    },
+    flow: {
+      url: "https://mainnet.evm.nodes.onflow.org",
       accounts: [process.env.METAMASK_WALLET_1 as string],
       gas: 500000,
     },
