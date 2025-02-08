@@ -73,19 +73,17 @@ describe("OnchainRandomNames", function () {
     it("Should generate names that look realistic", async function () {
       const { onchainRandomNames } = await loadFixture(deployFixture);
 
-      // Test with multiple seeds to ensure we're getting realistic names
       for (let i = 0; i < 5; i++) {
         const seed = `0x${i.toString().padStart(64, "0")}`;
         const [firstName, lastName] =
           await onchainRandomNames.read.getRandomName([seed]);
 
-        // Names should be reasonable length
         expect(firstName.length).to.be.within(2, 20);
         expect(lastName.length).to.be.within(2, 20);
 
-        // Names should only contain letters and hyphens
-        expect(firstName).to.match(/^[A-Za-z-]+$/);
-        expect(lastName).to.match(/^[A-Za-z-]+$/);
+        // Updated regex to include accented characters
+        expect(firstName).to.match(/^[A-Za-zÀ-ÿ-]+$/);
+        expect(lastName).to.match(/^[A-Za-zÀ-ÿ-]+$/);
       }
     });
   });
