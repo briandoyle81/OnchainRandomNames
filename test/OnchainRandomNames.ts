@@ -4,6 +4,8 @@ import hre from "hardhat";
 import { getAddress } from "viem";
 import NamesModule from "../ignition/modules/OnchainRandomNames";
 
+require("dotenv").config();
+
 describe("OnchainRandomNames", function () {
   async function deployFixture() {
     // Deploy all contracts using Ignition
@@ -80,6 +82,8 @@ describe("OnchainRandomNames", function () {
 
         expect(firstName.length).to.be.within(2, 20);
         expect(lastName.length).to.be.within(2, 20);
+
+        console.log("Name: ", firstName, lastName);
 
         // Updated regex to include accented characters
         expect(firstName).to.match(/^[A-Za-zÀ-ÿ-]+$/);

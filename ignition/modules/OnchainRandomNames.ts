@@ -27,6 +27,11 @@ const NamesModule = buildModule("NamesModule", (m) => {
     lastnameSubsets.push(subset);
   }
 
+  console.log(
+    "Total Contracts: ",
+    firstnameSubsets.length + lastnameSubsets.length
+  );
+
   // Then deploy the OnchainRandomNames contract
   const onchainRandomNames = m.contract("OnchainRandomNames", [
     firstnameSubsets,

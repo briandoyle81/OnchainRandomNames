@@ -57,18 +57,29 @@ contract OnchainRandomNames {
     function getRandomName(
         bytes32 _seed
     ) public view returns (string memory, string memory) {
-        uint256 randomIndex = uint256(_seed) % firstNameSubsets.length;
+        // Hash seed first for subset selection
+        bytes32 newSeed = keccak256(abi.encodePacked(_seed));
+        uint256 randomIndex = uint256(newSeed) % firstNameSubsets.length;
+
         INamesSubset firstNameSubset = INamesSubset(
             firstNameSubsets[randomIndex]
         );
-        string memory firstName = firstNameSubset.getRandomName(_seed);
 
-        randomIndex = uint256(_seed) % lastNameSubsets.length;
+        // Hash again for name selection
+        newSeed = keccak256(abi.encodePacked(newSeed));
+        string memory firstName = firstNameSubset.getRandomName(newSeed);
+
+        // Hash for last name subset selection
+        newSeed = keccak256(abi.encodePacked(newSeed, firstName));
+        randomIndex = uint256(newSeed) % lastNameSubsets.length;
 
         INamesSubset lastNameSubset = INamesSubset(
             lastNameSubsets[randomIndex]
         );
-        string memory lastName = lastNameSubset.getRandomName(_seed);
+
+        // Hash for last name selection
+        newSeed = keccak256(abi.encodePacked(newSeed));
+        string memory lastName = lastNameSubset.getRandomName(newSeed);
 
         return (firstName, lastName);
     }
