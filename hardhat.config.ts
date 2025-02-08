@@ -5,6 +5,21 @@ require("dotenv").config();
 
 const config: HardhatUserConfig = {
   solidity: "0.8.28",
+  etherscan: {
+    apiKey: {
+      "flow-testnet": "abc",
+    },
+    customChains: [
+      {
+        network: "flow-testnet",
+        chainId: 545,
+        urls: {
+          apiURL: "https://evm-testnet.flowscan.io/api",
+          browserURL: "https://evm-testnet.flowscan.io",
+        },
+      },
+    ],
+  },
   networks: {
     "flow-testnet": {
       url: "https://testnet.evm.nodes.onflow.org",

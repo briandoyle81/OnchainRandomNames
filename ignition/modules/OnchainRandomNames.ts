@@ -7,6 +7,8 @@ import { parseEther } from "viem";
 import firstnames from "../../constants/firstnames.json";
 import lastnames from "../../constants/lastnames.json";
 
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const NamesModule = buildModule("NamesModule", (m) => {
   // Until we've gone through all the firstnames, deploy a NamesSubset containing 1000 firstnames and save the address
   // Handle the last subset not having the full 1000 names
@@ -14,6 +16,9 @@ const NamesModule = buildModule("NamesModule", (m) => {
   for (let i = 0; i < firstnames.length; i += 500) {
     const subset = m.contract("NamesSubset", [firstnames.slice(i, i + 400)], {
       id: `FirstNameSubset${i}`,
+      afterDeploy: async () => {
+        await sleep(500);
+      },
     });
     firstnameSubsets.push(subset);
   }
@@ -23,6 +28,9 @@ const NamesModule = buildModule("NamesModule", (m) => {
   for (let i = 0; i < lastnames.length; i += 500) {
     const subset = m.contract("NamesSubset", [lastnames.slice(i, i + 400)], {
       id: `LastNameSubset${i}`,
+      afterDeploy: async () => {
+        await sleep(500);
+      },
     });
     lastnameSubsets.push(subset);
   }
