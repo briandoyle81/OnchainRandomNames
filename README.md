@@ -8,6 +8,8 @@ The firstnames and lastnames are stored in the contract as a list of strings.
 
 The contract uses a deterministic algorithm to generate a random index from the list of firstnames and lastnames. It is deterministic, meaning that the same seed will always produce the same name from the same seed.
 
+USE AT YOUR OWN RISK
+
 ## Deployed Address
 
 Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0xe26B2E42892a5C2Cd43CE38DDa0b38547CF35464?tab=read_write_contract
@@ -63,3 +65,7 @@ For more information, please refer to <http://unlicense.org>
 # Original Ship Names Scraper
 
 https://gist.github.com/wizardishungry/4360549
+
+Ships scraped from Wikipedia adhering to all terms and services.
+
+Ship names manually munged, errors may exist. May contain names are or have that have become offensive.
