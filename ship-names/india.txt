@@ -1,11 +1,11 @@
  Malpe
- – India 1965
-"These would be the future ships of the Indian Navy and will be of the Shivalik class"
-(**) Undergoing trials
-(Maximum range of 1,000 km)
-(Maximum range of 3,500 km)
-(Maximum range of 5,500 km)
-(Range greater than 5,500 km)
+ - India 1965
+These would be the future ships of the Indian Navy and will be of the Shivalik class
+** Undergoing trials
+Maximum range of 1,000 km
+Maximum range of 3,500 km
+Maximum range of 5,500 km
+Range greater than 5,500 km
 ** = Under construction
 1965 War, the Inside Story: Defence Minister Y.B. Chavan's Diary of India-Pakistan War
 21st Century Asian Arms Race
@@ -46,7 +46,7 @@ Al-Monitor
 Al-Seeb
 Al-Shinas
 Alexandria
-All the World's Fighting Ships 1947–1995
+All the World's Fighting Ships 1947-1995
 Allepey
 Alvington
 Amba
@@ -54,7 +54,7 @@ Ambika
 Ambika class
 Ambuda
 Amerika'nin Sesi | Voice of America - Turkish
-Amerika'nin Sesi | Voice of America – Turkish
+Amerika'nin Sesi | Voice of America - Turkish
 Amindivi
 Amini
 Amrit
@@ -148,8 +148,8 @@ Bittern
 Black Swan
 Blackwood
 Blue Star
-Blueprint to Bluewater, the Indian Navy, 1951–65
-Blueprint to Bluewater: The Indian Navy, 1951–65
+Blueprint to Bluewater, the Indian Navy, 1951-65
+Blueprint to Bluewater: The Indian Navy, 1951-65
 Bogan
 Bombay
 Bordeaux Gazette actualités et informations Bordeaux CUB
@@ -158,9 +158,9 @@ Brahmaputra
 Brahmastra Corps
 Brahmos
 Braid
-British &amp; Empire Warships of the Second World War
-British Destroyers &amp; Frigates: The Second World War &amp; After
-British Destroyers &amp; Frigates: The Second World War and After
+British & Empire Warships of the Second World War
+British Destroyers & Frigates: The Second World War & After
+British Destroyers & Frigates: The Second World War and After
 Broadsword by Ajai Shukla - Strategy. Economics. Defence
 Buckingham
 Buland
@@ -211,7 +211,7 @@ Chilka
 Chinar Corps
 Chittagong
 Christina
-Chronology of the War at Sea 1939–1945
+Chronology of the War at Sea 1939-1945
 Clive
 CloseWar.com
 Coaticook
@@ -244,7 +244,7 @@ Default
 Defence Aviation
 Defence Express
 Defence Now
-Defence Research and Development Laboratory (DRDL)
+Defence Research and Development Laboratory DRDL
 Defence Today
 Defence.in
 Defence24
@@ -329,7 +329,7 @@ Godavari
 Gomati
 Gondwana
 Gorshkov
-Government of Mauritius (Port Louis)
+Government of Mauritius Port Louis
 Grimsby
 Grou
 Guldar
@@ -381,7 +381,7 @@ INS Kirch
 INS Shakti
 INS Sindhukirti
 INS Sukanya
-INS Vikrant – the naval museum
+INS Vikrant - the naval museum
 INSAMER English
 INSV Mhadei
 Imphal
@@ -419,7 +419,7 @@ Jane's All the World's Aircraft
 Jane's Defence Weekly
 Jane's Fighting Ships 1931
 Jane's Fighting Ships 2005-2006
-Jane's Fighting Ships 2016–2017
+Jane's Fighting Ships 2016-2017
 Jane's Missiles and Rockets
 Janes
 Janes.com
@@ -566,13 +566,13 @@ Mhadei
 Miadhu Online
 Middle East Eye
 Middle East Monitor
-Military History of British India, 1607–1947
+Military History of British India, 1607-1947
 Military Technology
 Military Today
 Millennium Post
 Ministry of Defence Annual Report: 1988
 Minye Theinkhathu
-Miramar (subscription required)
+Miramar subscription required
 Misgav
 Misnak
 Missile Threat
@@ -610,7 +610,7 @@ Naval News
 Naval Technology
 Naval Today
 Naval Weapons of World War One
-Navy News (magazine)
+Navy News magazine
 Neelam
 Nene
 Nepean
@@ -627,7 +627,7 @@ NewsX
 Neza
 Niels Ebbesen
 Nigeria
-Nigerian Bulletin – Nigeria News Updates
+Nigerian Bulletin - Nigeria News Updates
 Nikaraksha
 Nikarakshat
 Nilgiri
@@ -642,7 +642,7 @@ Nith
 None
 Northumberland
 Note:
-Notes: (*) Undergoing development
+Notes: * Undergoing development
 Nuno Tristão
 Odisha Times
 Odzani
@@ -736,7 +736,7 @@ Royal Mount
 RoyalNavy.mod.uk
 Runnymede
 RushLane
-Russia &amp; India Report
+Russia & India Report
 SP's Naval Forces
 Sagardhwani
 Sahas
@@ -801,7 +801,7 @@ Sindhurashtra
 Sindhuratna
 Sindhuvijay
 Sindhuvir
-Sloops: A History of the 71 Sloops Built in Britain and Australia for the British, Australian and Indian Navies 1926–1946
+Sloops: A History of the 71 Sloops Built in Britain and Australia for the British, Australian and Indian Navies 1926-1946
 Sonvati
 Spear Corps
 Spey
@@ -891,9 +891,9 @@ The New Indian Express
 The New York Times
 The Print
 The Rise of the Indian Navy: Internal Vulnerabilities, External Challenges
-The Royal Indian Navy, 1939–1945
-The Royal Indian Navy, 1939–1945, Official History of the Indian Armed Forces In the Second World War
-The Sail &amp; Steam Navy List&#160;: All the ships of the Royal Navy 1815 - 1889
+The Royal Indian Navy, 1939-1945
+The Royal Indian Navy, 1939-1945, Official History of the Indian Armed Forces In the Second World War
+The Sail & Steam Navy List : All the ships of the Royal Navy 1815 - 1889
 The Statesman
 The Telegraph
 The Times of India
@@ -904,7 +904,7 @@ The Week
 The Wire
 ThePrint
 Thetford Mines
-This Day (Lagos)
+This Day Lagos
 Tihayu
 Tillanchang
 Times of India
@@ -918,10 +918,10 @@ Torridge
 Town Class Cruisers
 Towy
 Transition to Eminence: History of the Indian Navy, 1976-1990
-Transition to Eminence: The Indian Navy, 1976–1990
-Transition to Guardianship: The Indian Navy 1991–2000
-Transition to Guardianship: The Indian Navy, 1991–2000
-Transition to Triumph: History of the Indian Navy, 1965–1975
+Transition to Eminence: The Indian Navy, 1976-1990
+Transition to Guardianship: The Indian Navy 1991-2000
+Transition to Guardianship: The Indian Navy, 1991-2000
+Transition to Triumph: History of the Indian Navy, 1965-1975
 Travancore
 Trent
 Trenton
@@ -968,8 +968,8 @@ Vijeta
 Vikram
 Vikramaditya
 Vikrant
-Vikrant (1961)
-Vikrant (2013)
+Vikrant 1961
+Vikrant 2013
 Vinash
 Vindhyagiri
 Vipul
@@ -977,7 +977,7 @@ Viraat
 Visakhapatnam
 Vishal
 Vishwast
-VnExpress International – Latest news, business, travel and analysis from Vietnam
+VnExpress International - Latest news, business, travel and analysis from Vietnam
 Wanderer
 Warbirds
 Warbirds of India
@@ -1004,11 +1004,11 @@ Wollondilly
 Woodrose
 Wulastock
 Wye
-X (formerly Twitter)
-X (formerly known as Twitter)
-X (formly Twitter)
+X formerly Twitter
+X formerly known as Twitter
+X formly Twitter
 Zee Business
 Zee News
 Zulfiqar
-x (formerly known as Twitter)
-x.com (formerly known as Twitter)
+x formerly known as Twitter
+x.com formerly known as Twitter

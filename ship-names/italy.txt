@@ -52,7 +52,7 @@ Vedetta
 Staffetta
 Angelo Cabrini
 Angelo Cabrini
-(Unità Navale Polifunzionale ad Alta Velocità)
+Unità Navale Polifunzionale ad Alta Velocità
 Tullio Tedeschi
 Lerici
 Milazzo
@@ -69,7 +69,7 @@ Chioggia
 Rimini
 Elettra
 Elettra
-MTM C828 (motozattera Trasporto Mezzi)
+MTM C828 motozattera Trasporto Mezzi
 Trieste
 Vulcano
 Atlante
@@ -103,7 +103,7 @@ Anteo
 Anteo
 Alliance
 Alliance
-CMRE – Centre for Maritime Research and Experimentation
+CMRE - Centre for Maritime Research and Experimentation
 Leonardo
 Leonardo
 Rossetti
@@ -156,7 +156,7 @@ Vulcano
 Stromboli
 Ponza
 SDO-SuRS
-Special &amp; Diving Operations-Submarine Rescue Ship
+Special & Diving Operations-Submarine Rescue Ship
 Ammiraglio Magnaghi
 Baglietto Navy e Siman Yachts.
 Aragosta
@@ -362,22 +362,22 @@ Vittorio Veneto
 Roma
 Impero
 The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912
-Mussolini's Navy: A Reference Guide to the Regia Marina 1930–45
+Mussolini's Navy: A Reference Guide to the Regia Marina 1930-45
 Warship 2010
 Italian Warships of World War I
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1906–1921
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1906-1921
 Battleships: Axis and Neutral Battleships in World War II
 Warship IV
-The Washington Conference, 1921–22: Naval Rivalry, East Asian Stability and the Road to Pearl Harbor
+The Washington Conference, 1921-22: Naval Rivalry, East Asian Stability and the Road to Pearl Harbor
 A Naval History of World War I
 The Battle of the Otranto Straits: Controlling the Gateway to the Adriatic in World War I
 Dictionary of Disasters at Sea During The Age of Steam
 The Ironclads
-Russian &amp; Soviet Battleships
-Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918
-Conway's All the World's Fighting Ships 1906–1921
-Conway's All the World's Fighting Ships 1922–1946
+Russian & Soviet Battleships
+Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914-1918
+Conway's All the World's Fighting Ships 1906-1921
+Conway's All the World's Fighting Ships 1922-1946
 Italian Battleships of World War II
 Battleships of World War Two: An International Encyclopedia
 Zara
@@ -1013,7 +1013,7 @@ Animoso
 Ardimentoso
 Andrea Doria
 Caio Duilio
-Conway's All The World's Fighting Ships 1860–1905
+Conway's All The World's Fighting Ships 1860-1905
 Italian Warships of World War 1
 Italian Warships of World War 2
 Italian Destroyers of World War 2
@@ -1045,9 +1045,9 @@ Zara
 Bolzano
 Bolzano
 Bolzano
-Mussolini's Navy: A Reference Guide to the Regia Marina 1930–1945
-Conway's All the World's Fighting Ships 1922–1946
-The Naval War in the Mediterranean, 1940–1943
+Mussolini's Navy: A Reference Guide to the Regia Marina 1930-1945
+Conway's All the World's Fighting Ships 1922-1946
+The Naval War in the Mediterranean, 1940-1943
 Warship Pictorial 23: Italian Heavy Cruisers of World War II
 Sea Battles in Close-up: World War 2
 Italian Heavy Cruisers: From Trento to Bolzano
@@ -1152,14 +1152,14 @@ Sardegna
 The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912
 The Naval Annual
 The Navy and the Nation, or, Naval Warfare and Imperial Defence
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1906–1921
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1906-1921
 The Complete Encyclopedia of Battleships and Battlecruisers: A Technical Directory of All the World's Capital Ships From 1860 to the Present Day
-Ironclads at War: The Origin and Development of the Armored Warship, 1854–1891
+Ironclads at War: The Origin and Development of the Armored Warship, 1854-1891
 To Crown the Waves: The Great Navies of the First World War
 Directory of the World's Capital Ships
-The Naval Policy of Austria-Hungary, 1867&#8211;1918
-Naval Warfare, 1815–1914
+The Naval Policy of Austria-Hungary, 1867-1918
+Naval Warfare, 1815-1914
 Navies of Europe
 Ironclads in Action: A Sketch of Naval Warfare from 1855 to 1895
 Formidabile
@@ -1223,14 +1223,14 @@ Journal of the RUSI
 Annual Report of the Navy Department
 Annual Reports of the Navy Department for the Year 1902
 The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912
-Warships for Export: Armstrong Warships 1867–1927
-Warship 2002–2003
+Warships for Export: Armstrong Warships 1867-1927
+Warship 2002-2003
 Warship
 The Italians in Australia
 Remaking Italy in the Twentieth Century
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1922–1946
-Conway's All the World's Fighting Ships 1906–1921
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1922-1946
+Conway's All the World's Fighting Ships 1906-1921
 The Black Prince and the Sea Devils: The Story of Valerio Borghese and the Elite Units of the Decima MAS
 A Naval History of World War I
 The Battle of the Otranto Straits: Controlling the Gateway to the Adriatic in World War I
@@ -1246,10 +1246,10 @@ Frank Capra: The Catastrophe of Success
 The Marine Architect
 Journal of the Royal United Service Institution
 To Crown the Waves: The Great Navies of the First World War
-The Commission of H.M.S. Perseus: East Indies. Including Persian Gulf and Somaliland, 1901–1904
-The Naval Policy of Austria-Hungary, 1867–1918
-Naval Warfare, 1815–1914
-The Last Century of Sea Power (Volume 2, From Washington to Tokyo, 1922–1945)
+The Commission of H.M.S. Perseus: East Indies. Including Persian Gulf and Somaliland, 1901-1904
+The Naval Policy of Austria-Hungary, 1867-1918
+Naval Warfare, 1815-1914
+The Last Century of Sea Power Volume 2, From Washington to Tokyo, 1922-1945
 World War 2 in Europe
 Giovanni Bausan
 Etna
@@ -1299,7 +1299,7 @@ Cristoforo Colombo
 New Military Newspaper
 The Italians in Australia
 Stations in the Field: A History of Place-Based Animal Research, 1870-1930
-Conway's All the World's Fighting Ships 1860–1905
+Conway's All the World's Fighting Ships 1860-1905
 Journal of the Royal United Service Institution
 Journal of the Royal United Service Institution
 Report of Chief Engineer J. W. King, United States Navy: On European Ships of War and Their Armament, Naval Administration and Economy, Marine Constructions, Torpedo-Warfare, Dock-Yards, Etc. Etc

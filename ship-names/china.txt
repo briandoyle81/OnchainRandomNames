@@ -1,6 +1,6 @@
-"Peace Ark"
-"Qi Jiguang"
-"Zheng He"
+Peace Ark
+Qi Jiguang
+Zheng He
 Aba
 Anhui
 Anshan
@@ -43,7 +43,7 @@ Huanggang Shan
 Huangshi
 Huludao
 IDSA News Review on East Asia
-JPRS Report: Near East &amp; South Asia
+JPRS Report: Near East & South Asia
 Jingdezhen
 Jingmen
 Jining

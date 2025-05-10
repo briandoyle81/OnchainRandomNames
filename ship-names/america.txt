@@ -42,7 +42,7 @@
 160 Foot
 17 Oct 1967
 18 Sep 1945
-1936A (Mob)
+1936A Mob
 1980s modification added 32 × Tomahawk and 16 × Harpoon missiles and 4 × Phalanx CIWS
 1st Lt. Alex Bonnyman
 1st Lt. Baldomero Lopez
@@ -81,7 +81,7 @@ A. J. View
 A. O. Tyler
 A1C William H. Pitsenbarger
 ABC News
-ALE-39(V) - Archived 02/2008
+ALE-39V - Archived 02/2008
 AMc-143
 AMc-144
 AMc-145
@@ -140,7 +140,7 @@ AMc-198
 AMc-199
 AMc-200
 AMc-201
-AN/ALR-64 (V) Radar Warning Receiver System: Block Cycle Updates and 1553B
+AN/ALR-64 V Radar Warning Receiver System: Block Cycle Updates and 1553B
 AOL Defense
 APc-1
 APc-10
@@ -396,8 +396,8 @@ Aileen
 Aimwell
 Ain Online
 Ainsworth
-Air &amp; Space Forces Magazine
-Air &amp; Space Magazine
+Air & Space Forces Magazine
+Air & Space Magazine
 Air Combat Command
 Air Force Global Strike Command
 Air Force Instruction 36-2226, Combat Arms Program, Supplement 1
@@ -580,7 +580,7 @@ America
 America-class
 American
 American Arrow
-American Battleships 1896–1923: Predreadnought Design and Construction
+American Battleships 1896-1923: Predreadnought Design and Construction
 American Condor
 American Cormorant
 American Cruisers of World War II
@@ -721,7 +721,7 @@ Archer
 Archer-Fish
 Archerfish
 Archie
-Archived Report - AN/ALQ-165(V) (ASPJ)
+Archived Report - AN/ALQ-165V ASPJ
 Arco
 Arctic
 Arctic Combat:
@@ -1168,7 +1168,7 @@ Bibb
 Bickerton
 Biddle
 Biddle/Claude V. Rickets
-Bie &amp; Schiott
+Bie & Schiott
 Bienville
 Biesbosch
 Big Beaver
@@ -1581,7 +1581,7 @@ Campti
 Can Do
 Can Tho
 Can do
-Canada - AN/AAQ-24(V) Directional Infrared Countermeasure Systems
+Canada - AN/AAQ-24V Directional Infrared Countermeasure Systems
 Canadian River
 Canandaigua
 Canarsee
@@ -2061,7 +2061,7 @@ Christabel
 Christiana
 Christine
 Christopher
-Chronicles of the Frigate Macedonian, 1809–1922
+Chronicles of the Frigate Macedonian, 1809-1922
 Chronology of Commanders
 Chub
 Chukawan
@@ -2095,7 +2095,7 @@ City of Pekin
 City of Philadelphia
 City of South Haven
 Civil War High Commands
-Civil War Navies 1855–1883
+Civil War Navies 1855-1883
 Civil War ironclads: the U. S. Navy and industrial mobilization
 Civilian in peace. Soldier in war. 
 Claiborne
@@ -2329,7 +2329,7 @@ Conqueror
 Conquest
 Conserver
 Consolation
-Consolidated Analysis Center, Inc (CACI)
+Consolidated Analysis Center, Inc CACI
 Consort
 Constance II
 Constant
@@ -2349,11 +2349,11 @@ Control
 Conus
 Converse
 Conway
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1860–1905.
-Conway's All the World's Fighting Ships 1906–1921
-Conway's All the World's Fighting Ships 1906–1921.
-Conway's All the World's Fighting Ships 1922–1946
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1860-1905.
+Conway's All the World's Fighting Ships 1906-1921
+Conway's All the World's Fighting Ships 1906-1921.
+Conway's All the World's Fighting Ships 1922-1946
 Cony
 Conyngham
 Cook
@@ -2428,7 +2428,7 @@ Courageous
 Courier
 Courlan
 Courser
-Court-Martial Order No. 4–1948: Advancement in rank on retired list: special commendation for performance of duty in actual combat
+Court-Martial Order No. 4-1948: Advancement in rank on retired list: special commendation for performance of duty in actual combat
 Courtenay P
 Courtney
 Coutelas
@@ -2627,7 +2627,7 @@ Davison
 Dawn
 Dawson
 Day
-Day and Night&#8212;Peace and War
+Day and Night-Peace and War
 Daylight
 Dayton
 De Brouwer
@@ -2665,20 +2665,20 @@ Defend and Serve
 Defender
 Defender of the Crossroads
 Defense
-Defense &amp; Aerospace Competitive Intelligence Service (DACIS)
+Defense & Aerospace Competitive Intelligence Service DACIS
 Defense Base Closure And Realignment Commission: Report To The President 1995
 Defense Contract Management Agency
 Defense Industry Daily
 Defense Industry Reports
 Defense Information Systems Agency
 Defense Logistics Agency
-Defense Management Library – U.S. Army War College
+Defense Management Library - U.S. Army War College
 Defense Media Network
 Defense News
 Defense One
 Defense Review
 Defense Technical Information Center
-Defense Technical Information Center (DTIC)
+Defense Technical Information Center DTIC
 Defense Update
 Defense-Aerospace
 DefenseLink
@@ -2769,8 +2769,8 @@ Dickerson
 Dickerson's
 Dicky
 Dictator
-Dictionary of Admirals of the U.S. Navy - Volume 1, 1862–1900
-Dictionary of Admirals of the U.S. Navy - Volume 2, 1901–1918
+Dictionary of Admirals of the U.S. Navy - Volume 1, 1862-1900
+Dictionary of Admirals of the U.S. Navy - Volume 2, 1901-1918
 Dictionary of American Naval Fighting Ships
 Dictionary of American Naval Fighting Ships.
 Did not enter service
@@ -3246,7 +3246,7 @@ Extricate
 Exultant
 F. Bovesse
 F. J. Luckenbach
-F. Mansfield &amp; Sons Co.
+F. Mansfield & Sons Co.
 F.C. Fitzsimmons
 FAS Military Analysis Network
 FM 55-6: Military Transportation Service in Theaters of Operations
@@ -3299,7 +3299,7 @@ Farquhar
 Farragut
 Fashion
 Fast Competent Accurate
-Fast Fighting Boats, 1870–1945 Their Design, Construction, and Use.
+Fast Fighting Boats, 1870-1945 Their Design, Construction, and Use.
 Fast Tempo
 Faunce
 Favorite
@@ -3406,7 +3406,7 @@ Fly-And-Wire
 Flyer
 Flying Fish
 Flying Mustangs
-Flying Tigers: Gentle Paws&#8212;Sharp Claws
+Flying Tigers: Gentle Paws-Sharp Claws
 Flyingfish
 Foam
 Fogg
@@ -4228,8 +4228,8 @@ Headquarters Marine Corps
 Healy
 Healy-
 Hearing Before a Subcommittee of the Committee on Armed Services, United States Senate, Eighty-Sixth Congress, First Session on S. 1795: A Bill Amending Title 10, United States Code, to Revise Certain Provisions Relating to the Promotion and Involuntary Retirement of Officers of the Regular Components of the Armed Forces
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1941–&#91;1942&#93;: Seventy-Sixth Congress, First–&#91;Second&#93; Session, Volume 1
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1943–&#91;1944&#93;: Seventy-Sixth Congress, First–&#91;Second&#93; Session, Volume 1
+Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1941-&#91;1942&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
+Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1943-&#91;1944&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
 Hearings Before the Committee on Naval Affairs, House of Representatives, Sixty-Fourth Congress, First Session, on Estimates Submitted by the Secretary of the Navy, 1916, Volume 3
 Hearings Before the Subcommittee of the Committee on Appropriations, House of Representatives, Eighty-Sixth Congress, Second Session, Part 3: Financial Statements: Manpower, Personnel, and Reserves
 Hearings on National Defense Authorization Act for Fiscal Year 2002--H.R. 2586 and Oversight of Previously Authorized Programs, Before the Committee on Armed Services, House of Representatives, One Hundred Seventh Congress, First Session: Military Personnel Subcommittee Hearings on Title IV--personnel Authorizations, Title V--military Personnel Policy, Title VI--compensation and Other Personnel Benefits, Title VII--health Care Provisions, Hearings Held June 21, and July 18, 2001
@@ -4323,7 +4323,7 @@ Herreshoff No. 321
 Herreshoff No. 322
 Herreshoff No. 323
 Herring
-Hershel "Woody" Williams
+Hershel Woody Williams
 Herzog
 Hesperia
 Hess Voyager
@@ -4374,7 +4374,7 @@ Hist
 Historical Dictionary of the United States Navy
 Historical:
 History of United States Naval Operations: Korea
-History of the Atlantic Cable &amp; Undersea Communications
+History of the Atlantic Cable & Undersea Communications
 Hitchiti
 Hiwassee
 Hiyodori
@@ -4600,7 +4600,7 @@ Indra
 Indus
 Industry
 Inflict
-InfoAge Science &amp; History Museums
+InfoAge Science & History Museums
 Informare Laboramus
 Ingersoll
 Ingham
@@ -4626,12 +4626,12 @@ International
 Interpreter
 Interrupter
 Into Combat We Fly
-Into the Jet Age: Conflict and Change in Naval Aviation, 1945–1975, An Oral History
+Into the Jet Age: Conflict and Change in Naval Aviation, 1945-1975, An Oral History
 Intrepid
 Intrigue
 Invade
 Inver
-Investigation of the National Defense Program: Hearings Before A Special Committee Investigating The National Defense Program, United States Senate, Seventy-Ninth Congress, Second Session, Pursuant To S. Res. 55 (79th Congress), Part 33
+Investigation of the National Defense Program: Hearings Before A Special Committee Investigating The National Defense Program, United States Senate, Seventy-Ninth Congress, Second Session, Pursuant To S. Res. 55 79th Congress, Part 33
 Investigator
 Invincible
 Iolanda
@@ -4641,7 +4641,7 @@ Ionie
 Ionita
 Iosco
 Iowa
-Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942–1964: An Illustrated Technical Reference
+Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942-1964: An Illustrated Technical Reference
 Iowan
 Ipswich
 Ira Jeffery
@@ -4703,7 +4703,7 @@ J. M. Davis
 J. M. Guffey
 J. M. Woodworth
 J. R. Y. Blakely
-J. Reyner &amp; Son
+J. Reyner & Son
 J. Richard Ward
 J. W. McAndrew
 J. W. Wilder
@@ -4759,7 +4759,7 @@ Jamestown
 Jan Van Nassau
 Jane II
 Jane's Fighting Ships
-Jane's Fighting Ships 1960–61
+Jane's Fighting Ships 1960-61
 Jane's Fighting Ships of World War I.
 Janes.com
 Janssen
@@ -4943,7 +4943,7 @@ Joshua Appleby
 Joshua Humphreys
 Josiah Willard Gibbs
 Jouett
-Journal of Computations &amp; Modelling
+Journal of Computations & Modelling
 Joy
 Joy Bright Hancock
 Joyance
@@ -5354,8 +5354,8 @@ Lancewood
 Land units:
 Lander
 Landguard
-Landing Craft Mechanized (LCM)
-Landing Craft Tank (LCT)
+Landing Craft Mechanized LCM
+Landing Craft Tank LCT
 Lane Victory
 Lang
 Langley
@@ -5880,7 +5880,7 @@ Marine Adder
 Marine Carp
 Marine Corps Systems Command
 Marine Corps Times
-Marine Corpse Aviation Reconnaissance Association (MCARA)
+Marine Corpse Aviation Reconnaissance Association MCARA
 Marine Fiddler
 Marine Forces Reserve
 Marine Jupiter
@@ -5956,12 +5956,12 @@ Massapequa
 Massasoit
 Massey
 Massiac
-Master Chief Aircraft Maintenanceman (AFCM)
-Master Chief Aviation Boatswain's Mate (ABCM)
-Master Chief Avionics Technician (AVCM)
-Master Chief Constructionman (CUCM)
-Master chief Utilitiesman (UCCM)
-Master chief equipmentman (EQCM)
+Master Chief Aircraft Maintenanceman AFCM
+Master Chief Aviation Boatswain's Mate ABCM
+Master Chief Avionics Technician AVCM
+Master Chief Constructionman CUCM
+Master chief Utilitiesman UCCM
+Master chief equipmentman EQCM
 Master of the Sky
 Mastic
 Mataco
@@ -6082,8 +6082,8 @@ Melville
 Melvin
 Melvin Bell
 Melvin R. Nawman
-Member, Ad Hoc Committee to Study and Revise the Officer Personnel Act of 1947, 1960–1961.
-Member, Gorham Military Pay Study Group, 1962–1963.
+Member, Ad Hoc Committee to Study and Revise the Officer Personnel Act of 1947, 1960-1961.
+Member, Gorham Military Pay Study Group, 1962-1963.
 Memorable
 Memphis
 Men in Green Faces
@@ -6227,7 +6227,7 @@ Minivet
 Mink
 Minneapolis
 Minneapolis-Saint Paul
-Minneapolis–Saint Paul
+Minneapolis-Saint Paul
 Minnehaha
 Minnemac II
 Minneopa
@@ -6595,7 +6595,7 @@ Navsource Online
 Navsource.org
 Navy Data
 Navy Electronic Commerce Online
-Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress
+Navy Ford CVN-78 Class Aircraft Carrier Program: Background and Issues for Congress
 Navy Installations Command
 Navy League
 Navy Medicine
@@ -6733,7 +6733,7 @@ Nitze
 Nixie
 No Better Friend, No Worse Enemy
 No Mission Too Difficult, No Sacrifice Too Great, Duty First
-No Name (ex Puerto Rico)
+No Name ex Puerto Rico
 Noa
 Noble
 Noble Star
@@ -6763,7 +6763,7 @@ Norma
 Norman O. Pedrick
 Norman Scott
 Normandie
-Normandie ()
+Normandie 
 Normandy
 Normannia
 Norris
@@ -6958,7 +6958,7 @@ Oregon City
 Oregon Live
 Oregonian
 Orestes
-Organizing OPNAV (1970 - 2009)
+Organizing OPNAV 1970 - 2009
 Origny
 Oriole
 Orion
@@ -7560,7 +7560,7 @@ Porto Santo
 Portobago
 Portsmouth
 Portunus
-Poseidon (ARL-12)
+Poseidon ARL-12
 Positive
 Postillion
 Postmaster General
@@ -7741,7 +7741,7 @@ Quiros
 Quito
 Quonset
 R. B. Forbes
-R. E. &amp; A. H. Watson
+R. E. & A. H. Watson
 R. E. Lee
 R. Ney McNeely
 R. R. Cuyler
@@ -7818,7 +7818,7 @@ Raymond J. Anderton
 Raymonde
 Razorback
 Razorbill
-Read "Leveraging Unmanned Systems for Coast Guard Missions" at NAP.edu
+Read Leveraging Unmanned Systems for Coast Guard Missions at NAP.edu
 Reading
 Ready
 Ready for Sea
@@ -7863,10 +7863,10 @@ Register of Commissioned and Warrant Officers of the Active Duty List, NAVPERS 1
 Register of Commissioned and Warrant Officers of the United States Navy and Marine Corps
 Register of Commissioned and Warrant Officers of the United States Navy on Active Duty
 Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the USN, NAVPERS 15939
-Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the United States Navy and Marine Corps (1945, 1950–1984)
-Register of Ships of the US Navy, 1775–1990: Major Combatants
+Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the United States Navy and Marine Corps 1945, 1950-1984
+Register of Ships of the US Navy, 1775-1990: Major Combatants
 Register of ships of the U.S. Navy, 1775-1990
-Register of ships of the U.S. Navy, 1775–1990
+Register of ships of the U.S. Navy, 1775-1990
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1852
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1859
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1870
@@ -8549,8 +8549,8 @@ Senasqua
 Senator Ross
 Seneca
 Senibeil
-Senior Chief Constructionman (CUCS)
-Senior Member, Naval Clemency and Prison Inspection Board, 1943–1946.
+Senior Chief Constructionman CUCS
+Senior Member, Naval Clemency and Prison Inspection Board, 1943-1946.
 Sennet
 Senorita
 Sentinal
@@ -8657,7 +8657,7 @@ Shiloh
 Shinano
 Shiner
 Ship History Database Vessel Status Card
-Ship&#8205;name
+Shipname
 ShipSpotting.com
 Shipbuilding History
 Shipbuildinghistory.com
@@ -9158,7 +9158,7 @@ Taconic
 Taconnet
 Tacony
 Tact
-Tactical Night Vision Company (TNVC)
+Tactical Night Vision Company TNVC
 Tactical-Life.com
 Tadousac
 Taedong
@@ -9170,9 +9170,9 @@ Tahgayuta
 Tahoe
 Tahoma
 Taihō
-Tail codes with a first letter "A" denote Atlantic Fleet Air Task Groups, while "N" denotes Pacific Fleet Air Task Groups.
-Tail codes with a first letter "A" denote Atlantic Fleet airwings, while "N" denotes Pacific Fleet airwings.
-Tail codes with a first letter "A" denoted Atlantic Fleet air groups, while "N" denoted Pacific Fleet air groups (except for RCVSG 51 "RA" which was also a Pacific Fleet air group).
+Tail codes with a first letter A denote Atlantic Fleet Air Task Groups, while N denotes Pacific Fleet Air Task Groups.
+Tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
+Tail codes with a first letter A denoted Atlantic Fleet air groups, while N denoted Pacific Fleet air groups except for RCVSG 51 RA which was also a Pacific Fleet air group.
 Taiyo Maru
 Takana
 Takanami
@@ -9231,7 +9231,7 @@ Tarrant
 Tarrytown
 Tartar
 Tasco
-Task &amp; Purpose
+Task & Purpose
 Tasker H. Bliss
 Tasman
 Tat Sa
@@ -9321,14 +9321,14 @@ The Biographical Dictionary of World War II Generals and Flag Officers: The U.S.
 The Capital
 The Cincinnati Enquirer
 The Corps of Engineers: The War Against Germany
-The Corps of Engineers: Troops &amp; Equipment
+The Corps of Engineers: Troops & Equipment
 The Courier-Journal
 The Cut
 The Defense Post
 The District: A History of the Philadelphia District, U.S. Army Corps of Engineers 1866-1971
 The Drive
 The Ethiopian Herald
-The Evolution of the Sonobuoy from World War Ii to the Cold War (U)
+The Evolution of the Sonobuoy from World War Ii to the Cold War U
 The Eye of an Eagle
 The Fall of the Philippines
 The Free Library by Farlex
@@ -9336,7 +9336,7 @@ The Fresno Bee
 The Great Book of Modern Warplanes
 The History of the American Sailing Navy; The Ships and Their Development.
 The History of the U.S. Air Force
-The History of the Unified Command Plan, 1946–1993
+The History of the Unified Command Plan, 1946-1993
 The Hollywood Guard
 The Honolulu Advertiser
 The Last Patrol
@@ -9346,7 +9346,7 @@ The Mayor of Castro Street: The Life and Times of Harvey Milk
 The Mighty Mighty
 The Military Balance
 The Muncie Evening Press
-The Navy of the Nuclear Age, 1947–2007
+The Navy of the Nuclear Age, 1947-2007
 The New York Times
 The New-York Annual Register for the Year of Our Lord 1836
 The Official Bulletin
@@ -9364,11 +9364,11 @@ The Quartermaster Review
 The Records of Living Officers of the U.S. Navy and Marine Corps
 The Rock
 The Sacred Warriors: Japan's Suicide Legions
-The Sailing Navy, 1775–1854
+The Sailing Navy, 1775-1854
 The Scuba Doctor
-The Second Was Always First: 2nd Aircraft Repair Unit (Floating)
+The Second Was Always First: 2nd Aircraft Repair Unit Floating
 The Ships and Aircraft of the United States Fleet, Eighth Edition
-The Signal Corps: The Outcome (Mid-1943 Through 1945)
+The Signal Corps: The Outcome Mid-1943 Through 1945
 The Soupy Sales Show
 The Sullivans
 The Sunday Star
@@ -9383,7 +9383,7 @@ The Warzone
 The Washington Post
 The Week
 The What's New Magazine
-The White House, Washington D.C. (George W. Bush archive)
+The White House, Washington D.C. George W. Bush archive
 The Wilkes-Barre Record
 The Windsor Daily Star
 The Writings of George Washington from the Original Manuscript Sources, 1745-1799
@@ -9393,7 +9393,7 @@ The steam navy of the United States
 TheFreeLibrary by Farlex
 Theenim
 Thelma
-Thence Round Cape Horn: The Story of United States Naval Forces on Pacific Station, 1818–1923
+Thence Round Cape Horn: The Story of United States Naval Forces on Pacific Station, 1818-1923
 Thenceforward new heavy and light cruisers were numbered in a single sequence.
 Theodore E. Chandler
 Theodore Roosevelt
@@ -9403,7 +9403,7 @@ Thetis Bay
 They'll Have to Follow You!: The Triumph of the Great White Fleet
 Thi Tu
 This We'll Defend
-This wing still exists as Airborne Command &amp; Control and Logistics Wing
+This wing still exists as Airborne Command & Control and Logistics Wing
 This wing still exists as Electronic Attack Wing, U.S. Pacific Fleet
 This wing still exists as Fleet Logistics Support Wing
 This wing still exists as Helicopter Maritime Strike Wing, U.S. Atlantic Fleet
@@ -9428,7 +9428,7 @@ Thomas F. Farrell Jr.
 Thomas F. Nickel
 Thomas Freeborn
 Thomas G. Kelley
-Thomas G. Kelley (DDG-140)
+Thomas G. Kelley DDG-140
 Thomas G. Thompson
 Thomas Graham
 Thomas H. Barry
@@ -9696,7 +9696,7 @@ Twilight
 Twin Falls
 Twining
 Two Sisters
-Two letter tail codes with a first letter "A" denote Atlantic Fleet airwings, while "N" denotes Pacific Fleet airwings.
+Two letter tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
 Tybee
 Tyee
 Tyler
@@ -9711,8 +9711,8 @@ U.S. Air Force
 U.S. Aircraft Carriers: An Illustrated Design History
 U.S. Amphibious Ships and Craft: An Illustrated Design History
 U.S. Army
-U.S. Army (LT/ST #)
-U.S. Army Aircraft 1908–1946
+U.S. Army LT/ST #
+U.S. Army Aircraft 1908-1946
 U.S. Army Corps of Engineers
 U.S. Army Corps of Engineers Dredging Operations Technical Support Program
 U.S. Army Europe and Africa
@@ -9723,7 +9723,7 @@ U.S. Army Heraldic Crests: A Complete Illustrated History of Authorized Distinct
 U.S. Army Ships and Watercraft of World War II
 U.S. Army Space and Missile Defense Command
 U.S. Army Training and Doctrine Command
-U.S. Army Transportation in the Southwest Pacific Area 1941–1947
+U.S. Army Transportation in the Southwest Pacific Area 1941-1947
 U.S. Army Transportation in the Southwest Pacific Area, 1941-1947
 U.S. Battleships, An Illustrated Design History
 U.S. Central Command
@@ -9753,7 +9753,7 @@ U.S. Military about.com
 U.S. Naval Forces Europe and Africa / U.S. Sixth Fleet
 U.S. Naval Forces Europe-Africa/U.S. Sixth Fleet
 U.S. Naval Institute
-U.S. Naval Officers, Vice Admiral and Above, 1864–1963
+U.S. Naval Officers, Vice Admiral and Above, 1864-1963
 U.S. Navy
 U.S. Navy Auxiliary Vessels: A History and Directory from World War I to Today
 U.S. Navy Biographical Dictionary
@@ -9779,7 +9779,7 @@ UK Airports and Airfields
 UK Land Power
 US Army
 US Army Corps of Engineers
-US Army Order of Battle 1919–1941, vol. 2
+US Army Order of Battle 1919-1941, vol. 2
 US Army in Germany.com
 US Marine Corps
 US Marine Training Command
@@ -9831,7 +9831,7 @@ Union River Ironclad 1861-65
 Uniontown
 Unit
 United States
-United States Army In World War II – The Technical Services – The Transportation Corps: Movements, Training, And Supply
+United States Army In World War II - The Technical Services - The Transportation Corps: Movements, Training, And Supply
 United States Army In World War II-The Technical Services-The Transportation Corps: Movements, Training, And Supply
 United States Coast Guard
 United States Coast Guard Academy
@@ -9843,40 +9843,40 @@ United States Naval Institute Proceedings
 United States Navy
 United States Navy Aircraft since 1911
 United States Navy Biographies
-United States Navy Flag Officers (Public), April 2021
-United States Navy Flag Officers (Public), April 2022
-United States Navy Flag Officers (Public), April 2023
-United States Navy Flag Officers (Public), August 2021
-United States Navy Flag Officers (Public), August 2022
-United States Navy Flag Officers (Public), August 2024
-United States Navy Flag Officers (Public), December 2022
-United States Navy Flag Officers (Public), February 2022
-United States Navy Flag Officers (Public), February 2023
-United States Navy Flag Officers (Public), February 2024
-United States Navy Flag Officers (Public), January 2021
-United States Navy Flag Officers (Public), January 2022
-United States Navy Flag Officers (Public), January 2023
-United States Navy Flag Officers (Public), January 2024
-United States Navy Flag Officers (Public), July 2021
-United States Navy Flag Officers (Public), July 2022
-United States Navy Flag Officers (Public), July 2024
-United States Navy Flag Officers (Public), June 2021
-United States Navy Flag Officers (Public), June 2022
-United States Navy Flag Officers (Public), March 2021
-United States Navy Flag Officers (Public), March 2022
-United States Navy Flag Officers (Public), March 2023
-United States Navy Flag Officers (Public), March 2024
-United States Navy Flag Officers (Public), May 2021
-United States Navy Flag Officers (Public), May 2022
-United States Navy Flag Officers (Public), May 2023
-United States Navy Flag Officers (Public), November 2021
-United States Navy Flag Officers (Public), November 2022
-United States Navy Flag Officers (Public), October 2021
-United States Navy Flag Officers (Public), October 2022
-United States Navy Flag Officers (Public), October 2024
-United States Navy Flag Officers (Public), September 2021
-United States Navy Flag Officers (Public), September 2022
-United States Navy Flag Officers (Public), September 2024
+United States Navy Flag Officers Public, April 2021
+United States Navy Flag Officers Public, April 2022
+United States Navy Flag Officers Public, April 2023
+United States Navy Flag Officers Public, August 2021
+United States Navy Flag Officers Public, August 2022
+United States Navy Flag Officers Public, August 2024
+United States Navy Flag Officers Public, December 2022
+United States Navy Flag Officers Public, February 2022
+United States Navy Flag Officers Public, February 2023
+United States Navy Flag Officers Public, February 2024
+United States Navy Flag Officers Public, January 2021
+United States Navy Flag Officers Public, January 2022
+United States Navy Flag Officers Public, January 2023
+United States Navy Flag Officers Public, January 2024
+United States Navy Flag Officers Public, July 2021
+United States Navy Flag Officers Public, July 2022
+United States Navy Flag Officers Public, July 2024
+United States Navy Flag Officers Public, June 2021
+United States Navy Flag Officers Public, June 2022
+United States Navy Flag Officers Public, March 2021
+United States Navy Flag Officers Public, March 2022
+United States Navy Flag Officers Public, March 2023
+United States Navy Flag Officers Public, March 2024
+United States Navy Flag Officers Public, May 2021
+United States Navy Flag Officers Public, May 2022
+United States Navy Flag Officers Public, May 2023
+United States Navy Flag Officers Public, November 2021
+United States Navy Flag Officers Public, November 2022
+United States Navy Flag Officers Public, October 2021
+United States Navy Flag Officers Public, October 2022
+United States Navy Flag Officers Public, October 2024
+United States Navy Flag Officers Public, September 2021
+United States Navy Flag Officers Public, September 2022
+United States Navy Flag Officers Public, September 2024
 United States Navy Uniform Regulations
 United States Navy Uniform Regulations CPO Rating
 United States Senate
@@ -9973,7 +9973,7 @@ Vermilion
 Vermillion
 Vermillion Bay
 Vermont
-Verna &amp; Esther
+Verna & Esther
 Vernon County
 Veronica
 Versatility
@@ -10090,7 +10090,7 @@ Wahpeton
 Wahtah
 Wailaki
 Wainwright
-Waiting for Dead Men's Shoes: Origins and Development of the U.S. Navy's Officer Personnel System, 1793–1941
+Waiting for Dead Men's Shoes: Origins and Development of the U.S. Navy's Officer Personnel System, 1793-1941
 Wakataka
 Wake
 Wake Island
@@ -10501,12 +10501,12 @@ Windigo
 Winding Gulf
 Windlass
 Windom
-Winds of Change: The History of the Office of the Master Chief Petty Officer of the Navy 1967–1992
+Winds of Change: The History of the Office of the Master Chief Petty Officer of the Navy 1967-1992
 Windsor
 Windward
 Winfield S. Cahill
 Winged Arrow
-Winged Shield, Winged Sword 1950–1997: A History of the United States Air Force
+Winged Shield, Winged Sword 1950-1997: A History of the United States Air Force
 Wingfield
 Wingina
 Wings for the Navy: A History of the Naval Aircraft Factory, 1917-1956
@@ -10694,5 +10694,5 @@ Zumwalt
 Zumwalt-class
 Zuni
 active as of Aug 2020
-i.e., those reserve officers who are not currently serving on the Training and Administration of the Reserve (TAR) Program, or appointed from the Naval Reserve Integration Program, or a member of the Retired Reserve, see immediately below).
+i.e., those reserve officers who are not currently serving on the Training and Administration of the Reserve TAR Program, or appointed from the Naval Reserve Integration Program, or a member of the Retired Reserve, see immediately below.
 iBiblio

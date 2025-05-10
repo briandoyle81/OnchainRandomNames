@@ -1,4 +1,4 @@
-"Rodman-1250 class"
+Rodman-1250 class
 -   Guadalete
 A-11 Marques de la Ensenada
 A-11 Teide
@@ -188,7 +188,7 @@ Contramaestre Castelló
 Contramaestre Lamadrid
 Contramaestre Navarrete
 Contramaestre Sanchez Fernandez
-Conway's All the World's Fighting Ships 1906–1921
+Conway's All the World's Fighting Ships 1906-1921
 Corcuera
 Cornelia
 Cornelie

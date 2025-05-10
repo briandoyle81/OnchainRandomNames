@@ -214,7 +214,7 @@ Breton
 Bretonne
 Brillant
 Brillante
-British Battleships 1889–1904
+British Battleships 1889-1904
 British, Soviet, French, and Dutch Battleships of World War II
 Bruix
 Brumaire
@@ -350,9 +350,9 @@ Constance
 Constant
 Constitution
 Content
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1906–1921
-Conway's All the World's Fighting Ships 1922–1946
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1906-1921
+Conway's All the World's Fighting Ships 1922-1946
 Coquille
 Corail
 Cormoran
@@ -418,7 +418,7 @@ Diadème
 Diamant
 Diane
 Dictionnaire des Bâtiments de la Flotte de Guerre Française de Colbert a nos jours
-Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 1 1671 – 1870
+Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 1 1671 - 1870
 Diderot
 Didon
 Dieppoise
@@ -427,7 +427,7 @@ Diligente
 Diomede
 Directory of the World's Capital Ships
 Dixmude
-Documents figurant dans les archives de l'Afrique Occidentale française (série Affaires agricoles, sous-série Pêche).: Tableaux thematiques des dossiers 1 à 16
+Documents figurant dans les archives de l'Afrique Occidentale française série Affaires agricoles, sous-série Pêche.: Tableaux thematiques des dossiers 1 à 16
 Dogger Bank
 Dom Vasco de Gama
 Dona Maria Primera
@@ -442,7 +442,7 @@ Dreadnought
 Drogou
 Dryade
 Du Chayla
-Du Nautilus (1800) au Redoutable
+Du Nautilus 1800 au Redoutable
 Dubourdieu
 Duc
 Duc d'Orléans
@@ -594,22 +594,22 @@ François
 Franklin
 Fraternité
 Frederika Sophia Wilhelmina
-Frégate – Marine de France 1650–1850
+Frégate - Marine de France 1650-1850
 Frégates du Deuxième Ordre
 Frégates du Premier Ordre
 Frégates légères
-French Armoured Cruisers 1887–1932
-French Battleships 1922–1956
+French Armoured Cruisers 1887-1932
+French Battleships 1922-1956
 French Battleships of World War One
-French Cruisers 1922 – 1956
+French Cruisers 1922 - 1956
 French Ruby
 French Victory
 French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates
-French Warships in the Age of Sail 1626–1786: Design, Construction, Careers and Fates.
+French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates.
 French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates
 French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Sail 1786–1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Steam 1859–1914
+French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
+French Warships in the Age of Steam 1859-1914
 Fresnel
 Friant
 Friedland
@@ -643,7 +643,7 @@ Gentille
 Georges Leygues
 Gerfaut
 Germinal
-Giardino d'Olanda (Hollandsche Tuyn
+Giardino d'Olanda Hollandsche Tuyn
 Giffard
 Glaive
 Gloire
@@ -1103,7 +1103,7 @@ Partisan
 Pascal
 Pasteur
 Patrie
-Patriote (Coquille) 
+Patriote Coquille 
 Paul Goffeny
 Pégase
 Pei-ho
@@ -1296,7 +1296,7 @@ Serpente
 Sévère
 Severn
 Sfax
-Shipping &amp; Mercantile Gazette, and Lloyd's List
+Shipping & Mercantile Gazette, and Lloyd's List
 Sibylle
 Sidi Ferruch
 Silure
@@ -1363,15 +1363,15 @@ The 50-gun Ship
 The 50-gun ship
 The Complete Encyclopedia of Battleships: A Technical Directory of Capital Ships from 1860 to the Present Day
 The Complete Story of the Martinique Horror and Other Great Disasters
-The Development of a Modern Navy, French Naval Policy 1871–1904
-The Development of a Modern Navy: French Naval Policy, 1871–1904
+The Development of a Modern Navy, French Naval Policy 1871-1904
+The Development of a Modern Navy: French Naval Policy, 1871-1904
 The Late Victorian Navy: The Pre-dreadnought Era and the Origins of the First World War
 The Naval Annual
 The Naval Annual 1886
 The Naval Annual 1887
 The Naval Annual 1890
-The Naval War in the Mediterranean: 1914–1918
-The Navy League Annual, 1908–1909
+The Naval War in the Mediterranean: 1914-1918
+The Navy League Annual, 1908-1909
 The Royal Navy: A History From the Earliest Times to the Death of Queen Victoria
 The Sun King's Vessels
 The Voyage of Forgotten Men

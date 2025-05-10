@@ -292,8 +292,8 @@ Meersburg
 Schwarzwald
 Gorch Fock
 Gorch Fock
-Conway's All the World's Fighting Ships 1947–1982
-Jane's Fighting Ships 1949–50
+Conway's All the World's Fighting Ships 1947-1982
+Jane's Fighting Ships 1949-50
 Brandenburg
 Zerstörer
 Hamburg
@@ -479,7 +479,7 @@ Weihe
 Pinguin
 Reiher
 Kranich
-(upgraded Type 320 Lindau class minesweepers, decommissioned)
+upgraded Type 320 Lindau class minesweepers, decommissioned
 Fulda
 Flensburg
 Lindau
@@ -511,7 +511,7 @@ Kulmbach
 Herten
 Passau
 Laboe
-(upgraded Type 320 Lindau class minesweepers, decommissioned)
+upgraded Type 320 Lindau class minesweepers, decommissioned
 Ulm
 Schleswig
 Wolfsburg
@@ -976,19 +976,19 @@ Battleships
 Battleships
 The Destruction of the Bismarck
 Erich Raeder: Admiral of the Third Reich
-Conway's All the World's Fighting Ships 1906–1921
+Conway's All the World's Fighting Ships 1906-1921
 Battleships: Axis and Neutral Battleships in World War II
-German Warships: 1815–1945
+German Warships: 1815-1945
 A Naval History of World War I
-"Luxury" Fleet: The Imperial German Navy 1888–1918
+Luxury Fleet: The Imperial German Navy 1888-1918
 Battleships of World War I
 The Ironclads
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1922–1946
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1922-1946
 Battle for the Baltic Islands 1917: Triumph of the Imperial German Navy
 Conway's All the World's Battleships: 1906 to the Present
 Jutland: The German Perspective
-The Kaiser's Battlefleet: German Capital Ships 1871–1918
+The Kaiser's Battlefleet: German Capital Ships 1871-1918
 Acheron
 Acheron
 Acheron
@@ -1658,8 +1658,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -1731,7 +1731,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -1856,7 +1856,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -2974,8 +2974,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -3047,7 +3047,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -3172,7 +3172,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -4290,8 +4290,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -4363,7 +4363,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -4488,7 +4488,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -5606,8 +5606,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -5679,7 +5679,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -5804,7 +5804,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -6922,8 +6922,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -6995,7 +6995,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -7120,7 +7120,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -8238,8 +8238,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -8311,7 +8311,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -8436,7 +8436,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -9554,8 +9554,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -9627,7 +9627,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -9752,7 +9752,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -10870,8 +10870,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -10943,7 +10943,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -11068,7 +11068,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -12186,8 +12186,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -12259,7 +12259,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -12384,7 +12384,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -13502,8 +13502,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -13575,7 +13575,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -13700,7 +13700,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -14818,8 +14818,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -14891,7 +14891,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -15016,7 +15016,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -16134,8 +16134,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -16207,7 +16207,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -16332,7 +16332,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -17450,8 +17450,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -17523,7 +17523,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -17648,7 +17648,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -18766,8 +18766,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -18839,7 +18839,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -18964,7 +18964,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -20082,8 +20082,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -20155,7 +20155,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -20280,7 +20280,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -21398,8 +21398,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -21471,7 +21471,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -21596,7 +21596,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter
@@ -22714,8 +22714,8 @@ Tiger
 Krebs
 Kreta
 Krischan der Große
-Gunther Plüschow)
-Bernhard von Tschirschk)
+Gunther Plüschow
+Bernhard von Tschirschk
 Krischan
 Kriemhild
 Krokodil
@@ -22787,7 +22787,7 @@ Lütjens
 Derfflinger
 Admiral Hipper
 Deutschland
-Lützow (1941)
+Lützow 1941
 Luise
 Lumme
 Mackensen
@@ -22912,7 +22912,7 @@ Oste
 Helgoland
 Ostmark
 Ostmark
-Ostseeland (II)
+Ostseeland II
 Ostseeland
 Oswald
 Otter

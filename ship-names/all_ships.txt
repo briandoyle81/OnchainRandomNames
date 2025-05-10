@@ -21,7 +21,7 @@
  3 Jan 1942
  3 Jun 1946
  5 Feb 1946
- British Warships in the Age of Sail: 1714–1792. 
+ British Warships in the Age of Sail: 1714-1792. 
  Horatio
  Hull
  Malpe
@@ -29,193 +29,193 @@
  Vercingetorix
  Washington
  Zinzolin
- – India 1965
-"Advanced workboats"
-"Hawke"
-"Långgarn"
-"Luxury" Fleet: The Imperial German Navy 1888–1918
-"Peace Ark"
-"Qi Jiguang"
-"Rodman-1250 class"
-"These would be the future ships of the Indian Navy and will be of the Shivalik class"
-"Zheng He"
-(**) Undergoing trials
-(Apricot)
-(April)
-(Arrow&#160;Wind)
-(Autumn Clouds)
-(Autumn Frost)
-(Autumn Gale)
-(Autumn Moon)
-(Autumn&#160;Wind)
-(Bamboo)
-(Beach Waves)
-(Beach Wind)
-(Big Rough Waves)
-(Birch)
-(Black Tide)
-(Blizzard)
-(Breaking Waves)
-(Bush Clover)
-(Camellia)
-(Camphor)
-(Castanopsis)
-(Cedar)
-(Cherry Blossom)
-(Chrysanthemum Moon)
-(Cirrus Clouds)
-(Clear Frost)
-(Clear Moon in Autumn)
-(Clear Wave)
-(Clover Wind)
-(Cool Breeze)
-(Crescent&#160;Moon)
-(Dancing Wind)
-(Dawn)
-(Daybreak)
-(Deep Snow)
-(Divine&#160;Wind)
-(Drizzle)
-(Drottning) Sofia Magdalena
-(Early Frost)
-(Early Spring)
-(Early Summer Rain)
-(Early Waves)
-(Early-blooming Cherry)
-(Early-blooming Plum)
-(Echo)
-(Elm)
-(Evening Clouds)
-(Evening Mist)
-(Evening Moon)
-(Evening Squall)
-(Evening&#160;Calm)
-(Evening&#160;Moon)
-(Evening&#160;Wind)
-(Father Current)
-(Favorable Wind)
-(February)
-(Field&#160;Wind)
-(First Frost)
-(First Snow)
-(First Wind)
-(Flag&#160;Wind)
-(Flower Moon)
-(Full Tide)
-(Full&#160;Moon)
-(Gale)
-(Great Bamboo)
-(Greve) Sparre
-(Hailstone)
-(Haze)
-(Heavenly Wind)
-(High Seas Waves)
-(High Tide)
-(High&#160;Seas&#160;Wind)
-(Island Wind)
-(Island&#160;Wind)
-(Ivy)
-(Jade Wave)
-(January)
-(Japanese Cypress)
-(Japanese Elm)
-(Japanese Nutmeg-Yew)
-(July)
-(June)
-(Konung) Adolph Fredrik
-(Konung) Gustaf III
-(Lightning)
-(Live Oak)
-(Long Waves)
-(Maple)
-(March)
-(Marsh&#160;Wind)
-(Massed Clouds)
-(Maximum range of 1,000 km)
-(Maximum range of 3,500 km)
-(Maximum range of 5,500 km)
-(May)
-(Mirage)
-(Moonlight)
-(Morning Cloud)
-(Morning Fog)
-(Morning Frost)
-(Morning Tide)
-(Morning&#160;Calm)
-(Morning&#160;Wind)
-(Mountain Cloud)
-(Mountain Wind)
-(Mulberry)
-(Nettle Tree)
-(New Moon in Autumn)
-(New Moon)
-(New Year Day)
-(November)
-(Oak)
-(Offshore&#160;Wind)
-(Overflowing Waves)
-(Passing Shower)
-(Paulownia Hardwood)
-(Peach)
-(Persimmon)
-(Phosphorescent Light)
-(Pine Tree)
-(Pine&#160;Wind)
-(Podocarp Hardwood)
-(Prins) Fredrik Adolph
-(Prinsesse), Sophia Charlotta
-(Prinsessin) Sophia Albertina
-(Purple Wave)
-(Range greater than 5,500 km)
-(Ripples)
-(River Wind)
-(Sail&#160;Wind)
-(Sankt) Hieronymus
-(Sea Breeze)
-(September)
-(Shining Moon)
-(Shore Wave)
-(Shore Waves)
-(Snowy Wind)
-(Spreading Waves)
-(Spring Moon)
-(Spring Rain)
-(Spring&#160;Wind)
-(Storm)
-(Stormy Tide)
-(Summer Cloud)
-(Summer Moon)
-(Summer Tide)
-(Summit Cloud)
-(Summit&#160;Wind)
-(Svensk Konstruktionstjänst AB)
-(Swift Tide)
-(Sword&#160;Wind)
-(Tail&#160;Wind)
-(Tall Wave)
-(Thin Clouds)
-(Thunder)
-(Tide&#160;Wind)
-(Tide)
-(Twilight)
-(Twilled Waves)
-(Unità Navale Polifunzionale ad Alta Velocità)
-(Valley Wind)
-(Violet)
-(Wave&#160;Wind)
-(White Cloud)
-(White Dew)
-(White Fir)
-(White Snow)
-(Willow)
-(Wind and Clouds)
-(Wind on the Beach)
-(Wind on the Sea)
-(Winged&#160;Wind)
-(Winter Moon)
-(Young Leaves)
-(Young Moon)
-(upgraded Type 320 Lindau class minesweepers, decommissioned)
+ - India 1965
+Advanced workboats
+Hawke
+Långgarn
+Luxury Fleet: The Imperial German Navy 1888-1918
+Peace Ark
+Qi Jiguang
+Rodman-1250 class
+These would be the future ships of the Indian Navy and will be of the Shivalik class
+Zheng He
+** Undergoing trials
+Apricot
+April
+Arrow Wind
+Autumn Clouds
+Autumn Frost
+Autumn Gale
+Autumn Moon
+Autumn Wind
+Bamboo
+Beach Waves
+Beach Wind
+Big Rough Waves
+Birch
+Black Tide
+Blizzard
+Breaking Waves
+Bush Clover
+Camellia
+Camphor
+Castanopsis
+Cedar
+Cherry Blossom
+Chrysanthemum Moon
+Cirrus Clouds
+Clear Frost
+Clear Moon in Autumn
+Clear Wave
+Clover Wind
+Cool Breeze
+Crescent Moon
+Dancing Wind
+Dawn
+Daybreak
+Deep Snow
+Divine Wind
+Drizzle
+Drottning Sofia Magdalena
+Early Frost
+Early Spring
+Early Summer Rain
+Early Waves
+Early-blooming Cherry
+Early-blooming Plum
+Echo
+Elm
+Evening Clouds
+Evening Mist
+Evening Moon
+Evening Squall
+Evening Calm
+Evening Moon
+Evening Wind
+Father Current
+Favorable Wind
+February
+Field Wind
+First Frost
+First Snow
+First Wind
+Flag Wind
+Flower Moon
+Full Tide
+Full Moon
+Gale
+Great Bamboo
+Greve Sparre
+Hailstone
+Haze
+Heavenly Wind
+High Seas Waves
+High Tide
+High Seas Wind
+Island Wind
+Island Wind
+Ivy
+Jade Wave
+January
+Japanese Cypress
+Japanese Elm
+Japanese Nutmeg-Yew
+July
+June
+Konung Adolph Fredrik
+Konung Gustaf III
+Lightning
+Live Oak
+Long Waves
+Maple
+March
+Marsh Wind
+Massed Clouds
+Maximum range of 1,000 km
+Maximum range of 3,500 km
+Maximum range of 5,500 km
+May
+Mirage
+Moonlight
+Morning Cloud
+Morning Fog
+Morning Frost
+Morning Tide
+Morning Calm
+Morning Wind
+Mountain Cloud
+Mountain Wind
+Mulberry
+Nettle Tree
+New Moon in Autumn
+New Moon
+New Year Day
+November
+Oak
+Offshore Wind
+Overflowing Waves
+Passing Shower
+Paulownia Hardwood
+Peach
+Persimmon
+Phosphorescent Light
+Pine Tree
+Pine Wind
+Podocarp Hardwood
+Prins Fredrik Adolph
+Prinsesse, Sophia Charlotta
+Prinsessin Sophia Albertina
+Purple Wave
+Range greater than 5,500 km
+Ripples
+River Wind
+Sail Wind
+Sankt Hieronymus
+Sea Breeze
+September
+Shining Moon
+Shore Wave
+Shore Waves
+Snowy Wind
+Spreading Waves
+Spring Moon
+Spring Rain
+Spring Wind
+Storm
+Stormy Tide
+Summer Cloud
+Summer Moon
+Summer Tide
+Summit Cloud
+Summit Wind
+Svensk Konstruktionstjänst AB
+Swift Tide
+Sword Wind
+Tail Wind
+Tall Wave
+Thin Clouds
+Thunder
+Tide Wind
+Tide
+Twilight
+Twilled Waves
+Unità Navale Polifunzionale ad Alta Velocità
+Valley Wind
+Violet
+Wave Wind
+White Cloud
+White Dew
+White Fir
+White Snow
+Willow
+Wind and Clouds
+Wind on the Beach
+Wind on the Sea
+Winged Wind
+Winter Moon
+Young Leaves
+Young Moon
+upgraded Type 320 Lindau class minesweepers, decommissioned
 ** = Under construction
 *STRKFIGHTWINGLANT and STRKFIGHTWINGPAC are not disestablished wings, nor are they former designations of currently active wings. They are included in this table only to present a complete picture of the type wing structure as it existed as a result of the 1993 reorganization.
 -   Guadalete
@@ -244,7 +244,7 @@
 1745 Establishment
 18 Mart
 18 Sep 1945
-1936A (Mob)
+1936A Mob
 1965 War, the Inside Story: Defence Minister Y.B. Chavan's Diary of India-Pakistan War
 1980s modification added 32 × Tomahawk and 16 × Harpoon missiles and 4 × Phalanx CIWS
 1st Lt. Alex Bonnyman
@@ -268,7 +268,7 @@
 2nd Battalion, 5th Marines
 2nd Lt John P. Bobo
 2nd Lt. John P. Bobo
-300-ton Underwater Disposal Mother Ship (New Ship of the Maritime Self-Defense Force), Ships of the World
+300-ton Underwater Disposal Mother Ship New Ship of the Maritime Self-Defense Force, Ships of the World
 31 Oct 1944
 557th Weather Wing
 65 Foot
@@ -283,7 +283,7 @@
 A Century of French Battleships
 A Flock of Ships
 A History of the Administration of the Royal Navy and of Merchant Shipping in Relation to the Navy
-A History of the Administration on the Royal Navy (sic!) 1509–1660
+A History of the Administration on the Royal Navy sic! 1509-1660
 A History of the French Navy, from its beginnings to the present day
 A Naval Encyclopædia: Comprising A Dictionary of Nautical Words and Phrases; Biographical Notices, and Records of Naval Officers; Special Articles of Naval Art and Science
 A Naval History of World War I
@@ -315,7 +315,7 @@ A.N.M.I. Pordenone
 A1C William H. Pitsenbarger
 ABC News
 AJW by The Asahi Shimbun
-ALE-39(V) - Archived 02/2008
+ALE-39V - Archived 02/2008
 AMc-143
 AMc-144
 AMc-145
@@ -374,7 +374,7 @@ AMc-198
 AMc-199
 AMc-200
 AMc-201
-AN/ALR-64 (V) Radar Warning Receiver System: Block Cycle Updates and 1553B
+AN/ALR-64 V Radar Warning Receiver System: Block Cycle Updates and 1553B
 ANI News
 AOL Defense
 APc-1
@@ -612,7 +612,7 @@ Ad Excelsum Conamur
 Ada
 Adair
 Adak
-Adam &amp; Eve
+Adam & Eve
 Adam Kuckhoff
 Adamant
 Adamant II
@@ -807,8 +807,8 @@ Ain Zaghouan
 Ainduie
 Ainsworth
 Ainthorpe
-Air &amp; Space Forces Magazine
-Air &amp; Space Magazine
+Air & Space Forces Magazine
+Air & Space Magazine
 Air Combat Command
 Air Force Global Strike Command
 Air Force Instruction 36-2226, Combat Arms Program, Supplement 1
@@ -827,7 +827,7 @@ Air Vectors
 Air units:
 AirForce.lk
 Airavat
-Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events. Volume 1, 1909–1945
+Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events. Volume 1, 1909-1945
 Aircraft Carriers: The World's Greatest Naval Vessels and Their Aircraft By Richard Jones, Chris Bishop, Chris Chant, Christopher Chant
 Aircraft of the Indian Air Force 1933-1973
 Aircraft, Boats, and Cutters: Cutters
@@ -1071,7 +1071,7 @@ Algorma
 Alhena
 Alican Deval
 Alice
-Alice &amp; Francis
+Alice & Francis
 Alice Clair
 Alice May
 Alice Roosevelt
@@ -1087,7 +1087,7 @@ Alkmaar
 All The Way
 All World Wars
 All the Nice Girls
-All the World's Fighting Ships 1947–1995
+All the World's Fighting Ships 1947-1995
 Allagash
 Allamakee
 Allaquippa
@@ -1247,7 +1247,7 @@ America
 America-class
 American
 American Arrow
-American Battleships 1896–1923: Predreadnought Design and Construction
+American Battleships 1896-1923: Predreadnought Design and Construction
 American Condor
 American Cormorant
 American Cruisers of World War II
@@ -1268,7 +1268,7 @@ American Victory
 Amerigo Vespucci
 Amerika
 Amerika'nin Sesi | Voice of America - Turkish
-Amerika'nin Sesi | Voice of America – Turkish
+Amerika'nin Sesi | Voice of America - Turkish
 Amersham
 Amerton
 Amesbury
@@ -1415,8 +1415,8 @@ Anking
 Anklam
 Ankola
 Ann
-Ann &amp; Christopher
-Ann &amp; Judith
+Ann & Christopher
+Ann & Judith
 Anna
 Anna B. Smith
 Anna Maria
@@ -1595,7 +1595,7 @@ Archerfish
 Archie
 Archimede
 Archimède
-Archived Report - AN/ALQ-165(V) (ASPJ)
+Archived Report - AN/ALQ-165V ASPJ
 Arcíla
 Arcims
 Arco
@@ -1659,7 +1659,7 @@ Arizonan
 Arjun
 Ark
 Ark Royal
-Ark&#160;Royal
+Ark Royal
 Arkab
 Arkadi
 Arkansas
@@ -1707,7 +1707,7 @@ Arms of Terver
 Arms trade
 Armstrade.org
 Armstrong County
-Army Code No. 71996, DCC Training Volume II, Skill at Arms (Personal Weapons), General Service Pistol L131A1
+Army Code No. 71996, DCC Training Volume II, Skill at Arms Personal Weapons, General Service Pistol L131A1
 Army Hospital Ships in WWII
 Army Pride
 Army Recognition
@@ -2355,11 +2355,11 @@ Battler
 Battleship Cove
 Battleship NC
 Battleships
-Battleships and Battle Cruisers, 1905–1970
+Battleships and Battle Cruisers, 1905-1970
 Battleships in Transition
-Battleships in Transition, the Creation of the Steam Battlefleet 1815–1860
+Battleships in Transition, the Creation of the Steam Battlefleet 1815-1860
 Battleships of World War I
-Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918
+Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914-1918
 Battleships of World War II
 Battleships of World War Two: An International Encyclopedia
 Battleships: An Illustrated History of their Impact
@@ -2457,7 +2457,7 @@ Beelzebub
 Beer
 Beeston Castle
 Beeville
-Before Jutland: The Naval War in Northern European Waters, August 1914 – February 1915
+Before Jutland: The Naval War in Northern European Waters, August 1914 - February 1915
 Before Port Arthur In A Destroyer; The Personal Diary Of A Japanese Naval Officer.
 Begin with the Best
 Begna
@@ -2534,7 +2534,7 @@ Benham
 Benicia
 Benisouef
 Benjamin
-Benjamin &amp; Ann
+Benjamin & Ann
 Benjamin Bottoms
 Benjamin Dailey
 Benjamin Franklin
@@ -2598,7 +2598,7 @@ Bernard C. Webber
 Bernardino Rivadavia
 Bernd von Arnim
 Berneval
-Bernhard von Tschirschk)
+Bernhard von Tschirschk
 Bernhard von Tschirschky
 Bernoulli
 Berrien
@@ -2679,7 +2679,7 @@ Biddeford
 Biddle
 Biddle/Claude V. Rickets
 Bideford
-Bie &amp; Schiott
+Bie & Schiott
 Bielik
 Bien-Aimé
 Biene
@@ -2724,7 +2724,7 @@ Birka
 Birkenhead
 Birmingham
 Birnbeck
-Birth of the Battleship: British Capital Ship Design 1870–1881
+Birth of the Battleship: British Capital Ship Design 1870-1881
 Bisbee
 Biscayne
 Biscayne Bay
@@ -2867,8 +2867,8 @@ Bluebird class
 Bluefin
 Bluefish
 Bluegill
-Blueprint to Bluewater, the Indian Navy, 1951–65
-Blueprint to Bluewater: The Indian Navy, 1951–65
+Blueprint to Bluewater, the Indian Navy, 1951-65
+Blueprint to Bluewater: The Indian Navy, 1951-65
 Bluffton
 Blyth
 Boadicea
@@ -3062,7 +3062,7 @@ Boy Scout
 Boyana
 Boyarin
 Boyd
-Boyevye korabli russkogo flota 8.1914–10.1918 gody: Spravochnik / Red. Yu. V. Apalkov. – INTEK
+Boyevye korabli russkogo flota 8.1914-10.1918 gody: Spravochnik / Red. Yu. V. Apalkov. - INTEK
 Boyle
 Boyne
 Bozcaada
@@ -3215,20 +3215,20 @@ Bristol County
 Britannia
 Britannia III
 Britannic
-British &amp; Empire Warships of the Second World War
+British & Empire Warships of the Second World War
 British Aircraft Carriers: Design, Development and Service Histories
 British Battleships
-British Battleships 1889–1904
-British Battleships 1919–1945
+British Battleships 1889-1904
+British Battleships 1919-1945
 British Battleships of World War One
 British Battleships of World War Two: The Development and Technical History of the Royal Navy's Battleship and Battlecruisers from 1911 to 1946
 British Battleships of the Victorian Era
-British Battleships, 1892–1957: The Great Days of the Fleets
-British Battleships, 1919–1939
+British Battleships, 1892-1957: The Great Days of the Fleets
+British Battleships, 1919-1939
 British Beacon
 British Cruisers of the Victorian Era
-British Destroyers &amp; Frigates: The Second World War &amp; After
-British Destroyers &amp; Frigates: The Second World War and After
+British Destroyers & Frigates: The Second World War & After
+British Destroyers & Frigates: The Second World War and After
 British Destroyers From Earliest Days to the Second World War
 British Lady
 British Lantern
@@ -3236,27 +3236,27 @@ British Light
 British Naval Policy in the Gladstone-Disraeli Era
 British Star
 British Warship Losses in the Age of Sail, 1650-1859
-British Warships 1914–1919
+British Warships 1914-1919
 British Warships and Auxiliaries
 British Warships in the Age of Sail 1603-1714
-British Warships in the Age of Sail 1603-1714: Design, Construction, Careers &amp; Fates
-British Warships in the Age of Sail 1603–1714
-British Warships in the Age of Sail 1603–1714: Design, Construction, Careers and Fates
-British Warships in the Age of Sail 1714–1792
-British Warships in the Age of Sail 1714–1792: Design, Construction, Careers and Fates
-British Warships in the Age of Sail 1793–1817: Design, Construction, Careers and Fates
+British Warships in the Age of Sail 1603-1714: Design, Construction, Careers & Fates
+British Warships in the Age of Sail 1603-1714
+British Warships in the Age of Sail 1603-1714: Design, Construction, Careers and Fates
+British Warships in the Age of Sail 1714-1792
+British Warships in the Age of Sail 1714-1792: Design, Construction, Careers and Fates
+British Warships in the Age of Sail 1793-1817: Design, Construction, Careers and Fates
 British Warships in the Age of Sail, 1603-1714: Design, Construction, Careers and fates
-British Warships in the Age of Sail: 1603–1714 – Design, Construction, Careers and Fates
-British Warships in the Age of Sail: 1793–1817 – Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1603–1714
-British Warships of the Age of Sail 1603–1714: Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1714&#8211;1793
-British Warships of the Age of Sail 1714–1792: Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1714–1793
-British Warships of the Age of Sail 1793–1817
-British Warships of the Age of Sail 1794–1817
-British Warships of the Age of Sail 1794–1817: Design, Construction, Careers and Fates
-British Warships of the Age of Sail: 1714–1792 – Design, Construction, Careers and Fates
+British Warships in the Age of Sail: 1603-1714 - Design, Construction, Careers and Fates
+British Warships in the Age of Sail: 1793-1817 - Design, Construction, Careers and Fates
+British Warships of the Age of Sail 1603-1714
+British Warships of the Age of Sail 1603-1714: Design, Construction, Careers and Fates
+British Warships of the Age of Sail 1714-1793
+British Warships of the Age of Sail 1714-1792: Design, Construction, Careers and Fates
+British Warships of the Age of Sail 1714-1793
+British Warships of the Age of Sail 1793-1817
+British Warships of the Age of Sail 1794-1817
+British Warships of the Age of Sail 1794-1817: Design, Construction, Careers and Fates
+British Warships of the Age of Sail: 1714-1792 - Design, Construction, Careers and Fates
 British flags, their early history, and their development at sea; with an account of the origin of the flag as a national device
 British, Soviet, French, and Dutch Battleships of World War II
 Britomart
@@ -3500,7 +3500,7 @@ C. P. Williams
 C. W. Morse
 C.A. Thayer
 C4ISRNet
-CMRE – Centre for Maritime Research and Experimentation
+CMRE - Centre for Maritime Research and Experimentation
 CNN Philippines
 CT Insider
 Ca Ira
@@ -3646,7 +3646,7 @@ Can Do
 Can Tho
 Can do
 Canada
-Canada - AN/AAQ-24(V) Directional Infrared Countermeasure Systems
+Canada - AN/AAQ-24V Directional Infrared Countermeasure Systems
 Canadian River
 Çanak
 Çanakkale
@@ -4496,9 +4496,9 @@ Christopher
 Christopher Spayne
 Christopher Wren
 Christopher of Bream
-Chronicles of the Frigate Macedonian, 1809–1922
+Chronicles of the Frigate Macedonian, 1809-1922
 Chronology of Commanders
-Chronology of the War at Sea 1939–1945
+Chronology of the War at Sea 1939-1945
 Chrysanthemum
 Chub
 Chubb
@@ -4511,7 +4511,7 @@ Churchill
 Churchill County
 Churruca
 Chusuvoy
-Chuvashiya (ex R-2)
+Chuvashiya ex R-2
 Chōkai
 Chōyō
 Chūyō
@@ -4566,7 +4566,7 @@ City of Rochester
 City of South Haven
 Ciudad de Cádiz
 Civil War High Commands
-Civil War Navies 1855–1883
+Civil War Navies 1855-1883
 Civil War ironclads: the U. S. Navy and industrial mobilization
 Civilian in peace. Soldier in war. 
 Clacton
@@ -4642,7 +4642,7 @@ Clonmel
 Clorinda
 Clorinde
 CloseWar.com
-Clouded&#160;Sky)
+Clouded Sky
 Cloues
 Cloughton Wyke
 Clove Tree
@@ -4971,7 +4971,7 @@ Conrad
 Conserver
 Consolante
 Consolation
-Consolidated Analysis Center, Inc (CACI)
+Consolidated Analysis Center, Inc CACI
 Consort
 Constance
 Constance II
@@ -5016,21 +5016,21 @@ Convertine
 Convolvulus
 Convulsion
 Conway
-Conway's All The World's Fighting Ships 1860–1905
-Conway's All The World's Fighting Ships 1922–1946
-Conway's All The World's Fighting Ships 1947–1995
+Conway's All The World's Fighting Ships 1860-1905
+Conway's All The World's Fighting Ships 1922-1946
+Conway's All The World's Fighting Ships 1947-1995
 Conway's All the World's Battleships: 1906 to the Present
 Conway's All the World's Fighting Ships 1860-1905
-Conway's All the World's Fighting Ships 1860–1905
-Conway's All the World's Fighting Ships 1860–1905.
+Conway's All the World's Fighting Ships 1860-1905
+Conway's All the World's Fighting Ships 1860-1905.
 Conway's All the World's Fighting Ships 1906-1921
-Conway's All the World's Fighting Ships 1906–1921
-Conway's All the World's Fighting Ships 1906–1921.
+Conway's All the World's Fighting Ships 1906-1921
+Conway's All the World's Fighting Ships 1906-1921.
 Conway's All the World's Fighting Ships 1922-1946
-Conway's All the World's Fighting Ships 1922–1946
+Conway's All the World's Fighting Ships 1922-1946
 Conway's All the World's Fighting Ships 1947-1995
-Conway's All the World's Fighting Ships 1947–1982
-Conway's All the World's Fighting Ships 1947–1995
+Conway's All the World's Fighting Ships 1947-1982
+Conway's All the World's Fighting Ships 1947-1995
 Conway's Battleships: The Definitive Visual Reference to the World's All-Big-Gun Ships
 Conway's all the world's fighting ships 1947-1995
 Cony
@@ -5170,7 +5170,7 @@ Courier
 Courlan
 Couronne
 Courser
-Court-Martial Order No. 4–1948: Advancement in rank on retired list: special commendation for performance of duty in actual combat
+Court-Martial Order No. 4-1948: Advancement in rank on retired list: special commendation for performance of duty in actual combat
 Courtenay P
 Courtisan
 Courtney
@@ -5699,7 +5699,7 @@ Dawlish
 Dawn
 Dawson
 Day
-Day and Night&#8212;Peace and War
+Day and Night-Peace and War
 Daylight
 Dayot
 Dayton
@@ -5758,13 +5758,13 @@ Deepstorm.ru
 Deepwater
 Deer Island
 Default
-Defeat in Detail: The Ottoman Army in the Balkans, 1912–1913
+Defeat in Detail: The Ottoman Army in the Balkans, 1912-1913
 Defeat of the Spanish Armada
 Defence
 Defence Aviation
 Defence Express
 Defence Now
-Defence Research and Development Laboratory (DRDL)
+Defence Research and Development Laboratory DRDL
 Defence Today
 Defence and intervention frigate
 Defence.in
@@ -5777,21 +5777,21 @@ Defender of the Crossroads
 Defensa Aviacion
 Defensa.com
 Defense
-Defense &amp; Aerospace Competitive Intelligence Service (DACIS)
+Defense & Aerospace Competitive Intelligence Service DACIS
 Defense Base Closure And Realignment Commission: Report To The President 1995
 Defense Contract Management Agency
 Defense Industry Daily
 Defense Industry Reports
 Defense Information Systems Agency
 Defense Logistics Agency
-Defense Management Library – U.S. Army War College
+Defense Management Library - U.S. Army War College
 Defense Media Network
 Defense News
 Defense One
 Defense Review
 Defense Security Monitor
 Defense Technical Information Center
-Defense Technical Information Center (DTIC)
+Defense Technical Information Center DTIC
 Defense Update
 Defense-Aerospace
 DefenseLink
@@ -5996,13 +5996,13 @@ Dickerson
 Dickerson's
 Dicky
 Dictator
-Dictionary of Admirals of the U.S. Navy - Volume 1, 1862–1900
-Dictionary of Admirals of the U.S. Navy - Volume 2, 1901–1918
+Dictionary of Admirals of the U.S. Navy - Volume 1, 1862-1900
+Dictionary of Admirals of the U.S. Navy - Volume 2, 1901-1918
 Dictionary of American Naval Fighting Ships
 Dictionary of American Naval Fighting Ships.
 Dictionary of Disasters at Sea During The Age of Steam
 Dictionnaire des Bâtiments de la Flotte de Guerre Française de Colbert a nos jours
-Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 1 1671 – 1870
+Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 1 1671 - 1870
 Did not enter service
 Diderot
 Dido
@@ -6023,7 +6023,7 @@ Diligente
 Dillingen
 Dilston
 Dilworth
-Dimitrovgrad (ex R-291)
+Dimitrovgrad ex R-291
 Dimyâd
 Dinard
 Dingledale
@@ -6092,7 +6092,7 @@ Dobrynya Nikitich
 Dochet
 Dochra
 Dockleaf
-Documents figurant dans les archives de l'Afrique Occidentale française (série Affaires agricoles, sous-série Pêche).: Tableaux thematiques des dossiers 1 à 16
+Documents figurant dans les archives de l'Afrique Occidentale française série Affaires agricoles, sous-série Pêche.: Tableaux thematiques des dossiers 1 à 16
 Doddridge
 Dodge County
 Dodger II
@@ -6205,7 +6205,7 @@ Dove
 Dover
 Dover Castle
 Dover Prize
-Dover&#160;: Lock and Key of the Kingdom
+Dover : Lock and Key of the Kingdom
 Dovey
 Dow
 Dowgate
@@ -6235,7 +6235,7 @@ Dragoon
 Drake
 Drake II
 Draken
-Draken&#160;
+Draken 
 Drama
 Dränger
 Draug
@@ -6277,7 +6277,7 @@ Drusilla
 Dryad
 Dryade
 Du Chayla
-Du Nautilus (1800) au Redoutable
+Du Nautilus 1800 au Redoutable
 Du Pont
 DuPage
 DuPont
@@ -6341,7 +6341,7 @@ Duke of Lancaster
 Duke of Rothesay
 Duke of Wellington
 Duke of York
-Duke&#160;of&#160;Edinburgh
+Duke of Edinburgh
 Dukes County
 Dullisk Cove
 Duluth
@@ -6692,7 +6692,7 @@ Elite UK Forces
 Elithro II
 Eliza Hayward
 Elizabeth
-Elizabeth &amp; Sarah
+Elizabeth & Sarah
 Elizabeth Bonaventure
 Elizabeth C. Stanton
 Elizabeth Jonas
@@ -7123,7 +7123,7 @@ Evstafii
 Ewing
 Ex Alis Pugnamus
 Ex Scientia Tridens
-Ex-French Prizes 1704 – 1709
+Ex-French Prizes 1704 - 1709
 Ex-Paul F. Foster
 Example
 Excalibur
@@ -7184,7 +7184,7 @@ F-65 Villa de Bilbao
 F. Bovesse
 F. H. Chapman: the first naval architect and his work
 F. J. Luckenbach
-F. Mansfield &amp; Sons Co.
+F. Mansfield & Sons Co.
 F. P. D. S. Newsletter
 F.C. Fitzsimmons
 F.P.D.S. Newsletter
@@ -7297,7 +7297,7 @@ Fasan
 Fasana
 Fashion
 Fast Competent Accurate
-Fast Fighting Boats, 1870–1945 Their Design, Construction, and Use.
+Fast Fighting Boats, 1870-1945 Their Design, Construction, and Use.
 Fast Tempo
 Fastnet
 Fatherland
@@ -7599,7 +7599,7 @@ Flying Fox
 Flying Greyhound
 Flying Horse
 Flying Mustangs
-Flying Tigers: Gentle Paws&#8212;Sharp Claws
+Flying Tigers: Gentle Paws-Sharp Claws
 Flyingfish
 Foam
 Foamdrinker
@@ -7845,7 +7845,7 @@ Freesendorf
 Freesia
 Freestone
 Fregat
-Frégate – Marine de France 1650–1850
+Frégate - Marine de France 1650-1850
 Frégates du Deuxième Ordre
 Frégates du Premier Ordre
 Frégates légères
@@ -7857,19 +7857,19 @@ Frej
 Freja
 Fremont
 French
-French Armoured Cruisers 1887–1932
-French Battleships 1922–1956
+French Armoured Cruisers 1887-1932
+French Battleships 1922-1956
 French Battleships of World War One
 French Creek
-French Cruisers 1922 – 1956
+French Cruisers 1922 - 1956
 French Ruby
 French Victory
 French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates
-French Warships in the Age of Sail 1626–1786: Design, Construction, Careers and Fates.
+French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates.
 French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates
 French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Sail 1786–1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Steam 1859–1914
+French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
+French Warships in the Age of Steam 1859-1914
 Frequently Asked Questions
 Frere
 Freshbrook
@@ -8493,10 +8493,10 @@ Gerfaut
 Gerkules
 Germ
 Germaine
-German Battlecruisers: 1914–1918
+German Battlecruisers: 1914-1918
 German U-boats of WWII
 German Ugryumov
-German Warships: 1815–1945
+German Warships: 1815-1945
 German warships of the Second World War
 Germania
 Germantown
@@ -8529,7 +8529,7 @@ Giada
 Gianfranco Gazzana Priaroggia
 Giang Bee
 Giansar
-Giardino d'Olanda (Hollandsche Tuyn
+Giardino d'Olanda Hollandsche Tuyn
 Gibraltar
 Gibraltar Prize
 Gibson County
@@ -8787,7 +8787,7 @@ GovDelivery
 GovInfo
 GovInfo.gov
 GovTribe
-Government of Mauritius (Port Louis)
+Government of Mauritius Port Louis
 Government.no
 Governor
 Governor Buckingham
@@ -8949,7 +8949,7 @@ Grenade
 Grenadier
 Grenado
 Grengamn
-Grenouille Frénétique (Frantic Frog)
+Grenouille Frénétique Frantic Frog
 Grenville
 Gresham
 Gretchen
@@ -9111,7 +9111,7 @@ Gunnison River
 Gunpowder Magazine
 Gunston Hall
 Gunther Plüschow
-Gunther Plüschow)
+Gunther Plüschow
 Gür
 Gurbet
 Gürçıstan
@@ -9202,7 +9202,7 @@ Haines
 Hains
 Haiti Victory
 Hajen
-Hajen&#160;
+Hajen 
 Hakaze
 Hake
 Hakugei
@@ -9507,8 +9507,8 @@ Headquarters Marine Corps
 Healy
 Healy-
 Hearing Before a Subcommittee of the Committee on Armed Services, United States Senate, Eighty-Sixth Congress, First Session on S. 1795: A Bill Amending Title 10, United States Code, to Revise Certain Provisions Relating to the Promotion and Involuntary Retirement of Officers of the Regular Components of the Armed Forces
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1941–&#91;1942&#93;: Seventy-Sixth Congress, First–&#91;Second&#93; Session, Volume 1
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1943–&#91;1944&#93;: Seventy-Sixth Congress, First–&#91;Second&#93; Session, Volume 1
+Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1941-&#91;1942&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
+Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1943-&#91;1944&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
 Hearings Before the Committee on Naval Affairs, House of Representatives, Sixty-Fourth Congress, First Session, on Estimates Submitted by the Secretary of the Navy, 1916, Volume 3
 Hearings Before the Subcommittee of the Committee on Appropriations, House of Representatives, Eighty-Sixth Congress, Second Session, Part 3: Financial Statements: Manpower, Personnel, and Reserves
 Hearings on National Defense Authorization Act for Fiscal Year 2002--H.R. 2586 and Oversight of Previously Authorized Programs, Before the Committee on Armed Services, House of Representatives, One Hundred Seventh Congress, First Session: Military Personnel Subcommittee Hearings on Title IV--personnel Authorizations, Title V--military Personnel Policy, Title VI--compensation and Other Personnel Benefits, Title VII--health Care Provisions, Hearings Held June 21, and July 18, 2001
@@ -9686,7 +9686,7 @@ Herreshoff No. 321
 Herreshoff No. 322
 Herreshoff No. 323
 Herring
-Hershel "Woody" Williams
+Hershel Woody Williams
 Herten
 Hertha
 Hertig Ferdinand
@@ -9807,7 +9807,7 @@ Historical:
 History of All Maritime Self-Defense Force Ships, Ships of the World
 History of United States Naval Operations: Korea
 History of the Administration of the Royal Navy and of Merchant Shipping in Relation to the Navy from 1509 to 1660 with an introduction treating of the Preceding Period
-History of the Atlantic Cable &amp; Undersea Communications
+History of the Atlantic Cable & Undersea Communications
 Hitchiti
 Hitra
 Hiuchi
@@ -9819,11 +9819,11 @@ Hizen
 Hjalmar
 Hjälparen
 Hjort
-Hjvb 232 (Isbjörn)
-Hjvb 282 (Libanon)
-Hjvb 356 (Barry)
-Hjvb 356 (Condor)
-Hjvb 356 (Ocean)
+Hjvb 232 Isbjörn
+Hjvb 282 Libanon
+Hjvb 356 Barry
+Hjvb 356 Condor
+Hjvb 356 Ocean
 Hoa Lu
 Hoang Sa
 Hobart
@@ -9953,7 +9953,7 @@ Hosdurg
 Hospital Corps Bolo Knives
 Hoste
 Hostile
-Hostilities Only – Training the Wartime Royal Navy
+Hostilities Only - Training the Wartime Royal Navy
 Hot Springs
 Hotel
 Hotham
@@ -10010,7 +10010,7 @@ Hue City
 Hué City
 Huelva
 Huesca
-Hugh Cortazzi – Collected Writings
+Hugh Cortazzi - Collected Writings
 Hugh L. Scott
 Hugh Lindsay
 Hugh Purvis
@@ -10136,7 +10136,7 @@ INS Kirch
 INS Shakti
 INS Sindhukirti
 INS Sukanya
-INS Vikrant – the naval museum
+INS Vikrant - the naval museum
 INSAMER English
 INSV Mhadei
 IPMS/USA Reviews
@@ -10231,10 +10231,10 @@ Imperatritsa Mariya
 Imperial
 Impérial
 Imperial Japanese Navy Antisubmarine Escorts 1941-45
-Imperial Japanese Navy Battleship 1941–1945
-Imperial Japanese Navy Battleships 1941–45
-Imperial Japanese Navy Destroyers 1919-45 (1) – Minekaze to Shiratsuyu Classes
-Imperial Japanese Navy Destroyers 1919-45 (2) – Asashio to Tachibana Classes
+Imperial Japanese Navy Battleship 1941-1945
+Imperial Japanese Navy Battleships 1941-45
+Imperial Japanese Navy Destroyers 1919-45 1 - Minekaze to Shiratsuyu Classes
+Imperial Japanese Navy Destroyers 1919-45 2 - Asashio to Tachibana Classes
 Imperial War Museums
 Imperieuse
 Impérieuse
@@ -10340,7 +10340,7 @@ Infernet
 Infidèle
 Inflexible
 Inflict
-InfoAge Science &amp; History Museums
+InfoAge Science & History Museums
 Infobae
 Infodefensa - Noticias de defensa, industria, seguridad, armamento, ejércitos y tecnología de la defensa
 Informare Laboramus
@@ -10399,7 +10399,7 @@ International Journal of Naval History
 Interpreter
 Interrupter
 Into Combat We Fly
-Into the Jet Age: Conflict and Change in Naval Aviation, 1945–1975, An Oral History
+Into the Jet Age: Conflict and Change in Naval Aviation, 1945-1975, An Oral History
 Intrepid
 Intrépide
 Intrepido
@@ -10412,7 +10412,7 @@ Inver
 Inverlyon
 Invermoriston
 Inverness
-Investigation of the National Defense Program: Hearings Before A Special Committee Investigating The National Defense Program, United States Senate, Seventy-Ninth Congress, Second Session, Pursuant To S. Res. 55 (79th Congress), Part 33
+Investigation of the National Defense Program: Hearings Before A Special Committee Investigating The National Defense Program, United States Senate, Seventy-Ninth Congress, Second Session, Pursuant To S. Res. 55 79th Congress, Part 33
 Investigator
 Inveterate
 Invicta
@@ -10434,7 +10434,7 @@ Ionie
 Ionita
 Iosco
 Iowa
-Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942–1964: An Illustrated Technical Reference
+Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942-1964: An Illustrated Technical Reference
 Iowan
 Iphigenia
 Iphigénie
@@ -10465,7 +10465,7 @@ Iron Victory
 Iron Wind
 Iron Wing
 Ironclad Down: USS Merrimack-CSS Virginia from Design to Destruction
-Ironclads at War: The Origin and Development of the Armored Warship, 1854–1891
+Ironclads at War: The Origin and Development of the Armored Warship, 1854-1891
 Ironclads in Action: A Sketch of Naval Warfare from 1855 to 1895
 Ironsides Jr.
 Ironwood
@@ -10603,14 +10603,14 @@ J. M. Davis
 J. M. Guffey
 J. M. Woodworth
 J. R. Y. Blakely
-J. Reyner &amp; Son
+J. Reyner & Son
 J. Richard Ward
 J. W. McAndrew
 J. W. Wilder
 J. William Ditter
 J. William Middendorf
 J.R.Y. Blakely
-JPRS Report: Near East &amp; South Asia
+JPRS Report: Near East & South Asia
 Jacamar
 Jacana
 Jaccard
@@ -10649,7 +10649,7 @@ Jallao
 Jalouse
 Jamaica
 James
-James &amp; Eliza
+James & Eliza
 James Adger
 James B. Houston
 James C. Owens
@@ -10692,16 +10692,16 @@ Jane's All the World's Aircraft
 Jane's Defence Weekly
 Jane's Fighting Ships
 Jane's Fighting Ships 1931
-Jane's Fighting Ships 1949–50
-Jane's Fighting Ships 1960–61
-Jane's Fighting Ships 2004–2005
+Jane's Fighting Ships 1949-50
+Jane's Fighting Ships 1960-61
+Jane's Fighting Ships 2004-2005
 Jane's Fighting Ships 2005-2006
-Jane's Fighting Ships 2016–2017
+Jane's Fighting Ships 2016-2017
 Jane's Fighting Ships 2023-2024
 Jane's Fighting Ships of World War I.
 Jane's Fighting Ships of World War II
 Jane's Missiles and Rockets
-Jane's War at Sea, 1897–1997
+Jane's War at Sea, 1897-1997
 Janes
 Janes Fighting Ships 2009-2010
 Janes Fighting Ships of World War Two
@@ -10787,7 +10787,7 @@ Jessamine
 Jesse L. Brown
 Jesse Rutherford
 Jesus
-Jesus &amp; Mary
+Jesus & Mary
 Jesus von Lübeck
 Jesus, Maria y José
 Jet
@@ -10821,10 +10821,10 @@ Johan Maurits van Nassau
 Johan de Witt
 Johann Wittenborg
 John
-John &amp; Alexander
-John &amp; Martha
-John &amp; Peter
-John &amp; Sarah
+John & Alexander
+John & Martha
+John & Peter
+John & Sarah
 John A. Bole
 John A. Moore
 John Adams
@@ -10973,7 +10973,7 @@ Josiah
 Josiah Willard Gibbs
 Jouett
 Joule
-Journal of Computations &amp; Modelling
+Journal of Computations & Modelling
 Journal of United States Artillery
 Journal of the American Society of Naval Engineers
 Journal of the RUSI
@@ -11071,7 +11071,7 @@ Kahnamuie
 Kai Che
 Kaid Zafer
 Kaidai
-Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941
+Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887-1941
 Kaii
 Kailua
 Kaiman
@@ -11580,7 +11580,7 @@ King Sol
 King Yuan
 King Yuen
 King of Prussia
-King's Carvel (Yellow Carvel)
+King's Carvel Yellow Carvel
 King's College London
 King's Shilling
 Kingarth
@@ -11758,9 +11758,9 @@ Kopara
 Kopås
 Kora
 Korabel.ru
-Korabley Russkogo Parovogo i Bronenosnogo Flota (s 1861 po 1917 god)
-Korabli i suda VMF SSSR 1928–1945
-Korabli i vspomogatel'nye suda sovetskogo Voyenno-Morskogo Flota (1917–1927 gody)
+Korabley Russkogo Parovogo i Bronenosnogo Flota s 1861 po 1917 god
+Korabli i suda VMF SSSR 1928-1945
+Korabli i vspomogatel'nye suda sovetskogo Voyenno-Morskogo Flota 1917-1927 gody
 Kormoran
 Korolyov
 Korol‘ Niderlandskii
@@ -11889,7 +11889,7 @@ Kuwa
 Kuwana II
 Kuzbass
 Kuzma Minin
-Kuznetsk (ex R-129)
+Kuznetsk ex R-129
 Kuznetsov
 Kuzya
 Kuşadası
@@ -12182,8 +12182,8 @@ Land Tortoise
 Land units:
 Lander
 Landguard
-Landing Craft Mechanized (LCM)
-Landing Craft Tank (LCT)
+Landing Craft Mechanized LCM
+Landing Craft Tank LCT
 Landing X Dock
 Landrail
 Landrail II
@@ -12243,7 +12243,7 @@ Lassoo
 Lastka
 Latest Asian, Middle-East, EurAsian, Indian News
 Latimer
-Latin America: A Naval History, 1810–1987
+Latin America: A Naval History, 1810-1987
 Latnik
 Latona
 Latouche-Tréville
@@ -12632,9 +12632,9 @@ Liscome Bay
 Liscum
 Lismore
 Lismore Castle
-List of Russian Ships of Steam and Armoured Navy (from 1861 to 1917)
+List of Russian Ships of Steam and Armoured Navy from 1861 to 1917
 List of Russian naval ships from 1668 to 1860
-List of Ships of the Russian Steam and Armoured Fleet, 1861–1917
+List of Ships of the Russian Steam and Armoured Fleet, 1861-1917
 Lista
 Liston
 Listowel
@@ -13014,7 +13014,7 @@ Lutine
 Lütje Hörn
 Lütjens
 Lützow
-Lützow (1941)
+Lützow 1941
 Lux ex Tenebris
 Luzerne
 Luzerne County
@@ -13079,7 +13079,7 @@ MAJ Ethel A. Robbins
 MGen. Nathanael Greene
 MKS 180 / Niedersachsen class
 MSC Daniela
-MTM C828 (motozattera Trasporto Mezzi)
+MTM C828 motozattera Trasporto Mezzi
 Ma'anshan
 Maan
 Maartensdijk
@@ -13458,7 +13458,7 @@ Marine Adder
 Marine Carp
 Marine Corps Systems Command
 Marine Corps Times
-Marine Corpse Aviation Reconnaissance Association (MCARA)
+Marine Corpse Aviation Reconnaissance Association MCARA
 Marine Fiddler
 Marine Forces Reserve
 Marine Jupiter
@@ -13546,7 +13546,7 @@ Marsopa
 Marsouin
 Marston Moor
 Marstrand
-Martah &amp; Mary
+Martah & Mary
 Marte
 Martelo
 Martha
@@ -13569,7 +13569,7 @@ Marvin H. McIntyre
 Marvin Lyle Thomas
 Marvin Shields
 Mary
-Mary &amp; John
+Mary & John
 Mary Alice
 Mary Ann
 Mary Antrim
@@ -13632,12 +13632,12 @@ Masséna
 Massey
 Massiac
 Massue
-Master Chief Aircraft Maintenanceman (AFCM)
-Master Chief Aviation Boatswain's Mate (ABCM)
-Master Chief Avionics Technician (AVCM)
-Master Chief Constructionman (CUCM)
-Master chief Utilitiesman (UCCM)
-Master chief equipmentman (EQCM)
+Master Chief Aircraft Maintenanceman AFCM
+Master Chief Aviation Boatswain's Mate ABCM
+Master Chief Avionics Technician AVCM
+Master Chief Constructionman CUCM
+Master chief Utilitiesman UCCM
+Master chief equipmentman EQCM
 Master of the Sky
 Mastic
 Mastiff
@@ -13861,8 +13861,8 @@ Melvin
 Melvin Bell
 Melvin R. Nawman
 Mel‘pomena
-Member, Ad Hoc Committee to Study and Revise the Officer Personnel Act of 1947, 1960–1961.
-Member, Gorham Military Pay Study Group, 1962–1963.
+Member, Ad Hoc Committee to Study and Revise the Officer Personnel Act of 1947, 1960-1961.
+Member, Gorham Military Pay Study Group, 1962-1963.
 Memdûhiye
 Memmert
 Memnon
@@ -14070,7 +14070,7 @@ Military Aerospace Electronics
 Military Arrospace
 Military Balance 2010
 Military Factory
-Military History of British India, 1607–1947
+Military History of British India, 1607-1947
 Military Intelligence
 Military Periscope
 Military Requirements for Petty Officers Third and Second Class
@@ -14138,13 +14138,13 @@ Ministerio de Defensa
 Ministro Zenteno
 Ministry of Defence
 Ministry of Defence Annual Report: 1988
-Ministry of Defense (Japan)
+Ministry of Defense Japan
 Ministry of National Defenese
 Minivet
 Mink
 Minneapolis
 Minneapolis-Saint Paul
-Minneapolis–Saint Paul
+Minneapolis-Saint Paul
 Minnehaha
 Minnemac II
 Minneopa
@@ -14176,7 +14176,7 @@ Mira
 Mirabeau
 Mirage Hunter
 Miramar
-Miramar (subscription required)
+Miramar subscription required
 Miramichi
 Miranda
 Mirat-ı Zafer
@@ -14449,7 +14449,7 @@ Morrow
 Mors Ab Alto
 Morsa
 Morse
-Morshansk (ex R-293)
+Morshansk ex R-293
 Mortar
 Mortier
 Morton
@@ -14612,9 +14612,9 @@ Musketeer
 Muskingum
 Muskogee
 Musquito
-Mussolini's Navy: A Reference Guide to the Regia Marina 1930–1945
-Mussolini's Navy: A Reference Guide to the Regia Marina 1930–45
-Mussolini's Navy: A Reference Guide to the Regina Marina 1930–45
+Mussolini's Navy: A Reference Guide to the Regia Marina 1930-1945
+Mussolini's Navy: A Reference Guide to the Regia Marina 1930-45
+Mussolini's Navy: A Reference Guide to the Regina Marina 1930-45
 Mustang
 Müstecib Onbaşı
 Mustico
@@ -14655,7 +14655,7 @@ Nabaron
 Nabberley
 Nabbington
 Nabcatcher
-Naberezhnye Chelny (ex R-239)
+Naberezhnye Chelny ex R-239
 Nabhurst
 Nabigwon
 Nabob
@@ -14852,7 +14852,7 @@ Naval Air: Celebrating a Century of Naval Flying
 Naval Analyses
 Naval Aviation Museum, Dabolim, Goa, India
 Naval Battles of World War II
-Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805–2005
+Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005
 Naval Education and Training Command
 Naval History
 Naval History Blog
@@ -14878,13 +14878,13 @@ Naval Today
 Naval Vessel Register
 Naval War College Review
 Naval Warfare International
-Naval Warfare, 1815–1914
-Naval Wars in the Baltic 1553–1850
-Naval Wars in the Levant 1559–1853
+Naval Warfare, 1815-1914
+Naval Wars in the Baltic 1553-1850
+Naval Wars in the Levant 1559-1853
 Naval Wars of the Baltic, 1522-1850
 Naval Weapons of World War One
 Naval units:
-Naval warfare, 1815–1914, Volume 2000, Warfare and History
+Naval warfare, 1815-1914, Volume 2000, Warfare and History
 NavalNews
 Navalpost
 Navaltoday.com
@@ -14907,7 +14907,7 @@ Navy
 Navy Board
 Navy Data
 Navy Electronic Commerce Online
-Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress
+Navy Ford CVN-78 Class Aircraft Carrier Program: Background and Issues for Congress
 Navy Installations Command
 Navy Korabel
 Navy Leaders 2022
@@ -14915,7 +14915,7 @@ Navy League
 Navy Lookout
 Navy Medicine
 Navy News
-Navy News (magazine)
+Navy News magazine
 Navy Recognition
 Navy Region Mid-Atlantic
 Navy Super Tankers
@@ -14968,9 +14968,9 @@ Nellie
 Nellie Jackson
 Nelson
 Nelson V. Brittin
-Nelson to Vanguard: Warship Design and Development, 1923–1945
+Nelson to Vanguard: Warship Design and Development, 1923-1945
 Nelson's Navy
-Nelson's Navy: The Ships, Men and Organisation, 1793–1817
+Nelson's Navy: The Ships, Men and Organisation, 1793-1817
 Nemaha
 Nemasket
 Nembo
@@ -15081,7 +15081,7 @@ New York Journal of Commerce
 New York Times
 New Zealand
 New Zealand Government Press Release
-New&#160;Zealand
+New Zealand
 New-York
 Newark
 Newash
@@ -15144,7 +15144,7 @@ Nieuport
 Nigella
 Niger
 Nigeria
-Nigerian Bulletin – Nigeria News Updates
+Nigerian Bulletin - Nigeria News Updates
 Nightflyer
 Nighthawk
 Nighthawk II
@@ -15225,7 +15225,7 @@ Nizhny Novgorod
 Njord
 No Better Friend, No Worse Enemy
 No Mission Too Difficult, No Sacrifice Too Great, Duty First
-No Name (ex Puerto Rico)
+No Name ex Puerto Rico
 No. 1
 No. 13
 No. 19
@@ -15311,7 +15311,7 @@ Norman
 Norman O. Pedrick
 Norman Scott
 Normandie
-Normandie ()
+Normandie 
 Normandy
 Normannia
 Nornen
@@ -15320,7 +15320,7 @@ Norrköping
 Norrsten
 Norrtälje
 Norseman
-Norsk Maritimt Forlag – Båtliv.no
+Norsk Maritimt Forlag - Båtliv.no
 Norsten
 Norsyd
 North
@@ -15365,7 +15365,7 @@ Note: the following camps are dispersed throughout Okinawa but are all under the
 Note: tonnages are given in naval light/full load displacement
 Notes on Naval Progress
 Notes on the Year's Naval Progress
-Notes: (*) Undergoing development
+Notes: * Undergoing development
 Notoro
 Notre-Dame
 Nottingham
@@ -15377,7 +15377,7 @@ Nouvelle
 Nova Scotia
 Novara
 Novaya Nadezhda
-November 1923 (projected)
+November 1923 projected
 November 2026
 Novgorod
 Novik
@@ -15550,9 +15550,9 @@ Office of Marine and Aviation Operations, National Oceanic and Atmospheric Admin
 Office of the Deputy Commandant for Information
 Office of the Director, Operational Test and Evaluation
 Office of the Secretary of the Navy
-Office of vice-admiral of the coast&#160;: being some account of that ancient office
+Office of vice-admiral of the coast : being some account of that ancient office
 Officers:
-Official History of New Zealand in the Second World War 1939–45: The Royal New Zealand Navy
+Official History of New Zealand in the Second World War 1939-45: The Royal New Zealand Navy
 Offshore Energy
 Ogden
 Ogeechee
@@ -15753,7 +15753,7 @@ Orford
 Orford Ness
 Orford Prize
 Orford's Prize
-Organizing OPNAV (1970 - 2009)
+Organizing OPNAV 1970 - 2009
 Orhaniye
 Orhâniye
 Oriana
@@ -15859,7 +15859,7 @@ Ostrich
 Ostro
 Ostrolenka
 Ostseeland
-Ostseeland (II)
+Ostseeland II
 Oswald
 Oswald A. Powers
 Oswegatchie
@@ -15870,7 +15870,7 @@ Otakisan Maru
 Otálora
 Otarie
 Otechestvennoye voyennoye korablestroyenoye v tretyem stoletii svoyei istorii
-Otechestvennoye voyennoye korablestroyenoye v tretyem stoletii svoyei istorii. – Sudostroyeniye
+Otechestvennoye voyennoye korablestroyenoye v tretyem stoletii svoyei istorii. - Sudostroyeniye
 Other:
 Otis W. Douglas
 Otokomi
@@ -16206,7 +16206,7 @@ Patrie
 Patrikii
 Patriot
 Patriot.net
-Patriote (Coquille) 
+Patriote Coquille 
 Patriots Point Naval and Maritime Museum
 Patroclus
 Patrol
@@ -16503,7 +16503,7 @@ Pheonix
 Philadelphia
 Philante
 Philip
-Philip &amp; Mary
+Philip & Mary
 Philip and Mary
 Philippi
 Philippine Sea
@@ -16978,7 +16978,7 @@ Portway
 Porvoo
 Posadnik
 Poseidon
-Poseidon (ARL-12)
+Poseidon ARL-12
 Posen
 Poshak
 Positive
@@ -17085,7 +17085,7 @@ Prestonian
 Pretext
 Pretoria
 Pretoria Castle
-Pretoria&#160;Castle
+Pretoria Castle
 Preussen
 Preussischer Adler
 Preußen
@@ -17133,7 +17133,7 @@ Prince William
 Prince de Neuchatel
 Prince of Orange
 Prince of Wales
-Prince&#160;of&#160;Wales
+Prince of Wales
 Princesa
 Princesa da Beira
 Princesa de Asturias
@@ -17414,7 +17414,7 @@ Queen of Kent
 Queen of Olati
 Queen of Quirm
 Queen of the West
-Queen&#160;Elizabeth
+Queen Elizabeth
 Queenborough
 Queenfish
 Queens
@@ -17450,7 +17450,7 @@ Qujing
 Quonset
 Quorn
 R. B. Forbes
-R. E. &amp; A. H. Watson
+R. E. & A. H. Watson
 R. E. Lee
 R. Ney McNeely
 R. R. Cuyler
@@ -17618,7 +17618,7 @@ Razyashchiy
 Re Umberto
 Re d'Italia
 Re di Portogallo
-Read "Leveraging Unmanned Systems for Coast Guard Missions" at NAP.edu
+Read Leveraging Unmanned Systems for Coast Guard Missions at NAP.edu
 Reading
 Ready
 Ready for Sea
@@ -17703,10 +17703,10 @@ Register of Commissioned and Warrant Officers of the Active Duty List, NAVPERS 1
 Register of Commissioned and Warrant Officers of the United States Navy and Marine Corps
 Register of Commissioned and Warrant Officers of the United States Navy on Active Duty
 Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the USN, NAVPERS 15939
-Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the United States Navy and Marine Corps (1945, 1950–1984)
-Register of Ships of the US Navy, 1775–1990: Major Combatants
+Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the United States Navy and Marine Corps 1945, 1950-1984
+Register of Ships of the US Navy, 1775-1990: Major Combatants
 Register of ships of the U.S. Navy, 1775-1990
-Register of ships of the U.S. Navy, 1775–1990
+Register of ships of the U.S. Navy, 1775-1990
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1852
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1859
 Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1870
@@ -17786,7 +17786,7 @@ Republica
 República
 Républicain
 Republican
-Republican Internment and the Prison Ship "Argenta", 1922
+Republican Internment and the Prison Ship Argenta, 1922
 Republican River
 République
 Repulse
@@ -18302,16 +18302,16 @@ Russ
 Russell
 Russell County
 Russell M. Cox
-Russia &amp; India Report
-Russian &amp; Soviet Battleships
-Russian Battleship vs Japanese Battleship, Yellow Sea 1904–05
+Russia & India Report
+Russian & Soviet Battleships
+Russian Battleship vs Japanese Battleship, Yellow Sea 1904-05
 Russian Ministry of Defence
-Russian Naval Construction, 1905–45
+Russian Naval Construction, 1905-45
 Russian Navy of the 20th century
 Russian Warships in the Age of Sail, 1696-1860: Design, Construction, Careers and Fates
-Russian Warships in the Age of Sail, 1696–1860: Design, Construction, Careers and Fates
+Russian Warships in the Age of Sail, 1696-1860: Design, Construction, Careers and Fates
 Russian and Soviet Battleships
-Russian seapower and the Eastern question, 1827–41
+Russian seapower and the Eastern question, 1827-41
 Russian-ships.info
 RussianShips.info
 Russianfleetanalysis.blogspot.com
@@ -18716,7 +18716,7 @@ Sanborn
 Sancaktar
 Sánchez Barcáiztegui
 Sancta Chiara
-Sancta Maria &amp; Sancta Brigida
+Sancta Maria & Sancta Brigida
 Sanctuary
 Sand Caster
 Sand Fly
@@ -19178,7 +19178,7 @@ Séditieux
 Séduisant
 See W. See
 See also
-See the new ocean observation ship" Shonan! Ships of the World
+See the new ocean observation ship Shonan! Ships of the World
 Seeadler
 Seeandbee
 Seehund
@@ -19248,8 +19248,8 @@ Sénégalais
 Seneschal
 Senibeil
 Senigallia
-Senior Chief Constructionman (CUCS)
-Senior Member, Naval Clemency and Prison Inspection Board, 1943–1946.
+Senior Chief Constructionman CUCS
+Senior Member, Naval Clemency and Prison Inspection Board, 1943-1946.
 Senja
 Sennen
 Sennet
@@ -19440,7 +19440,7 @@ Sherwood
 Shestoi
 Shichang
 Shiel
-Shield of Empire – The Royal Navy and Scotland
+Shield of Empire - The Royal Navy and Scotland
 Shield of the Mekong
 Shields
 Shigure
@@ -19464,19 +19464,19 @@ Shinsoku
 Shinyo
 Shiokaze
 Ship History Database Vessel Status Card
-Ship&#8205;name
+Shipname
 ShipSpotting.com
 Shipbuilding History
 Shipbuildinghistory.com
 Shipham
 Shipley Bay
-Shipping &amp; Mercantile Gazette, and Lloyd's List
+Shipping & Mercantile Gazette, and Lloyd's List
 Shipping Italy
 Shippingport
 Ships by name
 Ships for Victory: A History of Shipbuilding Under the U.S. Maritime Commission in World War II
 Ships have been listed by class as in Lambert.
-Ships of the Imperial Russian Navy 1892–1917
+Ships of the Imperial Russian Navy 1892-1917
 Ships of the Royal Navy
 Ships of the Royal Navy: An Historical Index
 Ships of the Royal Navy: The Complete Record of all Fighting Ships of the Royal Navy from the 15th Century to the Present
@@ -19755,7 +19755,7 @@ Sligo
 Slinger
 Slite
 Sloat
-Sloops: A History of the 71 Sloops Built in Britain and Australia for the British, Australian and Indian Navies 1926–1946
+Sloops: A History of the 71 Sloops Built in Britain and Australia for the British, Australian and Indian Navies 1926-1946
 Slot Hooningen
 Slothany
 Sluys
@@ -19977,7 +19977,7 @@ Spear
 Spear Corps
 Spearfish
 Spearhead
-Special &amp; Diving Operations-Submarine Rescue Ship
+Special & Diving Operations-Submarine Rescue Ship
 Specialties:
 Spectacle
 Specter
@@ -20217,7 +20217,7 @@ Ste. Therese
 Steadfast
 Steadfast and Loyal
 Steady
-Steam, Steel and Shellfire: The Steam Warship 1815–1905-Conway's History of the Ship
+Steam, Steel and Shellfire: The Steam Warship 1815-1905-Conway's History of the Ship
 Steamer Bay
 Stedham
 Stedmound
@@ -20363,7 +20363,7 @@ Students' Britannica India By Dale Hoiberg, Indu Ramchandani
 Stul
 Stump
 Stupinets
-Stupinets (ex R-101)
+Stupinets ex R-101
 Sturdy
 Sturgeon
 Sturgeon Bay
@@ -20443,7 +20443,7 @@ Sunayna
 Sunbeam
 Sunbeam III
 Sunbird
-Sunburst: The Rise of Japanese Naval Air Power 1909–1941
+Sunburst: The Rise of Japanese Naval Air Power 1909-1941
 Suncock
 Suncook
 Sunderban
@@ -20483,7 +20483,7 @@ Surf
 Surf Patrol
 Surf Pilot
 Surf Pioneer
-Surf)
+Surf
 Surface Navy Association
 Surfbird
 Suribachi
@@ -20679,7 +20679,7 @@ Taconic
 Taconnet
 Tacony
 Tact
-Tactical Night Vision Company (TNVC)
+Tactical Night Vision Company TNVC
 Tactical-Life.com
 Tactician
 Tade
@@ -20704,9 +20704,9 @@ Taif
 Taigei
 Taihang Shan
 Taihō
-Tail codes with a first letter "A" denote Atlantic Fleet Air Task Groups, while "N" denotes Pacific Fleet Air Task Groups.
-Tail codes with a first letter "A" denote Atlantic Fleet airwings, while "N" denotes Pacific Fleet airwings.
-Tail codes with a first letter "A" denoted Atlantic Fleet air groups, while "N" denoted Pacific Fleet air groups (except for RCVSG 51 "RA" which was also a Pacific Fleet air group).
+Tail codes with a first letter A denote Atlantic Fleet Air Task Groups, while N denotes Pacific Fleet Air Task Groups.
+Tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
+Tail codes with a first letter A denoted Atlantic Fleet air groups, while N denoted Pacific Fleet air groups except for RCVSG 51 RA which was also a Pacific Fleet air group.
 Tain
 Tair-i Bahri
 Tâir-i Bahrî
@@ -20846,7 +20846,7 @@ Târık
 Tasajera
 Tasco
 Tashkent
-Task &amp; Purpose
+Task & Purpose
 Tasker H. Bliss
 Tasman
 Tasmania
@@ -21015,27 +21015,27 @@ Thaon di Revel
 That We May Serve
 Thatcham
 Thatcher
-The 44-gun frigate USS Constitution&#160;: "Old Ironsides"
+The 44-gun frigate USS Constitution : Old Ironsides
 The 50-gun Ship
 The 50-gun ship
 The Admiral
 The Adventures of Tintin
 The Age of Fighting Sail
 The Americas
-The Andrew and The Onions: The Story of The Royal Navy in Bermuda, 1795–1975
+The Andrew and The Onions: The Story of The Royal Navy in Bermuda, 1795-1975
 The Arab Weekly
 The Army and Navy Journal
 The Army's Cargo Fleet in World War II
 The Asahi Shimbun
 The Aviationist
 The Backup Asset
-The Balkan Wars, 1912–1913: Prelude to the First World War
+The Balkan Wars, 1912-1913: Prelude to the First World War
 The Baltimore Sun
 The Barents Observer
 The Battle for Bataan: A History of the 90 Day Siege and Eventual Surrender of 75,000 Filipino and United States Troops to the Japanese in World War II
 The Battle of Sinop
 The Battle of the Otranto Straits: Controlling the Gateway to the Adriatic in World War I
-The Battlecruiser HMS Hood: An Illustrated Biography, 1916–1941
+The Battlecruiser HMS Hood: An Illustrated Biography, 1916-1941
 The Battleship Builders - Constructing and Arming British Capital Ships
 The Battleship Dreadnought
 The Battleship and Battlecruiser
@@ -21045,17 +21045,17 @@ The Biographical Dictionary of World War II Generals and Flag Officers: The U.S.
 The Black Battlefleet
 The Black Prince and the Sea Devils: The Story of Valerio Borghese and the Elite Units of the Decima MAS
 The Boat
-The British Battleship 1906–1946
+The British Battleship 1906-1946
 The Capital
 The Cincinnati Enquirer
 The Clyde Built Ships
-The Commission of H.M.S. Perseus: East Indies. Including Persian Gulf and Somaliland, 1901–1904
+The Commission of H.M.S. Perseus: East Indies. Including Persian Gulf and Somaliland, 1901-1904
 The Commission of H.M.S. Talbot
 The Complete Encyclopedia of Battleships and Battlecruisers: A Technical Directory of All the World's Capital Ships From 1860 to the Present Day
 The Complete Encyclopedia of Battleships: A Technical Directory of Capital Ships from 1860 to the Present Day
 The Complete Story of the Martinique Horror and Other Great Disasters
 The Corps of Engineers: The War Against Germany
-The Corps of Engineers: Troops &amp; Equipment
+The Corps of Engineers: Troops & Equipment
 The Courier-Journal
 The Cruel Sea
 The Cut
@@ -21064,16 +21064,16 @@ The Deep Silence
 The Defense Post
 The Destroyers
 The Destruction of the Bismarck
-The Development of a Modern Navy, French Naval Policy 1871–1904
-The Development of a Modern Navy: French Naval Policy, 1871–1904
+The Development of a Modern Navy, French Naval Policy 1871-1904
+The Development of a Modern Navy: French Naval Policy, 1871-1904
 The Diplomat
 The Distinction Pendant to denote a Commander-in-Chief who did not hold flag rank
 The District: A History of the Philadelphia District, U.S. Army Corps of Engineers 1866-1971
 The Drive
-The Eagle and the Rising Sun; The Japanese-American War, 1941–1943
+The Eagle and the Rising Sun; The Japanese-American War, 1941-1943
 The East Moves West: India, China, and Asia's Growing Presence in the Middle East
-The Eclipse of the Big Gun: The Warship 1906–45
-The Eclipse of the Big Gun: The Warship, 1906–45
+The Eclipse of the Big Gun: The Warship 1906-45
+The Eclipse of the Big Gun: The Warship, 1906-45
 The Economic Times
 The Encyclopædia Britannica: a dictionary of arts, sciences, literature and general information
 The Encyclopedia Americana
@@ -21081,7 +21081,7 @@ The Encyclopedia of Ships: The History and Specifications of Over 1200 Ships
 The Encyclopedia of Warships: From World War II to the Present Day
 The End of An Era: The Memoirs of A Naval Constructor
 The Ethiopian Herald
-The Evolution of the Sonobuoy from World War Ii to the Cold War (U)
+The Evolution of the Sonobuoy from World War Ii to the Cold War U
 The Express Tribune
 The Eye of an Eagle
 The Fall of the Philippines
@@ -21101,7 +21101,7 @@ The Gallant Dogras: An Illustrated History of the Dogra Regiment
 The Gathering Storm: The Naval War in Northern Europe September 1939 - April 1940
 The Ghost Pattern
 The Gloria Scott
-The Grand Fleet, 1914–1916: Its Creation, Development, and Work
+The Grand Fleet, 1914-1916: Its Creation, Development, and Work
 The Great Book of Modern Warplanes
 The Great Dreadnought: The Strange Story of H.M.S. Agincourt: The Mightiest Battleship of World War I
 The Great War: American Front
@@ -21114,7 +21114,7 @@ The Hindu
 The History of the American Sailing Navy; The Ships and Their Development.
 The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912
 The History of the U.S. Air Force
-The History of the Unified Command Plan, 1946–1993
+The History of the Unified Command Plan, 1946-1993
 The Hollywood Guard
 The Honolulu Advertiser
 The Illustrated Directory of Warships from 1860 to the present
@@ -21128,14 +21128,14 @@ The Iron Pirate: A Plain Tale of Strange Happenings on the Sea
 The Ironclads
 The Italians in Australia
 The Jerusalem Post
-The Kaiser's Battlefleet: German Capital Ships 1871–1918
+The Kaiser's Battlefleet: German Capital Ships 1871-1918
 The Kipling Society
 The Last Century of Sea Power
-The Last Century of Sea Power (Volume 1, From Port Arthur to Chanak, 1894–1922)
-The Last Century of Sea Power (Volume 2, From Washington to Tokyo, 1922–1945)
+The Last Century of Sea Power Volume 1, From Port Arthur to Chanak, 1894-1922
+The Last Century of Sea Power Volume 2, From Washington to Tokyo, 1922-1945
 The Last Patrol
 The Last Sailing Battlefleet
-The Last Sailing Battlefleet, Maintaining Naval Mastery 1815–1850
+The Last Sailing Battlefleet, Maintaining Naval Mastery 1815-1850
 The Last Ship
 The Late Victorian Navy: The Pre-dreadnought Era and the Origins of the First World War
 The Lighthouse Directory
@@ -21147,7 +21147,7 @@ The Marine Corps Book of Lists
 The Mariner's Mirror
 The Master Mariner
 The Mayor of Castro Street: The Life and Times of Harvey Milk
-The Mediterranean Fleet, 1919–1929
+The Mediterranean Fleet, 1919-1929
 The Medusa Trust
 The Mighty Mighty
 The Military Balance
@@ -21168,12 +21168,12 @@ The Naval Annual 1887
 The Naval Annual 1890
 The Naval Institute Guide to Combat Fleets of the World, 16th Edition
 The Naval Institute Guide to Combat Fleets of the World: Their Ships, Aircraft, and Systems
-The Naval Policy of Austria-Hungary, 1867&#8211;1918
-The Naval Policy of Austria-Hungary, 1867–1918
-The Naval War in the Mediterranean, 1940–1943
-The Naval War in the Mediterranean: 1914–1918
+The Naval Policy of Austria-Hungary, 1867-1918
+The Naval Policy of Austria-Hungary, 1867-1918
+The Naval War in the Mediterranean, 1940-1943
+The Naval War in the Mediterranean: 1914-1918
 The Navy Lark
-The Navy League Annual, 1908–1909
+The Navy League Annual, 1908-1909
 The Navy List
 The Navy List for April, 1920
 The Navy List for December, 1915
@@ -21184,24 +21184,24 @@ The Navy List for March, 1919
 The Navy List for May, 1919
 The Navy List for November, 1920
 The Navy and the Nation, or, Naval Warfare and Imperial Defence
-The Navy of the Nuclear Age, 1947–2007
+The Navy of the Nuclear Age, 1947-2007
 The New Indian Express
 The New York Times
 The New-York Annual Register for the Year of Our Lord 1836
 The Nuclear Threat Initiative
 The Oceans and the Stars: A Sea Story, A War Story, A Love Story
-The Oceans and the Stars: A Sea Story, a War Story, a Love Story (A Novel)
+The Oceans and the Stars: A Sea Story, a War Story, a Love Story A Novel
 The Official Bulletin
 The Official US Navy Blog
 The Oklahoman
 The Old Steam Navy.
 The Ordnance Department: On Beachhead and Battlefront
 The Organization And Role Of The Army Service Forces In World War II
-The Ottoman Crimean War (1853-1856)
-The Ottoman Steam Navy 1828–1923
+The Ottoman Crimean War 1853-1856
+The Ottoman Steam Navy 1828-1923
 The Ottoman Steam Navy, 1828-1923
-The Ottoman Steam Navy, 1828–1923
-The Ottoman steam navy, 1828–1923
+The Ottoman Steam Navy, 1828-1923
+The Ottoman steam navy, 1828-1923
 The Oxford Encyclopedia of American Military and Diplomatic History
 The Pacific Northwest Quarterly
 The Pirate of the Black Hawk
@@ -21218,28 +21218,28 @@ The Records of Living Officers of the U.S. Navy and Marine Corps
 The Rise and Fall of British Naval Mastery
 The Rise of the Indian Navy: Internal Vulnerabilities, External Challenges
 The Rock
-The Royal Indian Navy, 1939–1945
-The Royal Indian Navy, 1939–1945, Official History of the Indian Armed Forces In the Second World War
+The Royal Indian Navy, 1939-1945
+The Royal Indian Navy, 1939-1945, Official History of the Indian Armed Forces In the Second World War
 The Royal Marines are part of the Naval Service
 The Royal Navy Handbook
-The Royal Navy and Nazi Germany, 1933–39: a Study in Appeasement and the Origins of the Second World War
+The Royal Navy and Nazi Germany, 1933-39: a Study in Appeasement and the Origins of the Second World War
 The Royal Navy in Polar Exploration
 The Royal Navy in Polar Exploration: From Frobisher to Ross
 The Royal Navy: A History From the Earliest Times to the Death of Queen Victoria
 The Royal Navy: A History from the Earliest Times to 1900
 The Royal Yacht Britannia Edinburgh
 The Sacred Warriors: Japan's Suicide Legions
-The Sail &amp; Steam Navy List&#160;: All the ships of the Royal Navy 1815 - 1889
+The Sail & Steam Navy List : All the ships of the Royal Navy 1815 - 1889
 The Sail and Steam Navy List
-The Sail and Steam Navy List, All the Ships of the Royal Navy 1815–1889
+The Sail and Steam Navy List, All the Ships of the Royal Navy 1815-1889
 The Sail and Steam Navy List: All the Ships of the Royal Navy 1815-1889
-The Sail and Steam Navy List: All the Ships of the Royal Navy 1815–1889
+The Sail and Steam Navy List: All the Ships of the Royal Navy 1815-1889
 The Sailing Navy List
-The Sailing Navy List, All the Ships of the Royal Navy – Built, Purchased and Captured 1688–1860
-The Sailing Navy, 1775–1854
+The Sailing Navy List, All the Ships of the Royal Navy - Built, Purchased and Captured 1688-1860
+The Sailing Navy, 1775-1854
 The Saturn Experiment
 The Scuba Doctor
-The Second Was Always First: 2nd Aircraft Repair Unit (Floating)
+The Second Was Always First: 2nd Aircraft Repair Unit Floating
 The Ship That Died of Shame and Other Stories
 The Ship of the Line Volume I
 The Ship of the Line, Vol. 1: The Development of the Battlefleet 1650-1850
@@ -21247,7 +21247,7 @@ The Ship of the Line, Volume I
 The Ships and Aircraft of the United States Fleet, Eighth Edition
 The Ships of Canada's Naval Forces 1910—2002
 The Ships of Trafalgar, the British, French and Spanish Fleets October 1805
-The Signal Corps: The Outcome (Mid-1943 Through 1945)
+The Signal Corps: The Outcome Mid-1943 Through 1945
 The Sixth Battle
 The Sloop of War, 1650-1763
 The Soupy Sales Show
@@ -21262,13 +21262,13 @@ The Technical Services—The Medical Department: Hospitalization And Evacuation,
 The Telegraph
 The Thornycroft List
 The Thornycroft list
-The Tide at Sunrise: A History of the Russo-Japanese War, 1904–1905
+The Tide at Sunrise: A History of the Russo-Japanese War, 1904-1905
 The Times
 The Times of India
 The Times of Israel
 The Tristan da Cunha Website
 The Tudor Navy
-The Tudor Navy&#160;: an administrative, political, and military history
+The Tudor Navy : an administrative, political, and military history
 The U.S. Coast Guard in World War II
 The U.S. Navy: A History
 The United States of War
@@ -21277,13 +21277,13 @@ The Wall Street Journal
 The War Zone
 The Warship Mary Rose: The Life and Times of King Henry VII's Flagship
 The Warzone
-The Washington Conference, 1921–22: Naval Rivalry, East Asian Stability and the Road to Pearl Harbor
+The Washington Conference, 1921-22: Naval Rivalry, East Asian Stability and the Road to Pearl Harbor
 The Washington Post
 The Week
 The What's New Magazine
 The White Ensign in New Zealand
-The White Ensign is still flying above the operations of Naval Party 1022 (NP1022), based at Sembawang Wharves in Singapore.
-The White House, Washington D.C. (George W. Bush archive)
+The White Ensign is still flying above the operations of Naval Party 1022 NP1022, based at Sembawang Wharves in Singapore.
+The White House, Washington D.C. George W. Bush archive
 The Wilkes-Barre Record
 The Windsor Daily Star
 The Wire
@@ -21297,8 +21297,8 @@ The Zhukov Briefing
 The imperial sloops of war from Pori
 The invasion of France and Germany, 1944-1945
 The last Sailing Battlefleet
-The line of battle: the sailing warship, 1650–1840
-The lost ships of the Royal Navy, 1793–1900
+The line of battle: the sailing warship, 1650-1840
+The lost ships of the Royal Navy, 1793-1900
 The steam navy of the United States
 The war at sea, 1939-1945
 TheFreeLibrary by Farlex
@@ -21307,7 +21307,7 @@ Theban
 Theenim
 Thelma
 Thémis
-Thence Round Cape Horn: The Story of United States Naval Forces on Pacific Station, 1818–1923
+Thence Round Cape Horn: The Story of United States Naval Forces on Pacific Station, 1818-1923
 Thenceforward new heavy and light cruisers were numbered in a single sequence.
 Theodocia
 Theodor Riedel
@@ -21326,9 +21326,9 @@ They'll Have to Follow You!: The Triumph of the Great White Fleet
 Thi Tu
 Think Defence
 Thionville
-This Day (Lagos)
+This Day Lagos
 This We'll Defend
-This wing still exists as Airborne Command &amp; Control and Logistics Wing
+This wing still exists as Airborne Command & Control and Logistics Wing
 This wing still exists as Electronic Attack Wing, U.S. Pacific Fleet
 This wing still exists as Fleet Logistics Support Wing
 This wing still exists as Helicopter Maritime Strike Wing, U.S. Atlantic Fleet
@@ -21354,7 +21354,7 @@ Thomas F. Farrell Jr.
 Thomas F. Nickel
 Thomas Freeborn
 Thomas G. Kelley
-Thomas G. Kelley (DDG-140)
+Thomas G. Kelley DDG-140
 Thomas G. Thompson
 Thomas Graham
 Thomas H. Barry
@@ -21683,10 +21683,10 @@ Transcolorado
 Transfer
 Transit
 Transition to Eminence: History of the Indian Navy, 1976-1990
-Transition to Eminence: The Indian Navy, 1976–1990
-Transition to Guardianship: The Indian Navy 1991–2000
-Transition to Guardianship: The Indian Navy, 1991–2000
-Transition to Triumph: History of the Indian Navy, 1965–1975
+Transition to Eminence: The Indian Navy, 1976-1990
+Transition to Guardianship: The Indian Navy 1991-2000
+Transition to Guardianship: The Indian Navy, 1991-2000
+Transition to Triumph: History of the Indian Navy, 1965-1975
 Transpacific
 Transporter
 Transylvania
@@ -21961,7 +21961,7 @@ Twining
 Twitter
 Two Lions
 Two Sisters
-Two letter tail codes with a first letter "A" denote Atlantic Fleet airwings, while "N" denotes Pacific Fleet airwings.
+Two letter tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
 Tybee
 Tyee
 Tyger
@@ -21989,8 +21989,8 @@ U.S. Air Force
 U.S. Aircraft Carriers: An Illustrated Design History
 U.S. Amphibious Ships and Craft: An Illustrated Design History
 U.S. Army
-U.S. Army (LT/ST #)
-U.S. Army Aircraft 1908–1946
+U.S. Army LT/ST #
+U.S. Army Aircraft 1908-1946
 U.S. Army Corps of Engineers
 U.S. Army Corps of Engineers Dredging Operations Technical Support Program
 U.S. Army Europe and Africa
@@ -22001,9 +22001,9 @@ U.S. Army Heraldic Crests: A Complete Illustrated History of Authorized Distinct
 U.S. Army Ships and Watercraft of World War II
 U.S. Army Space and Missile Defense Command
 U.S. Army Training and Doctrine Command
-U.S. Army Transportation in the Southwest Pacific Area 1941–1947
+U.S. Army Transportation in the Southwest Pacific Area 1941-1947
 U.S. Army Transportation in the Southwest Pacific Area, 1941-1947
-U.S. Battleship Operations in World War I, 1917–1918
+U.S. Battleship Operations in World War I, 1917-1918
 U.S. Battleships
 U.S. Battleships, An Illustrated Design History
 U.S. Central Command
@@ -22033,7 +22033,7 @@ U.S. Military about.com
 U.S. Naval Forces Europe and Africa / U.S. Sixth Fleet
 U.S. Naval Forces Europe-Africa/U.S. Sixth Fleet
 U.S. Naval Institute
-U.S. Naval Officers, Vice Admiral and Above, 1864–1963
+U.S. Naval Officers, Vice Admiral and Above, 1864-1963
 U.S. Navy
 U.S. Navy Auxiliary Vessels: A History and Directory from World War I to Today
 U.S. Navy Biographical Dictionary
@@ -22062,7 +22062,7 @@ UK Land Power
 UK Parliament
 US Army
 US Army Corps of Engineers
-US Army Order of Battle 1919–1941, vol. 2
+US Army Order of Battle 1919-1941, vol. 2
 US Army in Germany.com
 US Marine Corps
 US Marine Training Command
@@ -22195,7 +22195,7 @@ Unité
 United
 United Shipbuilding Corporation
 United States
-United States Army In World War II – The Technical Services – The Transportation Corps: Movements, Training, And Supply
+United States Army In World War II - The Technical Services - The Transportation Corps: Movements, Training, And Supply
 United States Army In World War II-The Technical Services-The Transportation Corps: Movements, Training, And Supply
 United States Coast Guard
 United States Coast Guard Academy
@@ -22207,40 +22207,40 @@ United States Naval Institute Proceedings
 United States Navy
 United States Navy Aircraft since 1911
 United States Navy Biographies
-United States Navy Flag Officers (Public), April 2021
-United States Navy Flag Officers (Public), April 2022
-United States Navy Flag Officers (Public), April 2023
-United States Navy Flag Officers (Public), August 2021
-United States Navy Flag Officers (Public), August 2022
-United States Navy Flag Officers (Public), August 2024
-United States Navy Flag Officers (Public), December 2022
-United States Navy Flag Officers (Public), February 2022
-United States Navy Flag Officers (Public), February 2023
-United States Navy Flag Officers (Public), February 2024
-United States Navy Flag Officers (Public), January 2021
-United States Navy Flag Officers (Public), January 2022
-United States Navy Flag Officers (Public), January 2023
-United States Navy Flag Officers (Public), January 2024
-United States Navy Flag Officers (Public), July 2021
-United States Navy Flag Officers (Public), July 2022
-United States Navy Flag Officers (Public), July 2024
-United States Navy Flag Officers (Public), June 2021
-United States Navy Flag Officers (Public), June 2022
-United States Navy Flag Officers (Public), March 2021
-United States Navy Flag Officers (Public), March 2022
-United States Navy Flag Officers (Public), March 2023
-United States Navy Flag Officers (Public), March 2024
-United States Navy Flag Officers (Public), May 2021
-United States Navy Flag Officers (Public), May 2022
-United States Navy Flag Officers (Public), May 2023
-United States Navy Flag Officers (Public), November 2021
-United States Navy Flag Officers (Public), November 2022
-United States Navy Flag Officers (Public), October 2021
-United States Navy Flag Officers (Public), October 2022
-United States Navy Flag Officers (Public), October 2024
-United States Navy Flag Officers (Public), September 2021
-United States Navy Flag Officers (Public), September 2022
-United States Navy Flag Officers (Public), September 2024
+United States Navy Flag Officers Public, April 2021
+United States Navy Flag Officers Public, April 2022
+United States Navy Flag Officers Public, April 2023
+United States Navy Flag Officers Public, August 2021
+United States Navy Flag Officers Public, August 2022
+United States Navy Flag Officers Public, August 2024
+United States Navy Flag Officers Public, December 2022
+United States Navy Flag Officers Public, February 2022
+United States Navy Flag Officers Public, February 2023
+United States Navy Flag Officers Public, February 2024
+United States Navy Flag Officers Public, January 2021
+United States Navy Flag Officers Public, January 2022
+United States Navy Flag Officers Public, January 2023
+United States Navy Flag Officers Public, January 2024
+United States Navy Flag Officers Public, July 2021
+United States Navy Flag Officers Public, July 2022
+United States Navy Flag Officers Public, July 2024
+United States Navy Flag Officers Public, June 2021
+United States Navy Flag Officers Public, June 2022
+United States Navy Flag Officers Public, March 2021
+United States Navy Flag Officers Public, March 2022
+United States Navy Flag Officers Public, March 2023
+United States Navy Flag Officers Public, March 2024
+United States Navy Flag Officers Public, May 2021
+United States Navy Flag Officers Public, May 2022
+United States Navy Flag Officers Public, May 2023
+United States Navy Flag Officers Public, November 2021
+United States Navy Flag Officers Public, November 2022
+United States Navy Flag Officers Public, October 2021
+United States Navy Flag Officers Public, October 2022
+United States Navy Flag Officers Public, October 2024
+United States Navy Flag Officers Public, September 2021
+United States Navy Flag Officers Public, September 2022
+United States Navy Flag Officers Public, September 2024
 United States Navy Uniform Regulations
 United States Navy Uniform Regulations CPO Rating
 United States Senate
@@ -22553,7 +22553,7 @@ Vermilion
 Vermillion
 Vermillion Bay
 Vermont
-Verna &amp; Esther
+Verna & Esther
 Verniy
 Vernon
 Vernon County
@@ -22617,9 +22617,9 @@ Victor Vescovo
 Victoria
 Victoria Louise
 Victoria and Albert
-Victoria and Albert (I)
-Victoria and Albert (II)
-Victoria and Albert (III)
+Victoria and Albert I
+Victoria and Albert II
+Victoria and Albert III
 Victoria de las Tunas
 Victoriaville
 Victorieuse
@@ -22672,8 +22672,8 @@ Vikings in Vietnam
 Vikram
 Vikramaditya
 Vikrant
-Vikrant (1961)
-Vikrant (2013)
+Vikrant 1961
+Vikrant 2013
 Viksten
 Viktor
 Viktor Cherokov
@@ -22796,7 +22796,7 @@ Vladivostok
 Vladivostok \ «Владивосток»
 Vlaming
 Vlastnyi
-VnExpress International – Latest news, business, travel and analysis from Vietnam
+VnExpress International - Latest news, business, travel and analysis from Vietnam
 Vnimatel'nyy
 Vnimatelny
 Vnimatelnyi
@@ -22926,7 +22926,7 @@ Wailaki
 Wäinämöinen
 Wainwright
 Waitemata
-Waiting for Dead Men's Shoes: Origins and Development of the U.S. Navy's Officer Personnel System, 1793–1941
+Waiting for Dead Men's Shoes: Origins and Development of the U.S. Navy's Officer Personnel System, 1793-1941
 Wakaba
 Wakamiya
 Wakasa
@@ -23048,12 +23048,12 @@ Warrick
 Warrington
 Warrior
 Warrior Wench
-Warrior to Dreadnought: Warship Development 1860–1905
+Warrior to Dreadnought: Warship Development 1860-1905
 Wars of the Americas: A Chronology of Armed Conflict in the Western Hemisphere, 1492 to the Present
 Warship
 Warship 1992
 Warship 1995
-Warship 2002–2003
+Warship 2002-2003
 Warship 2005
 Warship 2007
 Warship 2009
@@ -23072,14 +23072,14 @@ Warship International
 Warship Pictorial 23: Italian Heavy Cruisers of World War II
 Warship VI
 Warship, Volume 3
-Warships for Export: Armstrong Warships 1867–1927
+Warships for Export: Armstrong Warships 1867-1927
 Warships of the Imperial Japanese Navy, 1869-1945
-Warships of the Imperial Japanese Navy, 1869–1945
+Warships of the Imperial Japanese Navy, 1869-1945
 Warships of the Napoleonic Era
 Warships of the Russia
-Warships of the Russian Navy, August 1914 – October 1918: Directory
-Warships of the Soviet Fleets 1939–1945
-Warships of the USSR and Russia in 1945–1995.
+Warships of the Russian Navy, August 1914 - October 1918: Directory
+Warships of the Soviet Fleets 1939-1945
+Warships of the USSR and Russia in 1945-1995.
 Warspite
 Warwick
 Wasa
@@ -23461,7 +23461,7 @@ Willard Keith
 Willet
 Willet Rowe
 William
-William &amp; Mary
+William & Mary
 William A. McKenney
 William Ashton
 William B Preston
@@ -23562,13 +23562,13 @@ Winding Gulf
 Windlass
 Windom
 Windrush
-Winds of Change: The History of the Office of the Master Chief Petty Officer of the Navy 1967–1992
+Winds of Change: The History of the Office of the Master Chief Petty Officer of the Navy 1967-1992
 Windsor
 Windsor Castle
 Windward
 Winfield S. Cahill
 Winged Arrow
-Winged Shield, Winged Sword 1950–1997: A History of the United States Air Force
+Winged Shield, Winged Sword 1950-1997: A History of the United States Air Force
 Winger
 Wingfield
 Wingina
@@ -23726,9 +23726,9 @@ Wyman
 Wyoming
 Wythe
 Wyvern
-X (formerly Twitter)
-X (formerly known as Twitter)
-X (formly Twitter)
+X formerly Twitter
+X formerly known as Twitter
+X formly Twitter
 Xanthus
 Xarifa
 Xauen
@@ -23961,7 +23961,7 @@ Zanzibar
 Zapasnyi
 Zara
 Zaragoza
-Zarechnyy (ex R-187)
+Zarechnyy ex R-187
 Zaurak
 Zdship.ru
 Zeal
@@ -24060,7 +24060,7 @@ al-Iskandariyah
 al-Qahirah
 disbanded into 1st Carrier Air Group
 disbanded into 7th Carrier Air Group
-i.e., those reserve officers who are not currently serving on the Training and Administration of the Reserve (TAR) Program, or appointed from the Naval Reserve Integration Program, or a member of the Retired Reserve, see immediately below).
+i.e., those reserve officers who are not currently serving on the Training and Administration of the Reserve TAR Program, or appointed from the Naval Reserve Integration Program, or a member of the Retired Reserve, see immediately below.
 iBiblio
 ilinkJapan
 l'Amazone
@@ -24070,8 +24070,8 @@ le Marin
 los Meregildos
 renumbered 11th Naval TBR Wing
 von Sydow
-x (formerly known as Twitter)
-x.com (formerly known as Twitter)
+x formerly known as Twitter
+x.com formerly known as Twitter
 Şahin-i Deryâ
 Şahin-i Deryâ'
 Şehbaz-ı Bahri

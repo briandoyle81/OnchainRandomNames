@@ -1,14 +1,14 @@
-"Advanced workboats"
-"Långgarn"
-(Drottning) Sofia Magdalena
-(Greve) Sparre
-(Konung) Adolph Fredrik
-(Konung) Gustaf III
-(Prins) Fredrik Adolph
-(Prinsesse), Sophia Charlotta
-(Prinsessin) Sophia Albertina
-(Sankt) Hieronymus
-(Svensk Konstruktionstjänst AB)
+Advanced workboats
+Långgarn
+Drottning Sofia Magdalena
+Greve Sparre
+Konung Adolph Fredrik
+Konung Gustaf III
+Prins Fredrik Adolph
+Prinsesse, Sophia Charlotta
+Prinsessin Sophia Albertina
+Sankt Hieronymus
+Svensk Konstruktionstjänst AB
 Aallokas
 Abborren
 Aborren
@@ -144,7 +144,7 @@ Djärv
 Drage
 Dragoner
 Draken
-Draken&#160;
+Draken 
 Draug
 Dristig
 Dristigheten
@@ -267,7 +267,7 @@ Hägern
 Hai
 Häijy
 Hajen
-Hajen&#160;
+Hajen 
 Hakuni
 Halland
 Halmstad
@@ -318,11 +318,11 @@ Hisingen
 Hitra
 Hjälparen
 Hjort
-Hjvb 232 (Isbjörn)
-Hjvb 282 (Libanon)
-Hjvb 356 (Barry)
-Hjvb 356 (Condor)
-Hjvb 356 (Ocean)
+Hjvb 232 Isbjörn
+Hjvb 282 Libanon
+Hjvb 356 Barry
+Hjvb 356 Condor
+Hjvb 356 Ocean
 Hogland
 Högsåra
 Hojskär
@@ -352,7 +352,7 @@ Isku
 Jacob Bagge
 Jägaren
 Jan Mayen
-Jane's Fighting Ships 2004–2005
+Jane's Fighting Ships 2004-2005
 Janes Fighting Ships 2009-2010
 Janes.com
 Jarl
@@ -520,7 +520,7 @@ Nornen
 Norrköping
 Norrsten
 Norrtälje
-Norsk Maritimt Forlag – Båtliv.no
+Norsk Maritimt Forlag - Båtliv.no
 Norsten
 Nya Riga
 Nyckel
