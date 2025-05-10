@@ -1,4 +1,3 @@
-Advanced workboats
 Långgarn
 Drottning Sofia Magdalena
 Greve Sparre
@@ -33,7 +32,7 @@ Alsen
 Alskär
 Alta
 Altair
-Altair 
+Altair
 Altarskär
 Älvsborg
 Älvsnabben
@@ -42,7 +41,7 @@ Amirante
 Andenes
 Andromeda
 Antares
-Antares 
+Antares
 Apollo
 Äpplet
 Apu
@@ -90,9 +89,6 @@ Blekinge
 Blenda
 Blidö
 Blixt
-Boat 604
-Boats 603, 652 and 655
-Boats 605, 606, 608, 610 and 653
 Bohus
 Bolivar
 Bore
@@ -123,11 +119,7 @@ Christiansand
 Claes Horn
 Claes Uggla
 Clas Fleming
-Combatant Craft Medium
 Constellation
-Conway's All the World's Fighting Ships 1860-1905
-Conway's All the World's Fighting Ships 1906-1921
-Conway's All the World's Fighting Ships 1922-1946
 Cromwell
 Crown
 Croziers
@@ -144,7 +136,7 @@ Djärv
 Drage
 Dragoner
 Draken
-Draken 
+Draken
 Draug
 Dristig
 Dristigheten
@@ -175,7 +167,6 @@ Enhörning
 Enigheten
 Eskdale
 Estland
-F. H. Chapman: the first naval architect and his work
 Fabian Wrede
 Fädenerslandet
 Fairmile D
@@ -195,7 +186,6 @@ Folke
 Foniks
 Forellen
 Förgylta Dufva
-Former Ornö moored at commercial Port of Brégaillon in France as of 2010.
 Försiktigheten
 Første seilas med F311
 Forsvaret
@@ -204,7 +194,7 @@ Försvarssektorn
 Fred
 Frederika Amalia
 Fredrik Rex
-Fredrika/Prinsessa Fredrika von Hessen
+Prinsessa Fredrika von Hessen
 Fredriksværn
 Freia
 Frej
@@ -232,7 +222,7 @@ Getorskär
 Gillöga
 Giovanni Nicotera
 Gladan
-Gladan 
+Gladan
 Glatton
 Glimt
 Glomma
@@ -248,7 +238,6 @@ Göteborg
 Gotha
 Götha Lejon
 Gotland
-Government.no
 Graa Ulv
 Granaten
 Gråskär
@@ -267,7 +256,7 @@ Hägern
 Hai
 Häijy
 Hajen
-Hajen 
+Hajen
 Hakuni
 Halland
 Halmstad
@@ -318,11 +307,11 @@ Hisingen
 Hitra
 Hjälparen
 Hjort
-Hjvb 232 Isbjörn
-Hjvb 282 Libanon
-Hjvb 356 Barry
-Hjvb 356 Condor
-Hjvb 356 Ocean
+Isbjörn
+Libanon
+Barry
+Condor
+Ocean
 Hogland
 Högsåra
 Hojskär
@@ -351,10 +340,6 @@ Iris
 Isku
 Jacob Bagge
 Jägaren
-Jan Mayen
-Jane's Fighting Ships 2004-2005
-Janes Fighting Ships 2009-2010
-Janes.com
 Jarl
 Jarramas
 Jastrząb
@@ -401,7 +386,7 @@ Kongsøy
 Konung Fredrik
 Kopås
 Koster
-Koster 
+Koster
 Kotka
 Kråkenes
 Krickan
@@ -413,7 +398,7 @@ Kuha 22
 Kuha 25
 Kulle
 Kullen
-Kullen 
+Kullen
 Kuore
 Kurki
 Kust
@@ -438,7 +423,7 @@ Lohi
 Lohm
 Loimu
 Loke
-Loke 
+Loke
 Løkhaug
 Lokki
 Lolland
@@ -448,7 +433,6 @@ Louhi
 Louisa Ulrika
 Luleå
 Lysekil
-MKS 180 / Niedersachsen class
 Magne
 Magnus Lagabøte
 Makrillen
@@ -499,9 +483,6 @@ Narvik
 Nationalpark Thy
 Nationen
 Nåttarö
-Naval News
-Naval Technology
-Naval Wars of the Baltic, 1522-1850
 Navy
 Neptun
 Neptunus
@@ -520,7 +501,6 @@ Nornen
 Norrköping
 Norrsten
 Norrtälje
-Norsk Maritimt Forlag - Båtliv.no
 Norsten
 Nya Riga
 Nyckel
@@ -644,8 +624,6 @@ Schonauwen
 Seagull
 Senja
 Shark
-Shipbuilding History
-Shrewsbury Castle
 Sigrid
 Sigrun
 Sigurd
@@ -684,7 +662,6 @@ Snøgg
 Södermanland
 Sökaren
 Sokół
-SoldF.com
 Solen
 Sölve
 Sortland
@@ -749,13 +726,6 @@ Tapper
 Tapperheten
 Tarmo
 Tärnö
-The Barents Observer
-The Defense Post
-The Independent Barents Observer
-The Lighthouse Directory
-The Naval Institute Guide to Combat Fleets of the World: Their Ships, Aircraft, and Systems
-The Nuclear Threat Initiative
-The War Zone
 Thetis
 Thomas
 Thor
