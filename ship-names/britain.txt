@@ -1,15 +1,3 @@
- British Warships in the Age of Sail: 1714-1792. 
- Horatio
- Seahorse
-Hawke
-1745 Establishment
-A Flock of Ships
-A History of the Administration of the Royal Navy and of Merchant Shipping in Relation to the Navy
-A History of the Administration on the Royal Navy sic! 1509-1660
-A Naval History of World War I
-A Ship of the Line
-A Short History of HMS St Christopher
-A Story of the Grand Banks
 Aba
 Abadol
 Abastor
@@ -66,11 +54,10 @@ Adept
 Adjutant
 Admirable
 Admiral
-Admiral Benbow: The Lift and Times of a Naval Legend
+Admiral Benbow
 Admiral DeVries
 Admiral Farragut
 Admiral de Vries
-Admirals of the World: A Biographical Dictionary, 1500 to the Present
 Admiralty
 Adonis
 Adur
@@ -110,10 +97,8 @@ Aigle
 Aimable
 Aimwell
 Ainthorpe
-AirForce.lk
 Aire
 Airedale
-Airfields of Britain Conservation Trust
 Airsprite
 Aisne
 Ajax
@@ -142,7 +127,6 @@ Alberta
 Albion
 Albion II
 Albion III
-Albion-class
 Albrighton
 Albuera
 Albury
@@ -239,8 +223,6 @@ Amphion
 Amphitrite
 Amsterdam
 Amy
-An 2
-An Operational Necessity
 Anaconda
 Anacreon
 Anchorite
@@ -348,18 +330,14 @@ Ark Royal
 Arleigh Burke
 Arlingham
 Armada
-Armada International
 Armadale Castle
 Armanillo
-Armed Forces Day Bognor Regis
 Armeria
 Armide
 Arms of Holland
 Arms of Horn
 Arms of Rotterdam
 Arms of Terver
-Army Code No. 71996, DCC Training Volume II, Skill at Arms Personal Weapons, General Service Pistol L131A1
-Army Technology
 Arndale
 Arno
 Arnprior
@@ -453,7 +431,6 @@ Aurore
 Ausonia
 Austere
 Australia
-Australia's National Heritage
 Autocarrier
 Autumn
 Avalon
@@ -477,7 +454,6 @@ Ayrshire
 Azalea
 Azov
 Aztec
-BBC News
 Babet
 Babur
 Bacchante
@@ -557,14 +533,8 @@ Bathurst
 Batman
 Battersol
 Battle
-Battle Cruisers: The Design and Development of British and German Battlecruisers of the First World War Era
 Battleaxe
-Battlecruisers
 Battler
-Battleships in Transition
-Battleships in Transition, the Creation of the Steam Battlefleet 1815-1860
-Battleships of World War I
-Battleships: Axis and Neutral Battleships in World War II
 Bayano
 Bayfield
 Bayleaf
@@ -602,7 +572,6 @@ Beehive
 Beelzebub
 Beer
 Beeston Castle
-Before Jutland: The Naval War in Northern European Waters, August 1914 - February 1915
 Begonia
 Begum
 Belem
@@ -672,7 +641,6 @@ Bihar
 Bildeston
 Billy Budd
 Bilsthorpe
-Biohazard: Heavenly Island
 Birchleaf
 Birchol
 Bird
@@ -680,7 +648,6 @@ Birdham
 Birkenhead
 Birmingham
 Birnbeck
-Birth of the Battleship: British Capital Ship Design 1870-1881
 Bisham
 Bishopdale
 Bismarck
@@ -743,7 +710,6 @@ Bloom
 Blosse Lynch
 Blossom
 Blue Cloud
-Blue Plaques .co.uk
 Blue Ranger
 Blue Rover
 Bluebell
@@ -769,7 +735,6 @@ Bonhomme Richard
 Bonita
 Bonito
 Bonne Citoyenne
-Book of Orders for the War by Sea and by Land
 Boomerang
 Boordhi-Zaffer
 Bootle
@@ -778,7 +743,7 @@ Borde
 Border
 Borealis
 Boreas
-Boreas 
+Boreas
 Boreham
 Borer
 Bornol
@@ -863,48 +828,11 @@ Bristol
 Britannia
 Britannia III
 Britannic
-British & Empire Warships of the Second World War
-British Aircraft Carriers: Design, Development and Service Histories
-British Battleships
-British Battleships 1889-1904
-British Battleships 1919-1945
-British Battleships of World War One
-British Battleships of World War Two: The Development and Technical History of the Royal Navy's Battleship and Battlecruisers from 1911 to 1946
-British Battleships of the Victorian Era
-British Battleships, 1892-1957: The Great Days of the Fleets
-British Battleships, 1919-1939
 British Beacon
-British Cruisers of the Victorian Era
-British Destroyers & Frigates: The Second World War and After
-British Destroyers From Earliest Days to the Second World War
 British Lady
 British Lantern
 British Light
 British Star
-British Warship Losses in the Age of Sail, 1650-1859
-British Warships 1914-1919
-British Warships and Auxiliaries
-British Warships in the Age of Sail 1603-1714
-British Warships in the Age of Sail 1603-1714: Design, Construction, Careers & Fates
-British Warships in the Age of Sail 1603-1714
-British Warships in the Age of Sail 1603-1714: Design, Construction, Careers and Fates
-British Warships in the Age of Sail 1714-1792
-British Warships in the Age of Sail 1714-1792: Design, Construction, Careers and Fates
-British Warships in the Age of Sail 1793-1817: Design, Construction, Careers and Fates
-British Warships in the Age of Sail, 1603-1714: Design, Construction, Careers and fates
-British Warships in the Age of Sail: 1603-1714 - Design, Construction, Careers and Fates
-British Warships in the Age of Sail: 1793-1817 - Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1603-1714
-British Warships of the Age of Sail 1603-1714: Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1714-1793
-British Warships of the Age of Sail 1714-1792: Design, Construction, Careers and Fates
-British Warships of the Age of Sail 1714-1793
-British Warships of the Age of Sail 1793-1817
-British Warships of the Age of Sail 1794-1817
-British Warships of the Age of Sail 1794-1817: Design, Construction, Careers and Fates
-British Warships of the Age of Sail: 1714-1792 - Design, Construction, Careers and Fates
-British flags, their early history, and their development at sea; with an account of the origin of the flag as a national device
-British, Soviet, French, and Dutch Battleships of World War II
 Britomart
 Briton
 Brixham
@@ -1079,7 +1007,6 @@ Capricornus
 Captain
 Captain of the Araby
 Captivity
-Captures of the First Anglo-Dutch War
 Caradoc
 Caraquet
 Carcass
@@ -1159,7 +1086,6 @@ Cederdale
 Cedric
 Celandine
 Celebes
-Celebrity Cruises
 Celerity
 Celerol
 Celia
@@ -1214,7 +1140,7 @@ Charybdis
 Chaser
 Chasseur
 Chatham
-Chatham 
+Chatham
 Chatham Double
 Chatham Hulk
 Chatham Prize
@@ -1342,7 +1268,6 @@ Codrington
 Colchester
 Colchester Castle
 Colibri
-Colin Mackie at gulabin.com
 Colleen
 Collingwood
 Collinson
@@ -1368,7 +1293,6 @@ Comfrey
 Commandant Domine
 Commandant Duboc
 Commander Holbrook
-Commando Insertion Craft
 Commerce de Marseille
 Commonwealth
 Comorin
@@ -1409,11 +1333,6 @@ Convertine
 Convolvulus
 Convulsion
 Conway
-Conway's All The World's Fighting Ships 1922-1946
-Conway's All the World's Fighting Ships 1860-1905
-Conway's All the World's Fighting Ships 1906-1921
-Conway's Battleships: The Definitive Visual Reference to the World's All-Big-Gun Ships
-Conway's all the world's fighting ships 1947-1995
 Cook
 Cooke
 Coote
@@ -1634,7 +1553,6 @@ Dedaigneuse
 Dee
 Deepwater
 Default
-Defeat of the Spanish Armada
 Defence
 Defender
 Defiance
@@ -1720,7 +1638,6 @@ Dinsdale
 Diomede
 Dipper
 Director
-Directory of the World's Capital Ships
 Dirk
 Discoverer
 Discovery
@@ -1767,14 +1684,13 @@ Dove
 Dover
 Dover Castle
 Dover Prize
-Dover : Lock and Key of the Kingdom
 Dovey
 Dowgate
 Downham
 Downley
 Dragon
 Dragon Prize
-Dragon Strike - The Millennium War
+Dragon Strike
 Dragon Wing
 Dragonfly
 Drake
@@ -1873,7 +1789,6 @@ Dusky Queen
 Dust on the Sea
 Duthies
 Dwarf
-Dykes, Godfrey
 Eagle
 Eagle Shallop
 Eagle Trap
@@ -2030,7 +1945,6 @@ Enard Bay
 Enchantress
 Encore
 Encounter
-Encyclopedia of World War II 2-Volume Set
 Endeavour
 Endeavour Bark
 Endeavour Transport
@@ -2096,7 +2010,6 @@ Euphrosyne
 Europa
 Europa II
 Europa III
-European Security and Defence
 Eurotas
 Eurus
 Euryalus
@@ -2106,7 +2019,6 @@ Evadne
 Evenlode
 Everingham
 Everjust
-Ex-French Prizes 1704 - 1709
 Example
 Excalibur
 Excellent
@@ -2154,7 +2066,6 @@ Fandango
 Fanfan
 Fanny
 Fantome
-Far-Flung Lines: Essays on Imperial Defense in Honour of Donald Mackenzie Schurman
 Fara Numa
 Fareham
 Farndale
@@ -2219,7 +2130,6 @@ Fireplay
 Firequeen
 Firm
 Firme
-First and second class commodore ranks were introduced in 1826 the first class commodore commanded captains and ships the second class commodore flew a different broad pennant when on board a ship and in command himself.
 Fisgard
 Fisgard II
 Fisgard III
@@ -2243,7 +2153,6 @@ Flash
 Flax
 Fleche
 Fledgling
-Fleet Air Arm Archive.net
 Fleetwood
 Fleur de Lys
 Fleur de la Mer
@@ -2364,11 +2273,8 @@ Fresia
 Frettenham
 Freya
 Friday
-Friends of the Old Pier Society
 Friendship
-Friendship Ahoy!
 Friezland
-Frigates of the Napoleonic Wars
 Friponne
 Fritham
 Fritillary
@@ -2379,7 +2285,7 @@ Frome
 Fubbs
 Fuerte
 Fuh Wo
-Full Ahead! Coco
+Full Ahead!
 Fulmar
 Fulmar II
 Fulminate
@@ -2390,48 +2296,6 @@ Fury
 Fuze
 Fyen
 Fylla
-GB No. 10
-GB No. 11
-GB No. 12
-GB No. 13
-GB No. 14
-GB No. 15
-GB No. 16
-GB No. 17
-GB No. 18
-GB No. 19
-GB No. 20
-GB No. 21
-GB No. 22
-GB No. 23
-GB No. 24
-GB No. 25
-GB No. 26
-GB No. 27
-GB No. 28
-GB No. 29
-GB No. 30
-GB No. 31
-GB No. 32
-GB No. 33
-GB No. 34
-GB No. 35
-GB No. 36
-GB No. 37
-GB No. 38
-GB No. 39
-GB No. 4
-GB No. 40
-GB No. 41
-GB No. 42
-GB No. 43
-GB No. 44
-GB No. 45
-GB No. 5
-GB No. 6
-GB No. 7
-GB No. 8
-GB No. 9
 Gabbard
 Gabriel
 Gabriel Harfleur
@@ -2775,7 +2639,6 @@ Hamadryad
 Hambledon
 Hamidieh
 Hampshire
-Hampshire and D-Day
 Hampton Court
 Handmaid
 Handy
@@ -2915,9 +2778,6 @@ Hinksford
 Hippo
 Hippomenes
 Hirondelle
-His Majesty's U-Boat
-Historic Shipwrecks, Discovered, Protected and Investigated
-History of the Administration of the Royal Navy and of Merchant Shipping in Relation to the Navy from 1509 to 1660 with an introduction treating of the Preceding Period
 Hobart
 Hoche
 Hodgeston
@@ -2959,9 +2819,6 @@ Hoptown
 Horatio
 Hornbill
 Hornbill II
-Hornblower and the Atropos
-Hornblower and the Hotspur
-Hornblower in the West Indies
 Hornby
 Hornet
 Hornpipe
@@ -2969,7 +2826,6 @@ Horseman
 Horsleydown
 Hoste
 Hostile
-Hostilities Only - Training the Wartime Royal Navy
 Hot Springs
 Hotham
 Hotspur
@@ -2982,7 +2838,6 @@ Howe
 Howett
 Howitzer
 Hubberston
-Hugh Cortazzi - Collected Writings
 Hugh Lindsay
 Hugh Rose
 Hughes
@@ -3084,7 +2939,6 @@ Instow
 Integrity
 Intelligence
 Intelligent
-International Journal of Nautical Archaeology
 Intrepid
 Invention
 Inverlyon
@@ -3150,9 +3004,6 @@ James Watt
 James of Hull
 Jamie
 Jane
-Jane's Defence Weekly
-Jane's Fighting Ships 2023-2024
-Jane's War at Sea, 1897-1997
 Janet
 Janissary
 Janus
@@ -3224,8 +3075,6 @@ Justinian
 Justitia
 Justitia II
 Jutland
-Jutland: An Analysis of the Fighting
-Jutland: The German Perspective: A New View of the Great Battle, 31 May 1916
 Kale
 Kalgoorlie
 Kalugu
@@ -3246,7 +3095,7 @@ Kashmir
 Katarina Fortileza
 Kateryn Galley
 Katherine
-Katherine 
+Katherine
 Katherine Bark
 Katherine Breton
 Katherine Fortileza
@@ -3452,7 +3301,6 @@ La Gallarita
 La Loire
 La Malbai
 La Malouine
-La Marine de Louis XVI: Nomenclature des Navires Français de 1774 à 1792
 La Melpomène
 La Moqueuse
 La Superlativa
@@ -3524,7 +3372,6 @@ Lasalle
 Lascelles
 Lasham
 Lassoo
-Latin America: A Naval History, 1810-1987
 Latona
 Latrobe
 Lauderdale
@@ -4138,7 +3985,6 @@ Minerva
 Minerve
 Mingan
 Minion
-Ministry of Defence
 Minnikin
 Minorca
 Minoru
@@ -4230,7 +4076,6 @@ Mourne
 Mowhawk
 Moy
 Moyola
-Mr. Midshipman Hornblower
 Mulette
 Mulgrave
 Mull
@@ -4298,27 +4143,12 @@ Nasturtium
 Natal
 Nathan James
 Nathaniell
-National Archives of Australia
 National Treasure
 Natividad
 Naushon
 Nautilus
-Naval Battles of World War II
-Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005
-Naval History.net
-Naval News
-Naval Operations
-Naval Technology
-Naval Technology.com
-Naval Weapons of World War One
-Naval warfare, 1815-1914, Volume 2000, Warfare and History
 Navarino
 Navy
-Navy Board
-Navy Lookout
-Navy News
-Navy Transport
-NavyX
 Nazareth
 Nearque
 Necker
@@ -4326,9 +4156,6 @@ Ned Elvin
 Negresse
 Negro
 Nelson
-Nelson to Vanguard: Warship Design and Development, 1923-1945
-Nelson's Navy
-Nelson's Navy: The Ships, Men and Organisation, 1793-1817
 Nemesis
 Nemo
 Nene
@@ -4355,8 +4182,6 @@ New Bark
 New Betsey
 New Glasgow
 New York
-New Zealand
-New Zealand Government Press Release
 New Zealand
 Newark
 Newash
@@ -4475,8 +4300,6 @@ Odiham
 Odin
 Odzani
 Offa
-Office of vice-admiral of the coast : being some account of that ancient office
-Official History of New Zealand in the Second World War 1939-45: The Royal New Zealand Navy
 Ogre
 Ohio
 Oiseau
@@ -4513,8 +4336,6 @@ Olympus
 Olynthus
 Omdurman
 On the Beach
-One of Our Warships
-One of our Warships
 Onondaga
 Onslaught
 Onslow
@@ -4580,7 +4401,6 @@ Otus
 Oudenarde
 Oulston
 Oundle
-Our Ironclad Ships, their Qualities, Performance and Cost
 Our Land
 Ouragan
 Ouse
@@ -4602,10 +4422,8 @@ Packington
 Pactolus
 Padstow
 Padstow Bay
-Page viii
 Pagham
 Pakenham
-Pakistan Defence
 Paladin
 Palinurus
 Pallas
@@ -4823,7 +4641,6 @@ Polavon
 Poldark
 Polecat
 Polgowan
-Policy Department External Policies
 Pollington
 Pollux
 Polmont
@@ -5043,7 +4860,6 @@ Quilliam
 Quinte
 Quittance
 Quorn
-RAF.MoD.uk
 Raadhuis van Haarlem
 Raby Castle
 Racehorse
@@ -5118,7 +4934,6 @@ Redwing
 Reedham
 Regent
 Reggio
-Regulations and Instructions Relating to His Majesty's Service at Sea
 Regulus
 Reindeer
 Reindeer I
@@ -5128,14 +4943,12 @@ Reliant
 Remembrance
 Renard
 Renascent
-Rendezvous-South Atlantic
 Rendlesham
 Renegade
 Renommee
 Renonculus
 Renown
 Republican
-Republican Internment and the Prison Ship Argenta, 1922
 Repulse
 Requin
 Research
@@ -5267,19 +5080,12 @@ Royal James
 Royal Katherine
 Royal Marine
 Royal Mary
-Royal Navy
-Royal Navy Research Archive - Fleet Air Arm Bases 1939 - present day
-Royal Navy Research Archive - The MONAB Story
-Royal Navy Torpedo Vessels
-Royal Navy Website
 Royal Oak
 Royal Prince
 Royal Scotsman
 Royal Sovereign
 Royal Ulsterman
 Royal William
-Royal Yachts Under Sail
-Royal Yachts of the World
 Royalist
 Rozeboom
 Rubis
@@ -5525,16 +5331,9 @@ Sheldrake
 Shemara
 Shepperton
 Sherwood
-Shield of Empire - The Royal Navy and Scotland
 Shikari
 Shiloh
 Shipham
-Ships by name
-Ships have been listed by class as in Lambert.
-Ships of the Royal Navy
-Ships of the Royal Navy: An Historical Index
-Ships of the Royal Navy: The Complete Record of all Fighting Ships of the Royal Navy from the 15th Century to the Present
-Shore Establishments of the Royal Navy
 Shoreham
 Shoreham Prize
 Shrewsbury
@@ -5596,7 +5395,6 @@ Slinger
 Slot Hooningen
 Slothany
 Sluys
-Small Arms Defense Journal
 Small Bark
 Small Swallow
 Smilax
@@ -5679,7 +5477,7 @@ Spiraea
 Spirit
 Spiteful
 Spitfire
-Spitfire 
+Spitfire
 Splendid
 Sportive
 Sportsman
@@ -5760,7 +5558,6 @@ Staunch
 Stayner
 Steadfast
 Steady
-Steam, Steel and Shellfire: The Steam Warship 1815-1905-Conway's History of the Ship
 Stedham
 Stedmound
 Sterlet
@@ -5830,7 +5627,6 @@ Surly
 Surprise
 Surprize
 Surveillante
-Survey Ships Association
 Sussex
 Sutanto
 Sutherland
@@ -5961,110 +5757,28 @@ Thames
 Thane
 Thanet
 Thatcham
-The 44-gun frigate USS Constitution : Old Ironsides
 The Admiral
-The Adventures of Tintin
-The Age of Fighting Sail
-The Andrew and The Onions: The Story of The Royal Navy in Bermuda, 1795-1975
 The Backup Asset
-The Battlecruiser HMS Hood: An Illustrated Biography, 1916-1941
-The Battleship Builders - Constructing and Arming British Capital Ships
-The Battleship Dreadnought
-The Battleship and Battlecruiser
-The Black Battlefleet
 The Boat
-The British Battleship 1906-1946
-The Complete Encyclopedia of Battleships and Battlecruisers: A Technical Directory of All the World's Capital Ships From 1860 to the Present Day
-The Cruel Sea
 The Deep Silence
-The Destroyers
-The Distinction Pendant to denote a Commander-in-Chief who did not hold flag rank
-The Eclipse of the Big Gun: The Warship 1906-45
-The Eclipse of the Big Gun: The Warship, 1906-45
 The Fighting Spirit
 The Fighting Temeraire
-The Fighting Temeraire tugged to her last berth to be broken
-The First World War
-The Fleet Air Arm Handbook 1939-1945
 The Flying Dutchman
-The Gathering Storm: The Naval War in Northern Europe September 1939 - April 1940
 The Ghost Pattern
 The Gloria Scott
-The Grand Fleet, 1914-1916: Its Creation, Development, and Work
-The Great Dreadnought: The Strange Story of H.M.S. Agincourt: The Mightiest Battleship of World War I
-The Great War: American Front
-The Great War: Walk in Hell
 The Guardian
 The Happy Return
 The Hesperus
 The Hinde
 The Hindu
-The Irish War of Independence
-The Iron Pirate: A Plain Tale of Strange Happenings on the Sea
-The Kipling Society
-The Last Century of Sea Power Volume 1, From Port Arthur to Chanak, 1894-1922
-The Last Sailing Battlefleet
-The Last Sailing Battlefleet, Maintaining Naval Mastery 1815-1850
+The Iron Pirate
 The Last Ship
 The Line of Battle
 The Love Nest
-The Mariner's Mirror
 The Master Mariner
-The Mediterranean Fleet, 1919-1929
 The Medusa Trust
 The Navy Lark
-The Navy List
-The Navy List for April, 1920
-The Navy List for December, 1915
-The Navy List for January, 1920
-The Navy List for July, 1915
-The Navy List for March, 1913
-The Navy List for March, 1919
-The Navy List for May, 1919
-The Navy List for November, 1920
-The Oceans and the Stars: A Sea Story, A War Story, A Love Story
-The Oceans and the Stars: A Sea Story, a War Story, a Love Story A Novel
-The Pirate of the Black Hawk
-The Queen's Regulations for the Royal Navy: Revised ..
 The Ramchunder
-The Rise and Fall of British Naval Mastery
-The Royal Marines are part of the Naval Service
-The Royal Navy Handbook
-The Royal Navy and Nazi Germany, 1933-39: a Study in Appeasement and the Origins of the Second World War
-The Royal Navy in Polar Exploration
-The Royal Navy in Polar Exploration: From Frobisher to Ross
-The Royal Navy: A History from the Earliest Times to 1900
-The Royal Yacht Britannia Edinburgh
-The Sail and Steam Navy List
-The Sail and Steam Navy List, All the Ships of the Royal Navy 1815-1889
-The Sail and Steam Navy List: All the Ships of the Royal Navy 1815-1889
-The Sail and Steam Navy List: All the Ships of the Royal Navy 1815-1889
-The Sailing Navy List
-The Sailing Navy List, All the Ships of the Royal Navy - Built, Purchased and Captured 1688-1860
-The Saturn Experiment
-The Ship That Died of Shame and Other Stories
-The Ship of the Line Volume I
-The Ship of the Line, Vol. 1: The Development of the Battlefleet 1650-1850
-The Ship of the Line, Volume I
-The Sixth Battle
-The Sloop of War, 1650-1763
-The Squadrons and Units of the Fleet Air Arm
-The Squadrons of The Fleet Air Arm
-The Thornycroft List
-The Thornycroft list
-The Times
-The Tristan da Cunha Website
-The Tudor Navy
-The Tudor Navy : an administrative, political, and military history
-The Warship Mary Rose: The Life and Times of King Henry VII's Flagship
-The White Ensign in New Zealand
-The White Ensign is still flying above the operations of Naval Party 1022 NP1022, based at Sembawang Wharves in Singapore.
-The World of the Onedin Line
-The Zhukov Briefing
-The last Sailing Battlefleet
-The line of battle: the sailing warship, 1650-1840
-The lost ships of the Royal Navy, 1793-1900
-The war at sea, 1939-1945
 Theban
 Theodocia
 Thermol
@@ -6242,8 +5956,6 @@ Tryton
 Tryton Prize
 Trywright
 Tudor
-Tudor Sea Power
-Tudor Sea Power: the Foundation of Greatness
 Tulip
 Tumult
 Tuna
@@ -6270,11 +5982,6 @@ Tynwald
 Typhoon
 Tyrant
 Tyrian
-U.S. Battleship Operations in World War I, 1917-1918
-U.S. Battleships
-UK Defence Journal
-UK Parliament
-Uboat.net
 Ufton
 Uganda
 Ukussa
@@ -6303,7 +6010,6 @@ Unique
 Unison
 Unite
 United
-United States Navy
 Unity
 Unity II
 Unity III
@@ -6529,12 +6235,6 @@ Warren
 Warren Hastings
 Warrior
 Warrior Wench
-Warrior to Dreadnought: Warship Development 1860-1905
-Warship 1995
-Warship 2005
-Warship 2009
-Warship Histories, vol i
-Warship, Volume 3
 Warspite
 Warwick
 Washington
@@ -6677,11 +6377,9 @@ Woolwich
 Woolwich Transport
 Worcester
 Worcester Prize
-World War 1 - Casualty Lists of the Royal Navy and Dominion Navies
 Worthing
 Wotton
 Wrangler
-Wreck Diving Tales: Diving Nova Scotia's Shipwrecks
 Wren
 Wrenn
 Wrentham
@@ -6733,9 +6431,3 @@ Zodiac
 Zubian
 Zulu
 Zwarte Raaf
-Zylpha
-disbanded into 1st Carrier Air Group
-disbanded into 7th Carrier Air Group
-ilinkJapan
-l'Amazone
-renumbered 11th Naval TBR Wing
