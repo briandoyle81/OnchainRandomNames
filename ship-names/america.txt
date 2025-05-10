@@ -6916,7 +6916,7 @@ Porto Santo
 Portobago
 Portsmouth
 Portunus
-Poseidon ARL-12
+Poseidon
 Positive
 Postillion
 Postmaster General
@@ -8010,7 +8010,6 @@ Silverbell
 Silverleaf
 Silversides
 Silverstein
-SimWorksStudios
 Simon Bolivar
 Simon Lake
 Simon Newcomb
