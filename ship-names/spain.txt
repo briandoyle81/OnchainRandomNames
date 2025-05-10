@@ -1,0 +1,942 @@
+"Rodman-1250 class"
+-   Guadalete
+A-11 Marques de la Ensenada
+A-11 Teide
+A-62 Maquinista Macias
+A-63 Torpedista Hernandez
+A-64 Fogonero Bañobre
+A-65 Marinero Jarano
+A-66 Condestable Zaragoza
+Acevedo
+Achernar
+Activo
+Adjutant class
+África
+Agosta
+Aguila
+Águila
+Águila Volante
+Águila de Nantes
+Alarma
+Albatros III
+Albay
+Alborán
+Alcalá Galiano
+Alcázar
+Alerta
+Alessandro Poerio
+Alfonso XII
+Alfonso XIII
+Algésiras
+Algoma
+Alliance
+Almansa
+Almendares
+Almirante Cervera
+Almirante Juan de Borbón
+Almirante Lobo
+Almirante Miranda
+Almirante Oquendo
+Almirante Valdés
+Almonte
+Alsedo
+Álvaro de Bazán
+Amatista
+Andalucia
+Andalucía
+Andalucia Baja
+Andaluza
+Andromeda
+Anfítrite
+Ángel de la Guarda
+Animosa
+Antonio Ulloa
+Aquila
+Aragon
+Aragón
+Araguary
+Arapiles
+Arayat
+Archimede
+Arcíla
+Ardid
+Ardilla
+Aretusa
+Argonaute
+Argos
+Ariete
+Arlanza
+Armada Española
+Armada de la Carrera de Indias
+Armada del Mar del Sur
+Arnomendi
+Arrogante
+Asia
+Asiento de Diego de Noia
+Asiento del Consulado
+Astrea
+Astrolabio
+Asturias
+Astuto
+Atalaya
+Atlas
+Atrevida
+Audaz
+Aurora
+Ave de Gracia
+Avtroil
+Azor
+Badajoz
+Bailén
+Balanguingui
+Balao
+Baleares
+Bang
+Baracoa
+Barceló
+Barnstable County
+Basco
+Battleships: Axis and Neutral Battleships in World War II
+Berenguela
+Bidasoa
+Blanca
+Blas de Lezo
+Blasco de Garay
+Bluebird class
+Bojeador
+Bonifaz
+Brillante
+Brisquard
+Buen Consejo
+Buenaventura
+Bulusán
+Buques Hidrográficos Costeros
+Buques de vapor de la armada española, del vapor de ruedas a la fragata acorazada, 1834-1885
+Burlandín
+Bustamante
+Cabo Fradera
+Cabo de infantería de Marina Garciolo
+Cabot
+Cadarso
+Cadena 4
+Cala Portas
+Calamianes
+Calvo Sotelo
+Calypso
+Cambi
+Campeón
+Campillo
+Canalejas
+Canarias
+Cándido Pérez
+Canovas del Castillo
+Cánovas del Castillo
+Cantabria
+Cardenal Cisneros
+Caribe
+Caridad
+Caridad Inglesa
+Carmen
+Carmén
+Carric Castle
+Castilla
+Castillo de Arevalo
+Castle
+Cástor
+Catalán
+Catalina
+Cataluna
+Cataluña
+Cauto
+Cazador
+Cebú
+Censeur
+Centinela
+Ceres
+Céres
+Chilreu
+Churruca
+Cies
+Circe
+Ciscar
+Ciudad de Cádiz
+Clara
+Cocodrilo
+Colón
+Cometa
+Concepción
+Concepcion de Napoles
+Concepcion de Zubelzu
+Concordia
+Conde de Regla
+Conde de Tolosa
+Conde de Venadito
+Conde del Venadito
+Condestable Zaragoza
+Cóndor
+Congreso
+Congreso Mexicano
+Conquérant
+Conquistador
+Constancia
+Consuelo
+Contento
+Contramaestre
+Contramaestre Antero
+Contramaestre Casado
+Contramaestre Castelló
+Contramaestre Lamadrid
+Contramaestre Navarrete
+Contramaestre Sanchez Fernandez
+Conway's All the World's Fighting Ships 1906–1921
+Corcuera
+Cornelia
+Cornelie
+Cortes
+Cosme Garcia
+Cosme García
+Covadonga
+Criollo
+Cristóbal Colón
+Cuba Española
+Cuervo
+D'Entrecasteaux
+D-41 Oquendo
+D-42 Roger de Lauria
+D-43 Marqués de la Ensenada
+D-51 Liniers
+D-52 Álava
+DD509 Converse
+DD550 Capps
+DD551 Taylor
+DD678 McGowan
+DD711 Eugene A. Greene
+DD779 Jarvis
+DD841 Noa
+DD879 Leary
+DD882 Furse
+DD889 O'Hare
+Dainty
+Dardo
+Defensa Aviacion
+Defensa.com
+Defense News
+Dejá vu
+Delfín
+Desaix
+Descubierta
+Descubridor
+Destello
+Diamante
+Diana
+Dichoso
+Diligence
+Diligente
+Divina Pastora
+Dominante
+Don Álvaro de Bazán
+Don Antonio de Ulloa
+Don Juan de Austria
+Doña María de Molina
+Dorada
+Dorado
+Dragón
+Drezden
+Ebro
+Eco
+Edetana
+Eduardo Dato
+Ejército
+El Burlando
+El Chico
+El Debate
+El Real
+El Real Jorge
+Elcano
+Emperador Carlos V
+Emprendedor
+Eolo
+Ericsson
+Escaño
+Esmeralda
+España
+Esperanza
+Estrella
+Estrella del Mar
+Eulalia
+Evangelista Torricelli
+Extremadura
+F-01 Marte
+F-02 Neptuno
+F-11 Júpiter
+F-12 Vulcano
+F-21 Eolo
+F-22 Tritón
+F-31 Pizarro
+F-32 Hernán Cortés
+F-33 Vasco Núñez de Balboa
+F-34 Martín Alonso Pinzón
+F-35 Magallanes
+F-36 Sarmiento de Gamboa
+F-41 Vicente Yáñez Pinzón
+F-42 Legazpi
+F-51 Descubierta
+F-61 Atrevida
+F-62 Princesa
+F-63 Diana
+F-64 Nautilus
+F-65 Villa de Bilbao
+F/Laurenti
+Falange
+Fama
+Fama Volante
+Favorita
+Fénix
+Ferme
+Fernado el Católico
+Fernandillo
+Fernando VII
+Fernando el Católico
+Ferrol
+Ferrolana
+Ferrolano
+Fidela
+Filipinas
+Firme
+Flecha
+Flora
+Foca
+Fogonero Bañobre
+Formosa
+Fradera
+Francis Marion
+Furor
+Gacela
+Gaditano
+Gagadget.com
+Galera Victoria
+Galera de España
+Galera de Neptuno
+Galerna
+Galga
+Galgo de Andalucia
+Galicia
+Galicia Prize
+Galleons and Galleys
+Gallo Indiano
+Gardoqui
+Gaton
+Gaviota
+General Alava
+General Blanco
+General Lezo
+General Liniers
+General Mola
+Genovés
+Geoffrey
+Gerona
+Gibraltar
+Giralda
+Giuseppe Garibaldi
+Gloria
+Gloucester
+Gneisenau
+Golondrina
+Gran Princesa de los Cielos
+Grana
+Gravina
+Greyhound
+Griega
+Guadalquivir
+Guadalupe
+Guadiana
+Guadiaro
+Guantánamo
+Guardiamarina Barrutia
+Guardiamarina Chereguini
+Guardiamarina Rull
+Guardiamarina Salas
+Guardián
+Guglielmo Pepe
+Guipúzcoa
+Gusana
+Habana
+Halcón
+Harlan County
+Haskell
+Helbrech
+Heléne
+Hércules
+Hermiona
+Hermione
+Hernán Cortés
+Héroe
+Heros
+Hispaniola
+Holland F-105
+Holyghost de la Tour
+Huelva
+Iberia
+Ifigenia
+Independence
+Indio
+Industria
+Infanta
+Infanta Isabel
+Infanta Maria Teresa
+Infante
+Infobae
+Infodefensa - Noticias de defensa, industria, seguridad, armamento, ejércitos y tecnología de la defensa
+Intrépide
+Intrépido
+Invencible
+Iphigénie
+Iris
+Isaac Peral
+Isabel Francisca
+Isabel II
+Isabel la Católica
+Isabelle
+Isla de Cuba
+Isla de Luzon
+Isla de Luzón
+Izaro
+Jaime I
+Jallao
+Janes.com
+Jardín de Tritón
+Javier Quiroga
+Jesus, Maria y José
+Joló
+Jorge Juan
+Juan Carlos I
+Juan Sebastián Elcano
+Juan Sebastián de Elcano
+Julian Ordoñez
+Julián Ordóñez
+Julieta
+Juno
+Júpiter
+Kanguro
+Kraken
+La Chata
+La Concepción
+La Lavia
+La Natividad de Nuestra Señora
+La Razon
+La Salutación de la Virgen
+La Señora Sara
+La Visitación de Nuestra Señora
+Lanao
+Lanfranco
+Larache
+Lauria
+Lavanguardia
+Laya
+Lazaga
+Lealtad
+Lebrel
+Legkii
+León
+León Coronado
+Lepanto
+Liebre
+Ligera
+Lince
+Lion Couronné
+Lion de Oro
+Lista
+Littorio
+Liubek
+Los Submarinos Españoles
+Luis de Córdova
+Luzón
+M-01 Bidasoa
+M-02 Nervión
+M-03 Lérez
+M-04 Tambre
+M-05 Segura
+M-06 Ter
+M-11 Diana
+M-11 Guadiaro
+M-12 Tinto
+M-13 Eume
+M-14 Almanzora
+M-15 Navia
+M-16 Eo
+M-17 Guadalhorce
+Mac-Mahón
+Mactán
+Magallanes
+Magdalena
+Mahonesa
+Manatí
+Manuela
+Maquinista Macias
+María Isabel
+Maria Juan
+María de Molina
+Marinero
+Marinero Cante
+Marinero Jarana
+Mariveles
+Marqués de Molins
+Marques de la Ensenada
+Marqués de la Victoria
+Marsopa
+Marte
+Martín Alonso Pinzón
+Martín Álvarez
+Mateo García de los Reyes
+Mayarí
+Mazarredo
+Medea
+Mendez Nuñez
+Méndez Núñez
+Menéndez de Avilés
+Mer et Marine
+Mercurio
+Merkurii
+Mersey
+Meteoro
+Mexicana
+Miguel de Cervantes
+Mindanao
+Mindoro
+Minerva
+Ministerio de Defensa
+Miño
+Mistral
+Monarca
+Monstraut
+Montañés
+Moro
+Morsa
+Nápoles
+Narciso Monturiol
+Narváez
+Narval
+Naval Analyses
+Naval News
+Navarra
+Navas de Tolosa
+Navíos de la Real Armada 1700-1860
+Nelson
+Neptune
+Neptuno
+Neptunus
+Nervión
+Neuenfelds
+Newport
+Ninfa
+Noble
+Nord-Adler
+Nuestra Señora de Atocha
+Nuestra Señora de Begoña
+Nuestra Señora de Belén
+Nuestra Señora de Bethlehen
+Nuestra Señora de Guadalupe
+Nuestra Senora de Iclar
+Nuestra Señora de Las Vinas
+Nuestra Señora de Loreto
+Nuestra Señora de Regla
+Nuestra Señora de la Almudena y San Cayetano
+Nuestra Señora de la Concepción
+Nuestra Señora de la Concepción y las Animas
+Nuestra Señora de la O
+Nuestra Señora de la Purificatión
+Nuestra Señora de la Santísima Trinidad
+Nuestra Señora del Buen Consejo
+Nuestra Señora del Carmen
+Nuestra Señora del Carmen y San Antonio
+Nuestra Senora del Pilar
+Nuestra Señora del Pilar
+Nuestra Señora del Rosario
+Nuestra Señora del Triunfo
+Nueva España
+Numancia
+Ocean Osprey.
+Oceanía
+Oliver Hazard Perry
+Ordóñez
+Oriente
+Orión
+Osado
+Otálora
+Overijssel
+Oviedo
+P-01 Lazaga
+P-02 Alsedo
+P-03 Cadarso
+P-04 Villaamil
+P-05 Bonifaz
+P-06 Recalde
+P-11 Barceló
+P-12 Laya
+P-13 Javier Quiroga
+P-14 Ordóñez
+P-15 Acevedo
+P-16 Candido Perez
+P-21 Anaga
+P-23 Marola
+P-24 Mouro
+P-27 Izaro
+P-29 Deva
+P-30 Bergantín
+P-30 Grosa
+P-31 Conejera
+P-32 Dragonera
+P-33 Espalmador
+P-34 Alcanada
+P-41 Cormorán
+P-61 Chilreu
+P75 Descubierta
+P76 Infanta Elena
+P77 Infanta Cristina
+P78 Cazadora
+P79 Vencedora
+Palas
+Paloma Indiana
+Pampanga
+Pampero
+Panay
+Paragua
+Patiño
+Patricio
+Paul Revere
+Paz
+Pegaso
+Peibo del ler San Francisco
+Pelayo
+Pelícano
+Pembroke
+Pena
+Península
+Peral
+Peregrina
+Perla
+Perla de España
+Peruano
+Petronila
+Picuda
+Pilar
+Piles
+Pingue Pintado
+Pingue Volante
+Pizarro
+Poder
+Pólux
+Pomona
+Porto Coeli
+Poseidon
+Pospeshnyi
+Potencia
+Preciosa
+Prince William
+Princesa
+Princesa de Asturias
+Princessa
+Príncipe
+Principe Alfonso
+Príncipe de Asturias
+Procyon
+Pronta
+Proserpina
+Prosperidad
+Providencia
+Provornyi
+Prueba
+Punta Amer.
+Purísima Concepción
+Rápido
+Rayo
+Real Familia
+Real Felipe
+Real Jorge
+Rebeca
+Recalde
+Reina
+Reina Cristina
+Reina Doña Isabel II
+Reina María Cristina
+Reina Mercedes
+Reina Regente
+Reina Santa Isabel
+Reina Sofía
+Reina Victoria Eugenia
+Reina de Castilla
+Relámpago
+Requeté
+Resolución
+Restauración
+Retamosa
+Rey Don Francisco de Asís
+Rigel
+Rio de la Plata
+Roger de Lauria
+Ronquil
+Rosa
+Rotterdam Class
+Royal George
+Rubí
+S. Buenaventura
+S. S. Medel y Celedon
+Sagrario
+Sagunto
+Salamandra
+Salvador
+Salvador del Mundo
+Salvora
+Samar
+San Agustín
+San Ambrosio
+San Andrés
+San Antonio
+San Antonio de Napoles
+San Antonio de Padua
+San Bernardo
+San Bonifacio
+San Carlos
+San Cayetano
+San Cristobal
+San Cristóbal
+San Dámaso
+San Diego de Alcala
+San Dionisio
+San Esteban
+San Eugenio
+San Eustaquio
+San Felipe
+San Felipe el Real
+San Félix
+San Fermín
+San Fernando
+San Fernando el Chico
+San Francisco
+San Francisco Javier
+San Francisco de Asis
+San Francisco de Asís
+San Francisco de Borja
+San Francisco de Paula
+San Fulgencio
+San Gabriel
+San Genaro
+San Geronimo
+San Gerónimo
+San Gregorio
+San Gristóbal
+San Hermenegildo
+San Hipólito
+San Ignacio
+San Ildefonso
+San Isidoro
+San Isidro
+San Joaquín
+San Jorge
+San Jose
+San José
+Sán Jose
+San Josef
+San Joseph
+San Juan
+San Juan Baptista
+San Juan Bautista
+San Juan Nepomuceno
+San Juan de Dios
+San Juan de Gargoriu
+San Juan de Sahagún
+San Juan el Chico
+San Juan el Menor
+San Juanico
+San Julián
+San Justo
+San Leandro
+San Lesmes
+San Lorenzo
+San Luis
+San Marcos
+San Mateo
+San Miguel
+San Nicholas
+San Pablo Apóstol
+San Pantaleón
+San Pascual Bailon
+San Pastor
+San Pedro
+San Pedro Alcántara
+San Pedro Apostol
+San Pedro Apóstol
+San Pedro de Alcántara
+San Pedro y San Pablo
+San Quintín
+San Rafael
+San Raimundo
+San Ramón
+San Salvador
+San Sebas
+San Telmo
+San Tomás de Aquino
+San Vicente Ferrer
+San Víctor
+San Zenón
+Sánchez Barcáiztegui
+Santa Águeda
+Santa Amalia
+Santa Ana
+Santa Balbina
+Santa Barbara
+Santa Bárbara
+Santa Bibiana
+Santa Brígida
+Santa Casilda
+Santa Catalina
+Santa Cecilia
+Santa Clara
+Santa Cristina
+Santa Cruz
+Santa Dorotea
+Santa Elena
+Santa Escolástica
+Santa Filomena
+Santa Genoveva
+Santa Gertrudis
+Santa Inés
+Santa Irene
+Santa Isabel
+Santa Isabel Reina
+Santa Leocadia
+Santa Lucía
+Santa Lucía Mártir
+Santa Margareta
+Santa Margarita
+Santa María
+Santa Maria Magdalena
+Santa María Magdalena
+Santa Maria de Gracia
+Santa Maria de Tezanos y Las Animas
+Santa Maria de la Rosa
+Santa Marta
+Santa Matilde
+Santa Mónica
+Santa Paula
+Santa Perpetua
+Santa Petronila
+Santa Quiteria
+Santa Rita
+Santa Rosa
+Santa Rosa de Lima
+Santa Rosalia
+Santa Rosalía
+Santa Rufina
+Santa Sabina
+Santa Saturnina
+Santa Susana
+Santa Tecla
+Santa Teresa
+Santa Úrsula
+Santa Victoria
+Santiago
+Santiago Apóstol
+Santiago el Mayor
+Santisima Trinidad
+Santísimo Sacramento
+Santo Cristo de Burgos
+Santo Cristo de San Roman
+Santo Domingo
+Santo Domingo de Guzman
+Santo Tomas
+Santo Toribio de Mongrobejo
+Satélite
+Segura
+Selerais
+Serio
+Serviola
+Sicilia
+Sirena
+Siroco
+Six Galleons for the King of Spain: Imperial Defense in the Early Seventeenth Century
+Soberano
+Soberbio
+Soldado
+Somorrostro
+Sorpresa
+Spanish Galleon, 1530-1690
+Spanish Warships in the Age of Sail 1700—1860: Design Construction, Careers and Fates
+Spanish naval power, 1589-1665
+Suardiaz Galicia
+Suboficiales
+Sutil
+Taal
+Tajo
+Tarifa
+Telegrama
+Temerario
+Terrebonne Parish
+Terrible
+Teruel
+Tetis
+Tetuan
+Tetuán
+The Americas
+The Ships of Trafalgar, the British, French and Spanish Fleets October 1805
+Tigre
+Toledo
+Tolosilla
+Tom Green County
+Tonina
+Tornado
+Torpedero T-1
+Torpedista Hernández
+Tourville
+Trafalgar and the Spanish navy
+Tramontana
+Tri Sviatitelei
+Tridente
+Trinidad Valencera
+Triunfante
+Triunfo
+Turia
+Uad Muluya
+Uad-Lucus
+Uad-Martin
+Uad-Ras
+Uad-Targa
+Ulloa
+Unicornio
+United States Naval Institute Proceedings
+Urdaneta
+Valiente
+Vasco Núñez de Balboa
+Velasco
+Vencedor
+Vencedora
+Venganza
+Ventura
+Venus
+Vicente Yañez Pinzón
+Victoria
+Victoria de las Tunas
+Vida Marítima
+Vifor
+Vigía
+Vigilante
+Villa de Bilbao
+Villa de Madrid
+Villamil
+Ville de Bilbao
+Viscol
+Vitoria
+Viva
+Vizcaya
+Volante
+Vulcano
+Wad-Ras
+Warship International
+Wexford County
+Winchcomb
+Xauen
+Ynfante
+Ysabel
+Yumurí
+Zaragoza
+los Meregildos
