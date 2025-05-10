@@ -1,10 +1,3 @@
-	Borda
-	Lapérouse
- Vercingetorix
- Zinzolin
-A Century of French Battleships
-A History of the French Navy, from its beginnings to the present day
-A history of the French Navy, from its beginnings to the present day
 Abeille Bourbon
 Abeille Liberté
 Abeille Méditerrannée
@@ -107,7 +100,6 @@ Argonaute
 Ariane
 Armide
 Armorique
-Army Recognition
 Arquebuse
 Arrogant
 Arrogante
@@ -146,10 +138,6 @@ Balny
 Bambara
 Basque
 Batave
-Bâtiments de combat
-Bâtiments de soutien
-Bâtiments désarmés
-Battleships of World War II
 Bayadère
 Bayard
 Bayonnaise
@@ -214,8 +202,6 @@ Breton
 Bretonne
 Brillant
 Brillante
-British Battleships 1889-1904
-British, Soviet, French, and Dutch Battleships of World War II
 Bruix
 Brumaire
 Brune
@@ -241,7 +227,7 @@ Capitaine Mehl
 Capricieuse
 Capricieux
 Capricorne
-Capture of the 
+Capture of the
 Carabine
 Carabinier
 Caraïbe
@@ -350,9 +336,6 @@ Constance
 Constant
 Constitution
 Content
-Conway's All the World's Fighting Ships 1860-1905
-Conway's All the World's Fighting Ships 1906-1921
-Conway's All the World's Fighting Ships 1922-1946
 Coquille
 Corail
 Cormoran
@@ -373,7 +356,6 @@ Créole
 Croissant
 Croix de Lorraine
 Croix du Sud
-Cruisers of World War Two: An International Encyclopedia
 Cugnot
 Curie
 Cuvier
@@ -403,31 +385,25 @@ Dayot
 De Grasse
 Decade
 Dédaigneuse
-Defence and intervention frigate
 Dehorter
 Démocratie
 Desaix
 Descartes
 Desiree
 Destin
-Destroyers of World War Two
 Detroyat
 Deux Frères
 Dévastation
 Diadème
 Diamant
 Diane
-Dictionnaire des Bâtiments de la Flotte de Guerre Française de Colbert a nos jours
-Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 1 1671 - 1870
 Diderot
 Didon
 Dieppoise
 Diligent
 Diligente
 Diomede
-Directory of the World's Capital Ships
 Dixmude
-Documents figurant dans les archives de l'Afrique Occidentale française série Affaires agricoles, sous-série Pêche.: Tableaux thematiques des dossiers 1 à 16
 Dogger Bank
 Dom Vasco de Gama
 Dona Maria Primera
@@ -442,7 +418,7 @@ Dreadnought
 Drogou
 Dryade
 Du Chayla
-Du Nautilus 1800 au Redoutable
+Du Nautilus
 Dubourdieu
 Duc
 Duc d'Orléans
@@ -517,8 +493,6 @@ Euler
 Eumenide
 Eurydice
 Excellent
-F. P. D. S. Newsletter
-F.P.D.S. Newsletter
 Fabert
 Facheux
 Falcon
@@ -562,14 +536,12 @@ Flibustier
 Flore
 Floréal
 Florissant
-Flota II Rzeczypospolitej i jej okręty
+Flota II
 Flotte du Levant
 Foch
 Follet
 Fomidable
 Forbin
-Force d'Action Navale
-Forces sous-marines
 Forfait
 Formidable
 Forte
@@ -594,22 +566,6 @@ François
 Franklin
 Fraternité
 Frederika Sophia Wilhelmina
-Frégate - Marine de France 1650-1850
-Frégates du Deuxième Ordre
-Frégates du Premier Ordre
-Frégates légères
-French Armoured Cruisers 1887-1932
-French Battleships 1922-1956
-French Battleships of World War One
-French Cruisers 1922 - 1956
-French Ruby
-French Victory
-French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates
-French Warships in the Age of Sail 1626-1786: Design, Construction, Careers and Fates.
-French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates
-French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Sail 1786-1861: Design, Construction, Careers and Fates.
-French Warships in the Age of Steam 1859-1914
 Fresnel
 Friant
 Friedland
@@ -686,7 +642,6 @@ Hasardeux
 Hazard
 Hazardeux
 Hazardous
-Hazell's Annual
 Hébé
 Hector
 Hélène
@@ -747,7 +702,6 @@ Infernet
 Infidèle
 Inflexible
 Insurgent
-International Cases: Arbitrations and Incidents Illustrative of International Law as Practised by Independent States
 Intrépide
 Intrepido
 Invincible
@@ -778,12 +732,8 @@ Joffre
 Johan de Witt
 Joly
 Joule
-Journal of United States Artillery
-Journal of the American Society of Naval Engineers
-Journal of the Royal United Service Institution
 Jules Ferry
 Jules Michelet
-Jules Michelet,
 Junon
 Jurien de la Gravière
 Juste
@@ -821,7 +771,7 @@ La Bayonnaise
 La Boudeuse
 La Bourdonnais
 La Capricieuse
-La Catastrophe: The Eruption of Mount Pelee, the Worst Volcanic Eruption of the Twentieth Century
+La Catastrophe
 La Clocheterie
 La Combattante
 La Confiance
@@ -832,8 +782,6 @@ La Flore
 La Galissonnière
 La Gracieuse
 La Guadeloupe
-La Marine de Louis XVI: Nomenclature des Navires Français de 1774 à 1792
-La Marine de la Restauration et de Louis-Philippe 1er: Nomenclature des Navires Français de 1815 a 1848
 La Martinique
 La Melpomène
 La Moqueuse
@@ -907,7 +855,6 @@ Leger
 Légère
 Léon Gambetta
 Léopard
-Les Sous-Marins de la Marine Nationale
 Liberté
 Libre
 Licorne
@@ -999,12 +946,10 @@ Minerve
 Mirabeau
 Mistral
 Modéré
-Modern History of Warships
 Modeste
 Mogador
 Monarque
 Monge
-Monmouth's Prize
 Mont Saint-Bernard
 Montañes
 Montcalm
@@ -1029,12 +974,6 @@ Napoléon III
 Narval
 Nassau
 Nautilus
-Naval News
-Naval Operations: From The Battle of the Falklands to the Entry of Italy Into the War in May 1915
-Naval Operations: To The Battle of the Falklands, December 1914
-Naval Operations: To the Battle of the Falklands, December 1914
-Naval Technology
-Naval Weapons of World War One
 Némésis
 Neptune
 Neptuno
@@ -1050,12 +989,9 @@ Nielly
 Niemen
 Niobe
 Nivôse
-Nomenclature des Navires Français de 1814 a 1848
 Nonsuch
 Normandie
 Nossa Senhora dos Martires
-Notes on Naval Progress
-Notes on the Year's Naval Progress
 Notre-Dame
 Nouvelle
 Nuestra Señora de Carmen
@@ -1071,7 +1007,6 @@ Opale
 Ophrys
 Opiniâtre
 Orage
-Order of the Milice Chrétienne
 Oréade
 Orénoque
 Orient
@@ -1103,7 +1038,7 @@ Partisan
 Pascal
 Pasteur
 Patrie
-Patriote Coquille 
+Patriote Coquille
 Paul Goffeny
 Pégase
 Pei-ho
@@ -1142,10 +1077,7 @@ Poli
 Pomone
 Pompeux
 Poncelet
-Portland's Prize
 Pothuau
-Pourquoi Pas?
-Pourquoi pas?
 Poursuivante
 Pourvoyeuse
 Prairial
@@ -1163,9 +1095,7 @@ Princesse de Bologne
 Prins Frederik
 Prins Willem de Eerste
 Prins van Oranje
-Proceedings of the United States Naval Institute
 Profond
-Projected 2025
 Prométhée
 Proselite
 Proserpine
@@ -1180,8 +1110,6 @@ Prudente
 Psyché
 Quartier-Maître Anquetil
 Québec
-Queen Elizabeth
-Radio 6
 Railleuse
 Rangs
 Rapière
@@ -1240,7 +1168,7 @@ Saint Louis
 Saint Marie
 Saint Michel
 Saint Sébastien
-Saint-Esprit 
+Saint-Esprit
 Saint-Louis
 Sainte Anne
 Sainte Anne de Biscaye
@@ -1277,7 +1205,6 @@ Savorgnan de Brazza
 Sceptre
 Scévola
 Schelde
-Scientific American
 Scipion
 Second-Maitre Le Bihan
 Séditieux
@@ -1295,8 +1222,6 @@ Serieux
 Serpente
 Sévère
 Severn
-Sfax
-Shipping & Mercantile Gazette, and Lloyd's List
 Sibylle
 Sidi Ferruch
 Silure
@@ -1306,7 +1231,6 @@ Sirène
 Sirocco
 Siroco
 Socrate
-Soldiers Lost at Sea: A Chronicle of Troopship Disasters
 Soleil Royal
 Soleil d'Afrique
 Solférino
@@ -1359,22 +1283,6 @@ Teniente Rodríguez
 Teriieroo a Teriierooiterai
 Terpsichore
 Terrible
-The 50-gun Ship
-The 50-gun ship
-The Complete Encyclopedia of Battleships: A Technical Directory of Capital Ships from 1860 to the Present Day
-The Complete Story of the Martinique Horror and Other Great Disasters
-The Development of a Modern Navy, French Naval Policy 1871-1904
-The Development of a Modern Navy: French Naval Policy, 1871-1904
-The Late Victorian Navy: The Pre-dreadnought Era and the Origins of the First World War
-The Naval Annual
-The Naval Annual 1886
-The Naval Annual 1887
-The Naval Annual 1890
-The Naval War in the Mediterranean: 1914-1918
-The Navy League Annual, 1908-1909
-The Royal Navy: A History From the Earliest Times to the Death of Queen Victoria
-The Sun King's Vessels
-The Voyage of Forgotten Men
 Thémis
 Thermidor
 Thétis
@@ -1424,8 +1332,6 @@ Unicorn's Prize
 Unité
 Uranie
 Vaillant
-Vaisseaux de Premier Rang Extraordinaire
-Vaisseaux de Premier Rang Ordinaire
 Valentine
 Valeur
 Valeureuse
@@ -1475,14 +1381,6 @@ Wagram
 Waldeck-Rousseau
 Wapen van Medemblik
 Warley
-Warship
-Warship 2007
-Warship 2010
-Warship 2012
-Warship 2013
-Warship 2019
-Warship International
-Warships of the Napoleonic Era
 Warwick
 Wassenaar
 Waterloo
