@@ -42,7 +42,7 @@ interface INamesSubset {
     function getRandomName(bytes32 _seed) external view returns (string memory);
 }
 
-contract OnchainRandomNames {
+contract OnchainShipNames {
     address[] public shipNameSubsets;
 
     constructor(address[] memory _shipNameSubsets) {
