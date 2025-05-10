@@ -1,74 +1,10 @@
- 1 Apr 1955
- 1 Aug 1942
- 1 Aug 1964
- 1 Dec 1944
- 1 Feb 1944
- 1 Feb 1964
- 1 Jan 1943
- 1 Jan 1946
- 1 Jan 1964
- 1 Jul 1944
- 1 Mar 1945
- 1 May 1961
- 1 Nov 1941
- 1 Nov 1943
- 1 Nov 1946
- 1 Nov 1952
- 1 Oct 1945
- 1 Oct 1955
- 3 Jan 1942
- 3 Jun 1946
- 5 Feb 1946
- Hull
- Washington
-*STRKFIGHTWINGLANT and STRKFIGHTWINGPAC are not disestablished wings, nor are they former designations of currently active wings. They are included in this table only to present a complete picture of the type wing structure as it existed as a result of the 1993 reorganization.
-10 Nov 1945
-10 Oct 1963
-100 Foot
-100 Foot-
-101st Airborne: The Screaming Eagles at Normandy
-11 Aug 1963
-12 Nov 1945
-13 Dec 1945
-13NewsNow
-14 Dec 1946
-14 Nov 1945
-15 Jan 1946
-15 Jun 1942
-15 May 1945
-15 Nov 1973
-16 Jul 1943
-16 Jun 1942
-160 Foot
-17 Oct 1967
-18 Sep 1945
-1936A Mob
-1980s modification added 32 × Tomahawk and 16 × Harpoon missiles and 4 × Phalanx CIWS
 1st Lt. Alex Bonnyman
 1st Lt. Baldomero Lopez
 1st Lt. Harry L. Martin
 1st Lt. Jack Lummus
 1st Lt. William G. Sylvester
-2013 Army Weapon Systems Handbook
-21 May 1954
-21 Oct 1952
-22 Aug 1946
-23 Feb 1942
-24 Apr 1946
-24 Jul 1942
-25 Jul 1960
-26 Aug 1963
-27 Apr 1947
-29 Let's Go
-2nd Battalion, 5th Marines
 2nd Lt John P. Bobo
 2nd Lt. John P. Bobo
-31 Oct 1944
-557th Weather Wing
-65 Foot
-65 Foot-
-75 Foot
-A Naval Encyclopædia: Comprising A Dictionary of Nautical Words and Phrases; Biographical Notices, and Records of Naval Officers; Special Articles of Naval Art and Science
 A. C. Powell
 A. Childs
 A. Collier
@@ -80,173 +16,6 @@ A. Houghton
 A. J. View
 A. O. Tyler
 A1C William H. Pitsenbarger
-ABC News
-ALE-39V - Archived 02/2008
-AMc-143
-AMc-144
-AMc-145
-AMc-146
-AMc-147
-AMc-148
-AMc-150
-AMc-151
-AMc-152
-AMc-153
-AMc-154
-AMc-155
-AMc-156
-AMc-157
-AMc-158
-AMc-159
-AMc-160
-AMc-161
-AMc-162
-AMc-163
-AMc-164
-AMc-165
-AMc-166
-AMc-167
-AMc-168
-AMc-169
-AMc-170
-AMc-171
-AMc-172
-AMc-173
-AMc-174
-AMc-175
-AMc-176
-AMc-177
-AMc-178
-AMc-179
-AMc-180
-AMc-181
-AMc-182
-AMc-183
-AMc-184
-AMc-185
-AMc-186
-AMc-187
-AMc-188
-AMc-189
-AMc-190
-AMc-191
-AMc-192
-AMc-193
-AMc-194
-AMc-195
-AMc-196
-AMc-197
-AMc-198
-AMc-199
-AMc-200
-AMc-201
-AN/ALR-64 V Radar Warning Receiver System: Block Cycle Updates and 1553B
-AOL Defense
-APc-1
-APc-10
-APc-100
-APc-101
-APc-102
-APc-103
-APc-107
-APc-108
-APc-109
-APc-11
-APc-110
-APc-111
-APc-115
-APc-12
-APc-13
-APc-14
-APc-15
-APc-16
-APc-17
-APc-18
-APc-19
-APc-2
-APc-20
-APc-21
-APc-22
-APc-23
-APc-24
-APc-25
-APc-26
-APc-27
-APc-28
-APc-29
-APc-3
-APc-30
-APc-31
-APc-32
-APc-33
-APc-34
-APc-35
-APc-36
-APc-37
-APc-38
-APc-39
-APc-4
-APc-40
-APc-41
-APc-42
-APc-43
-APc-44
-APc-45
-APc-46
-APc-47
-APc-48
-APc-49
-APc-5
-APc-50
-APc-51
-APc-52
-APc-53
-APc-54
-APc-55
-APc-56
-APc-57
-APc-58
-APc-59
-APc-6
-APc-60
-APc-61
-APc-62
-APc-63
-APc-64
-APc-65
-APc-66
-APc-67
-APc-68
-APc-69
-APc-7
-APc-70
-APc-71
-APc-72
-APc-73
-APc-74
-APc-75
-APc-76
-APc-77
-APc-78
-APc-79
-APc-8
-APc-84
-APc-85
-APc-86
-APc-87
-APc-88
-APc-89
-APc-9
-APc-90
-APc-91
-APc-92
-APc-93
-APc-94
-APc-95
-APc-96
-APc-97
-APc-98
-APc-99
 Aaron V. Brown
 Aaron Ward
 Abadejo
@@ -257,7 +26,6 @@ Abbie Burgess
 Abbot
 Abel P. Upshur
 Abele
-Abele's
 Abeona
 Abercrombie
 Aberdeen
@@ -344,13 +112,12 @@ Admiral W. L. Capps
 Admiral W. M. Callaghan
 Admiral W. S. Benson
 Admiral W. S. Sims
-Admiral William Veazie Pratt, U.S. Navy: A Sailor's Life
+Admiral William Veazie Pratt
 Admiralty Islands
 Admittance
 Adolph Hugel
 Adonis
 Adopt
-Adorimuini - Up and at 'em!
 Adria
 Adrian
 Adriana
@@ -363,8 +130,6 @@ Adventurous
 Advocate
 Aegir
 Aeolus
-Aerospace Medical Association
-Aetna
 Affray
 Agamemnon
 Agamenticus
@@ -394,28 +159,7 @@ Aiken Victory
 Ailanthus
 Aileen
 Aimwell
-Ain Online
 Ainsworth
-Air & Space Forces Magazine
-Air & Space Magazine
-Air Combat Command
-Air Force Global Strike Command
-Air Force Instruction 36-2226, Combat Arms Program, Supplement 1
-Air Force Life Cycle Management Center
-Air Force Magazine
-Air Force Materiel Command
-Air Force Times
-Air Force technology
-Air Force.mil
-Air Mobility Command
-Air Power Australia
-Air Power Australia Analyses
-Air Test and Evaluation Squadron TWO ZERO
-Air University
-Air Vectors
-Air units:
-Aircraft, Boats, and Cutters: Cutters
-Airforce Technology
 Airone
 Ajax
 Akbar
@@ -442,7 +186,6 @@ Alan Shepard
 Alarka
 Alarm
 Alaska
-Alaska at War, 1941-1945: The Forgotten War Remembered
 Alaskan
 Alatna
 Alava Bay
@@ -522,7 +265,6 @@ Allen M. Sumner
 Allendale
 Allentown
 Alliance
-Allied Joint Force Command Naples
 Alligator
 Allioth
 Alloway
@@ -554,8 +296,6 @@ Aludra
 Alvarado
 Alvin
 Alvin C. Cockrell
-Always Ready, Always There
-Always Ready, Ready Team
 Amabala
 Amador
 Amagansett
@@ -564,7 +304,6 @@ Amanda
 Amanda Moore
 Amaranth
 Amaranthus
-AmateurRadio.com
 Amatsukaze
 Amazon
 Amazonas
@@ -577,27 +316,19 @@ Ameera
 Amelia
 Amelia Earhart
 America
-America-class
 American
 American Arrow
-American Battleships 1896-1923: Predreadnought Design and Construction
 American Condor
 American Cormorant
-American Cruisers of World War II
 American Explorer
 American Falcon
-American Forces Press Service via Defense.gov
 American Kestrel
 American Legion
 American Mariner
-American Merchant Marine at War
 American Merlin
-American Naval History: An Illustrated Chronology of the U.S. Navy and Marine Corps, 1775-present
 American Osprey
-American Seacoast Defenses, A Reference Guide
 American Tern
 American Victory
-Amerika
 Amesbury
 Amethyst
 Amherst
@@ -621,7 +352,6 @@ Anado
 Anamosa
 Anaqua
 Anchor
-Anchor of Resolve: A History of US Naval Forces Central Command
 Anchorage
 Ancon
 Andalusia
@@ -657,7 +387,6 @@ Annie B. Embry
 Annie E. Gallup
 Anniston
 Annoy
-Annual Reports of the Navy Department For The Fiscal Year 1923
 Anoka
 Antaeus
 Antares
@@ -721,10 +450,8 @@ Archer
 Archer-Fish
 Archerfish
 Archie
-Archived Report - AN/ALQ-165V ASPJ
 Arco
 Arctic
-Arctic Combat:
 Arcturus
 Ardennes
 Ardent
@@ -751,22 +478,16 @@ Arizonan
 Arkab
 Arkansas
 Arleigh Burke
-Arleigh Burke-class
 Arletta
 Arlington
 Armada
-Armada International
 Armadillo
 Armeria
 Armipotent
 Armistead Rust
 Armstrong County
-Army Hospital Ships in WWII
 Army Pride
 Army University
-Army and Navy Journal
-Army awards full rate production contract of AMPV
-Army.mil/PEO Soldier
 Arneb
 Arnillo
 Arnold J. Isbell
@@ -778,7 +499,6 @@ Arroyo
 Arsenal for the Brave
 Artemis
 Artevelde
-Artfiberglass.com
 Arthur
 Arthur C. Ely
 Arthur L. Bristol
@@ -816,9 +536,7 @@ Asquith
 Assail
 Assateague
 Assertive
-Assist. Protect. Defend.
 Assistance
-Association of the US Army Magazine
 Assurance
 Aster
 Asterion
@@ -827,7 +545,6 @@ Astrea
 Astrolabe Bay
 Astrotracker
 Astute
-At Close Quarters: PT Boats in the United States Navy
 Atago
 Atakapa
 Atalanta
@@ -880,19 +597,14 @@ Ausburn
 Ausburne
 Austin
 Austral Rainbow
-Australia @ War
-Australian War Memorial
 Aut Vincere Aut Mori
 Autauga
 Autun
 Avalon
 Avenge
 Avenger
-Avenger-class
 Aventinus
 Avery Island
-Aviation Week
-Aviation Week Marketplace
 Avis
 Avocet
 Avoyel
@@ -1029,9 +741,7 @@ Batjan
 Baton Rouge
 Battle Point
 Battler
-Battleship Cove
-Battleship NC
-Battleships: United States Battleships in World War II
+Battleship
 Bauer
 Bauru
 Bausell
@@ -1101,7 +811,6 @@ Ben Franklin
 Ben Morgan
 Benavidez
 Benefit
-Benelli Shotguns and Rifles
 Benevolence
 Benewah
 Benfold
@@ -1167,7 +876,7 @@ Bexar
 Bibb
 Bickerton
 Biddle
-Biddle/Claude V. Rickets
+Claude V. Rickets
 Bie & Schiott
 Bienville
 Biesbosch
@@ -1197,7 +906,6 @@ Biscayne
 Biscayne Bay
 Bismarck
 Bismarck Sea
-BitSavers.org
 Biter
 Bitt
 Bitterbush
@@ -1247,7 +955,6 @@ Blue Jacket
 Blue Jay
 Blue Light
 Blue Ridge
-Blue Ridge-class
 Blue Shark
 Blueback
 Bluebell
@@ -1308,7 +1015,6 @@ Boston
 Boston Salvor
 Bostwick
 Botetourt
-Both wings still exist today.
 Bothwell
 Bottineau
 Bougainville
@@ -1344,7 +1050,7 @@ Bramble
 Brambling
 Branch
 Branch County
-Branches:
+Branches
 Brandenburg
 Brandywine
 Brant
@@ -1469,8 +1175,6 @@ Bunzan Maru
 Buoyant
 Burden R. Hastings
 Burdo
-Bureau of Medicine and Surgery
-Bureau of Naval Personnel
 Burges
 Burias
 Burke
@@ -1501,13 +1205,10 @@ Byron Hot Springs
 C Champion
 C Commando
 C Ocean Trader
-C-Champion
-C-Commando
 C. F. Sargent
 C. P. Williams
 C. W. Morse
 C.A. Thayer
-C4ISRNet
 CT Insider
 Cabana
 Cabell
@@ -1581,7 +1282,7 @@ Campti
 Can Do
 Can Tho
 Can do
-Canada - AN/AAQ-24V Directional Infrared Countermeasure Systems
+Canada
 Canadian River
 Canandaigua
 Canarsee
@@ -1730,7 +1431,7 @@ Caperton
 Capidoli
 Capitaine
 Capital Guardians
-Capitan Prat 
+Capitan Prat
 Capodanno
 Capps
 Caprice
@@ -1857,8 +1558,6 @@ Cayman
 Cayuga
 Cayuga County
 Ceará
-Ceased operations as a wing after 2000 and was redesignated Patrol and Reconnaissance Force 7th Fleet/CTF-72 exercising operational control over VP squadrons deployed to 7th Fleet
-Ceased operations as a wing after 2000 and was redesignated Patrol and Reconnaissance Force 7th Fleet/CTF-72 exercising operational control over VP squadrons deployed to 7th Fleet.
 Cebu
 Cecil
 Cecil J. Doyle
@@ -2010,9 +1709,6 @@ Chicomico
 Chicopee
 Chicot
 Chief
-Chief Information Officer, U.S. Navy
-Chief of Naval Operations
-Chiefs of the Army Reserve: Biographical Sketches of the United States Army Reserve's Senior Officers
 Chikaskia
 Childs
 Chilhowee
@@ -2025,7 +1721,6 @@ Chimango
 Chimariko
 Chimo
 Chimon
-China-Burma-India: Remembering the Forgotten Theater of World War II
 Chinaberry
 Chinampa
 Chincoteague
@@ -2061,8 +1756,6 @@ Christabel
 Christiana
 Christine
 Christopher
-Chronicles of the Frigate Macedonian, 1809-1922
-Chronology of Commanders
 Chub
 Chukawan
 Chukor
@@ -2081,7 +1774,6 @@ Cinnamon
 Circassian
 Circe
 Cisco
-Cities Service Fuel
 Citrus
 City of Bismarck
 City of Corpus Christi
@@ -2094,10 +1786,6 @@ City of Lowell
 City of Pekin
 City of Philadelphia
 City of South Haven
-Civil War High Commands
-Civil War Navies 1855-1883
-Civil War ironclads: the U. S. Navy and industrial mobilization
-Civilian in peace. Soldier in war. 
 Claiborne
 Clamagore
 Clamour
@@ -2143,14 +1831,6 @@ Cloues
 Clover
 Clyde
 Clytie
-Coast Guard Atlantic Area
-Coast Guard Magazine
-Coast Guard News
-Coast Guard Pacific Area
-Coastal Battleship No. 1
-Coastal Battleship No. 2
-Coastal Battleship No. 4
-Coastal Battleship Number 4
 Coastal Crusader
 Coastal Sentry
 Coasters Harbor
@@ -2255,24 +1935,14 @@ Columbus
 Colusa
 Comanche
 Combat
-Combat Development and Integration, Headquarters Marine Corps
-Combat Skyspot
-Combat Skyspot/Combat Proof
-Combat Tree
-Combat systems:
 Comber
 Comet
 Cometa
 Comfort
 Comfrey
-Command: Modern Operations / Modern Air Naval Operations
 Commander
-Commander Pacific Fleet US Navy
-Commander, Naval Submarine Forces
-Commander, Submarine Force Atlantic
 Commencement Bay
 Commerce
-Commissioned Corps of the U.S. Public Health Service
 Commodore
 Commodore Barney
 Commodore Hull
@@ -2312,8 +1982,6 @@ Conflict
 Congaree
 Conger
 Congress
-Congress.gov
-Congressional Research Service
 Conifer
 Conklin
 Conn
@@ -2329,14 +1997,11 @@ Conqueror
 Conquest
 Conserver
 Consolation
-Consolidated Analysis Center, Inc CACI
 Consort
 Constance II
 Constant
 Constantia
 Constellation
-Constellation-class
-Constellation-class FFG
 Constitution
 Construimus, Batuimus
 Contender
@@ -2349,11 +2014,6 @@ Control
 Conus
 Converse
 Conway
-Conway's All the World's Fighting Ships 1860-1905
-Conway's All the World's Fighting Ships 1860-1905.
-Conway's All the World's Fighting Ships 1906-1921
-Conway's All the World's Fighting Ships 1906-1921.
-Conway's All the World's Fighting Ships 1922-1946
 Cony
 Conyngham
 Cook
@@ -2363,7 +2023,6 @@ Cooner
 Coontz
 Cooper
 Cooperstown
-Coordinator, Naval Logistics, Pacific Coast, 1944.
 Coos Bay
 Copahee
 Copeland
@@ -2428,7 +2087,6 @@ Courageous
 Courier
 Courlan
 Courser
-Court-Martial Order No. 4-1948: Advancement in rank on retired list: special commendation for performance of duty in actual combat
 Courtenay P
 Courtney
 Coutelas
@@ -2441,7 +2099,6 @@ Cowpens
 Cowslip
 Coyote
 Cozy
-Cpl Louis J. Hauge Jr.
 Cpl. Louis J. Hauge Jr.
 Crag
 Craig
@@ -2494,8 +2151,6 @@ Crown Reefer
 Crownblock
 Crowninshield
 Cruise
-Cruisers and Battle Cruisers: An Illustrated History of Their Impact
-Cruisers of World War Two: An International Encyclopedia
 Crusader
 Crusaders
 Crux
@@ -2529,7 +2184,6 @@ Curts
 Curzon
 Cusabo
 Cushing
-Cushing's
 Cusk
 Cusseta
 Custer
@@ -2551,7 +2205,6 @@ Cyrene
 Cyrus K. Holliday
 Cyrus W. Field
 Cythera
-DCMilitary.com
 Da Nang
 Dace
 Dacotah
@@ -2576,7 +2229,6 @@ Dalhart
 Dallas
 Dalton Victory
 Daly
-Daly's
 Damage Control Hulk Number 1
 Damato
 Damon Cummings
@@ -2627,7 +2279,6 @@ Davison
 Dawn
 Dawson
 Day
-Day and Night-Peace and War
 Daylight
 Dayton
 De Brouwer
@@ -2653,10 +2304,8 @@ Dearborn
 Death from Above
 Decatur
 Deception
-Decisions of the Comptroller General of the United States
 Decisive
 Decker
-Deconflict Lead the Way
 Decoy
 Dédalo
 Deede
@@ -2665,23 +2314,6 @@ Defend and Serve
 Defender
 Defender of the Crossroads
 Defense
-Defense & Aerospace Competitive Intelligence Service DACIS
-Defense Base Closure And Realignment Commission: Report To The President 1995
-Defense Contract Management Agency
-Defense Industry Daily
-Defense Industry Reports
-Defense Information Systems Agency
-Defense Logistics Agency
-Defense Management Library - U.S. Army War College
-Defense Media Network
-Defense News
-Defense One
-Defense Review
-Defense Technical Information Center
-Defense Technical Information Center DTIC
-Defense Update
-Defense-Aerospace
-DefenseLink
 Defensores Libertatis
 Defiance
 Defiant
@@ -2721,9 +2353,6 @@ Density
 Dent
 Dentuda
 Denver
-Department of Defense Appropriations for 1965
-Department of Defense appropriations for 1965
-Department of the Appropriations for 1976
 Dependable
 Dependable Support
 Deperm
@@ -2733,7 +2362,6 @@ Derrick
 Derry
 Des Moines
 Design
-Designation-Systems.net
 Desire
 Despatch
 Despite
@@ -2745,7 +2373,7 @@ Deuel
 Devasator
 Devastator
 Develin
-Development:
+Development
 Device
 Devilfish
 Devosa
@@ -2766,14 +2394,8 @@ Dianthus
 Dickens
 Dickenson
 Dickerson
-Dickerson's
 Dicky
 Dictator
-Dictionary of Admirals of the U.S. Navy - Volume 1, 1862-1900
-Dictionary of Admirals of the U.S. Navy - Volume 2, 1901-1918
-Dictionary of American Naval Fighting Ships
-Dictionary of American Naval Fighting Ships.
-Did not enter service
 Didrickson Bay
 Dienh Hai
 Diligence
@@ -2788,15 +2410,12 @@ Diphda
 Diploma
 Dipper
 Direct
-Director of the Marine Corps Staff
-Directory of the World's Capital Ships
 Discoverer
 Discovery Bay
 Disdain
 Dispatch
 District of Columbia
 Dithmarschen
-Dithmarschen / Conecuh
 Dittany
 Diver
 Dix
@@ -2939,8 +2558,6 @@ E. A. Poe
 E. B. Hale
 E. Benson Dennis
 E.A. Poe
-EDR Magazine
-ERDC Knowledge Core
 Eager
 Eagle
 Eagle 56
@@ -3006,7 +2623,6 @@ Edward Kavanaugh
 Edward L. Dohney III
 Edward Luckenbach
 Edward McDonnell
-Edward Preble: A Naval Biography
 Edward Rutledge
 Edwards
 Edwin A. Howard
@@ -3102,7 +2718,6 @@ Emma Kate Ross
 Emmigrant
 Emmons
 Emory S. Land
-Emory S. Land-class
 Emperor
 Empire State
 Emporia
@@ -3117,13 +2732,12 @@ Endymion
 Energy
 Engage
 Engineer
-Engineer Port Repair Ship Crew
 England
 English
 Engstrom
 Enhance
 Eniwetok
-Enlisted:
+Enlisted
 Enoree
 Enquirer
 Enright
@@ -3215,7 +2829,6 @@ Event
 Ever Watchful
 Everett
 Everett Alvarez Jr.
-Everett Alvarez, Jr
 Everett F. Larson
 Everglades
 Evergreen
@@ -3224,7 +2837,6 @@ Eversole
 Ewing
 Ex Alis Pugnamus
 Ex Scientia Tridens
-Ex-Paul F. Foster
 Excel
 Excellence Starts Here
 Excelsior
@@ -3248,9 +2860,6 @@ F. Bovesse
 F. J. Luckenbach
 F. Mansfield & Sons Co.
 F.C. Fitzsimmons
-FAS Military Analysis Network
-FM 55-6: Military Transportation Service in Theaters of Operations
-FNHerstal.com
 Fabius
 Facility
 Fahkee
@@ -3271,10 +2880,6 @@ Falcon Countess
 Falcon Duchess
 Falcon Lady
 Falcon Princess
-Falcon®
-Falcon® II
-Falcon® III
-Falcon® IV
 Falconer
 Falgout
 Falkner
@@ -3282,7 +2887,6 @@ Fall River
 Fallon
 Fallujah
 Falmouth
-Famous American Admirals
 Fancy
 Fanegal
 Fanning
@@ -3299,7 +2903,6 @@ Farquhar
 Farragut
 Fashion
 Fast Competent Accurate
-Fast Fighting Boats, 1870-1945 Their Design, Construction, and Use.
 Fast Tempo
 Faunce
 Favorite
@@ -3310,9 +2913,6 @@ Fearless
 Fearnot
 Fechteler
 Federal
-Federal Bureau of Prisons
-FederalPay
-Federation of American Scientists Military Analysis Network
 Feland
 Feldspar
 Felicia
@@ -3333,7 +2933,6 @@ Fidelity, Honor, Valor
 Fieberling
 Fierce
 Fife
-Fiftieth Annual List of Merchant Vessels of the United States, Year ended June 30, 1918
 Fillmore
 Finback
 Finch
@@ -3343,7 +2942,6 @@ Finnegan
 Fir
 Fire From the Clouds
 Fire Island
-Fire in the Sky: The Air War in the South Pacific
 Firearms News
 Firebolt
 Firebrand
@@ -3373,8 +2971,6 @@ Flamingo
 Flasher
 Flatley
 Flax
-Fleet Admiral King: A Naval Record
-Fleet Collier No. 1
 Fleming
 Fletcher
 Fli-Hawk
@@ -3396,6 +2992,7 @@ Flounder
 Floyd B. Parks
 Floyd County
 Floyd Hurst
+Floyd W. Musgrove
 Floyd W. Spencer
 Floyds Bay
 Flusser
@@ -3405,8 +3002,7 @@ Fly and Wire
 Fly-And-Wire
 Flyer
 Flying Fish
-Flying Mustangs
-Flying Tigers: Gentle Paws-Sharp Claws
+Flying Mustang
 Flyingfish
 Foam
 Fogg
@@ -3417,25 +3013,17 @@ Folly
 Fomalhaut
 Fond du Lac
 Foote
-For similar lists of 'miscellaneous' ships see
-For similar lists of 'miscellaneous' ships see:
 Forbes
 Force
 Force for Freedom
 Ford
 Ford County
-ForecaseInternational
-Forecast International
-Foreign Policy
 Foreman
 Foremost
 Forest Rose
 Forever Forward!
 Forging the Warrior Spirit
-Forgotten Fleet
-Forgotten Fleet: a history of the part played by Australian men and ships in the U.S. Army Small Ships Section in New Guinea, 1942-1945
 Formalhaut
-Former territories
 Formoe
 Formore
 Forrest
@@ -3460,22 +3048,17 @@ Fort Morgan
 Fort Snelling
 Fort Wayne
 Fort Worth
-Fort Worth Star-Telegram
 Fortaleza Bay
-Fortazela Bay
 Fortify
 Fortitude
 Fortitudo et Preparatio
 Fortune
-Forty rounds
 Forward
 Foss
-Four Stars: The Super Stars of United States Military History
 Fourth But First
 Fowler
 Fox
 Fox Island IV
-Fox News Tech
 Foxtrot
 Frament
 Frances
@@ -3516,7 +3099,6 @@ Fredonia
 Fredrick Der Grosse
 Freedom
 Freedom's Eagles
-Freedom-class
 Freehold
 Freelance
 Freestone
@@ -3573,7 +3155,6 @@ Gallipolis
 Gallup
 Galveston
 Galveston Island
-Galveston/Petrochem Producer
 Galvez
 Gamage
 Gambier Bay
@@ -3702,7 +3283,6 @@ General Mifflin
 General Nathanael Greene
 General Nelson M. Walker
 General O. H. Ernst
-General Officer Management Office
 General Omar Bundy
 General Oswald H. Ernst
 General Otis
@@ -3746,7 +3326,6 @@ General William Mitchell
 General William O. Darby
 General William Weigel
 General Wm. M. Graham
-Generals of the Army and the Air Force and Admirals of the Navy
 Generał Tadeusz Kościuszko
 Genesee
 Geneva
@@ -3798,11 +3377,9 @@ Georgia Packet
 Georgiana
 Georgiana III
 Gerald R. Ford
-Gerald R. Ford-class
 Geraldine
 Geranium
 Germ
-German U-boats of WWII
 Germantown
 Germany
 Geronimo
@@ -3849,9 +3426,6 @@ Glenolden
 Glenville
 Glenwood
 Glide
-GlobalSecurity.org
-Globalization: Prospects and Problems
-Globalsecurity.org
 Glomar Explorer
 Gloria Dalton
 Gloucester
@@ -3895,10 +3469,6 @@ Gosper
 Goss
 Gosselin
 Gould Island
-GovDelivery
-GovInfo
-GovInfo.gov
-GovTribe
 Governor
 Governor Buckingham
 Governor Davie
@@ -3998,7 +3568,6 @@ Grosbeak
 Grosse Pointe
 Grosser Kurfurst
 Groton
-Ground Air Mobility
 Grouper
 Grouse
 Groves
@@ -4051,7 +3620,6 @@ Guymon
 Gwin
 Gwinnett
 GySgt Fred W. Stockham
-GySgt. Fred W. Stockham
 Gyatt
 Gypsum Queen
 Gypsy
@@ -4153,7 +3721,6 @@ Harold J. Ellison
 Harold Miller
 Harper's Ferry
 Harpers Ferry
-Harpers Ferry-class
 Harpy
 Harrier
 Harriet Lane
@@ -4226,13 +3793,6 @@ Hazelwood
 Hazleton
 Headquarters Marine Corps
 Healy
-Healy-
-Hearing Before a Subcommittee of the Committee on Armed Services, United States Senate, Eighty-Sixth Congress, First Session on S. 1795: A Bill Amending Title 10, United States Code, to Revise Certain Provisions Relating to the Promotion and Involuntary Retirement of Officers of the Regular Components of the Armed Forces
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1941-&#91;1942&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
-Hearings Before the Committee on Naval Affairs of the House of Representatives on Sundry Legislation Affecting the Naval Establishment, 1943-&#91;1944&#93;: Seventy-Sixth Congress, First-&#91;Second&#93; Session, Volume 1
-Hearings Before the Committee on Naval Affairs, House of Representatives, Sixty-Fourth Congress, First Session, on Estimates Submitted by the Secretary of the Navy, 1916, Volume 3
-Hearings Before the Subcommittee of the Committee on Appropriations, House of Representatives, Eighty-Sixth Congress, Second Session, Part 3: Financial Statements: Manpower, Personnel, and Reserves
-Hearings on National Defense Authorization Act for Fiscal Year 2002--H.R. 2586 and Oversight of Previously Authorized Programs, Before the Committee on Armed Services, House of Representatives, One Hundred Seventh Congress, First Session: Military Personnel Subcommittee Hearings on Title IV--personnel Authorizations, Title V--military Personnel Policy, Title VI--compensation and Other Personnel Benefits, Title VII--health Care Provisions, Hearings Held June 21, and July 18, 2001
 Heartsease
 Heath Hen
 Heather
@@ -4315,13 +3875,6 @@ Herndon
 Hero
 Heroic
 Heron
-Herreshoff No. 306
-Herreshoff No. 308
-Herreshoff No. 309
-Herreshoff No. 313
-Herreshoff No. 321
-Herreshoff No. 322
-Herreshoff No. 323
 Herring
 Hershel Woody Williams
 Herzog
@@ -4343,7 +3896,6 @@ Hickory
 Hickox
 Hidalgo
 Hidatsa
-Hidden Warships
 Hiei
 Higbee
 Higgins
@@ -4371,10 +3923,6 @@ Hisada
 Hisko
 Hissem
 Hist
-Historical Dictionary of the United States Navy
-Historical:
-History of United States Naval Operations: Korea
-History of the Atlantic Cable & Undersea Communications
 Hitchiti
 Hiwassee
 Hiyodori
@@ -4391,7 +3939,6 @@ Hocking
 Hodges
 Hoe
 Hoel
-Hoel's
 Hoffman
 Hoga
 Hogan
@@ -4421,7 +3968,6 @@ Honesty
 Honeysuckle
 Hong Kong
 Honolulu
-Honolulu Star-Advertiser
 Honor Guides Our Power
 Hooker
 Hooper
@@ -4449,7 +3995,6 @@ Hos Bluewater
 Hos Gemstone
 Hos Greystone
 Hos Silverstar
-Hospital Corps Bolo Knives
 Hoste
 Hotel
 Hotham
@@ -4457,9 +4002,7 @@ Hotspur
 Houghton
 Houma
 Housatonic
-House Report No. 377, 63d Congress, 2d Session: Admirals and Vice Admirals, United States Navy
 Houston
-Houston Daily Post
 Hova
 Hoven
 Hovey
@@ -4533,15 +4076,7 @@ HyperScale
 Hyperion
 Hyperwar
 I Gain By Hazard
-I Marine Expeditionary Force
-I'll Lead You
-I'll Try, Sir
-I. J. Merritt
-II Marine Expeditionary Force
-III Marine Expeditionary Force
-IPMS/USA Reviews
 Ibex
-Ibiblio.org
 Ibis
 Icarus
 Ice Boat
@@ -4557,14 +4092,12 @@ Idealia
 Idylease
 Ikazuchi
 Illinois
-Illinois, Wisconsin
 Illusive
 Imbue
 Impavide
 Impeccable
 Imperator
 Imperial
-Imperial War Museums
 Impervious
 Impetuous
 Implicit
@@ -4585,12 +4118,10 @@ Inch
 Inchon
 Incredible
 Independence
-Independence-class
 India
 Indian
 Indian Island
 Indiana
-Indiana State.gov
 Indianapolis
 Indianola
 Indicative
@@ -4600,7 +4131,6 @@ Indra
 Indus
 Industry
 Inflict
-InfoAge Science & History Museums
 Informare Laboramus
 Ingersoll
 Ingham
@@ -4608,12 +4138,10 @@ Inglis
 Ingraham
 Initial Success or Total Failure
 Inman
-Inner Circles: How America Changed the World: A Memoir
 Ino
 Inside Defense
 Insiste Firmiter
 Inspiring Innovation
-Installations and Logistics, Headquarters Marine Corps
 Instill
 Insurgent
 Integrity
@@ -4626,12 +4154,10 @@ International
 Interpreter
 Interrupter
 Into Combat We Fly
-Into the Jet Age: Conflict and Change in Naval Aviation, 1945-1975, An Oral History
 Intrepid
 Intrigue
 Invade
 Inver
-Investigation of the National Defense Program: Hearings Before A Special Committee Investigating The National Defense Program, United States Senate, Seventy-Ninth Congress, Second Session, Pursuant To S. Res. 55 79th Congress, Part 33
 Investigator
 Invincible
 Iolanda
@@ -4641,7 +4167,6 @@ Ionie
 Ionita
 Iosco
 Iowa
-Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942-1964: An Illustrated Technical Reference
 Iowan
 Ipswich
 Ira Jeffery
@@ -4653,7 +4178,6 @@ Iris
 Iro
 Iron Age
 Iron County
-Ironclad Down: USS Merrimack-CSS Virginia from Design to Destruction
 Ironsides Jr.
 Ironwood
 Iroquois
@@ -4672,7 +4196,7 @@ Isis
 Isla de Cuba
 Isla de Luzon
 Island Belle
-Island-
+Island
 Isle Royale
 Isle of Surry
 Isonomia
@@ -4758,10 +4282,6 @@ James Wooley
 Jamestown
 Jan Van Nassau
 Jane II
-Jane's Fighting Ships
-Jane's Fighting Ships 1960-61
-Jane's Fighting Ships of World War I.
-Janes.com
 Janssen
 Japan
 Jarrett
@@ -4880,7 +4400,6 @@ John P. Mitchell
 John P. Murtha
 John Patterson
 John Paul Jones
-John Paul Jones and the Bonhomme Richard: A Reconstruction of the Ship and an Account of the Battle With H.M.S. Serapis
 John Paul Jr.
 John Pen
 John Penn
@@ -4905,9 +4424,6 @@ Johnnie Hutchins
 Johnson County
 Johnston
 Johnstown
-Joint Base San Antonio
-Joint Chiefs of Staff
-Joint Interagency Task Force South
 Joint Venture
 Jolly Roger
 Jonas Ingram
@@ -4951,7 +4467,6 @@ Joyce
 Jubilant
 Jubilee
 Judah Touro
-Judge Advocate General's Corps, U.S. Navy
 Judge Torrence
 Julia
 Julia Hamilton
@@ -5351,11 +4866,8 @@ Lancaster
 Lance
 Lancetfish
 Lancewood
-Land units:
 Lander
 Landguard
-Landing Craft Mechanized LCM
-Landing Craft Tank LCT
 Lane Victory
 Lang
 Langley
@@ -5392,7 +4904,6 @@ Laurens
 Laurentia
 Laurinburg
 Lavaca
-Lavelle Posthumously Nominated to General
 Lavender
 Lavinia Logan
 Lawford
@@ -5402,7 +4913,6 @@ Lawrence County
 Lawrence H. Gianella
 Lawrence Lawson
 Laws
-Laws Relating to the Navy, Annotated
 Lawson
 Lawton
 Laysan Island
@@ -5427,7 +4937,7 @@ Leftwich
 Legacy
 Legare
 Legazpi
-Legend-class
+Legend
 Legonia II
 Lehigh
 Leif Ericson
@@ -5490,8 +5000,6 @@ Liberty III
 Libra
 Liddle
 Lieutenant Colonel Herman C. Schwumm
-Light Target Number 2
-Light Target Number 3
 Light, Silent, and Deadly
 Light, Swift, Accurate
 Lightfoot
@@ -5510,7 +5018,6 @@ Limpkin
 Linaria
 Lincoln County
 Lincoln Salvor
-Lincoln's Navy: The Ships, Men and Organization, 1861-65
 Linda
 Linden
 Lindenwald
@@ -5540,7 +5047,6 @@ Little Belt
 Little Brothers
 Little Buddy
 Little Compton
-Little Manila Is in the Heart: The Making of the Filipina/o American Community in Stockton, California
 Little Rebel
 Little Rock
 Little Sisters
@@ -5573,7 +5079,6 @@ Long Beach
 Long Island
 Longbow
 Longshaw
-Longshaw's
 Longspur
 Longview
 Lonoto
@@ -5584,8 +5089,6 @@ Lorikeet
 Loring
 Los Alamos
 Los Angeles
-Los Angeles Times
-Los Angeles-class
 Los Profesionales
 Lossie
 Lot M. Morrill
@@ -5698,7 +5201,6 @@ Mackerel
 Mackinac
 Mackinaw
 Macomb
-Macomb's
 Macon
 Macona
 Mactan
@@ -5805,7 +5307,6 @@ Mango
 Mangrove
 Manhasset
 Manhattan
-Manhattan-class ex-Natick
 Manila
 Manila Bay
 Manileno
@@ -5823,7 +5324,6 @@ Manning
 Manokin
 Manomet
 Manowar
-Manpower and Reserve Affairs, Headquarters Marine Corps
 Mansfield
 Manta
 Manteo
@@ -5878,28 +5378,21 @@ Marija
 Marin
 Marine Adder
 Marine Carp
-Marine Corps Systems Command
-Marine Corps Times
-Marine Corpse Aviation Reconnaissance Association MCARA
 Marine Fiddler
-Marine Forces Reserve
 Marine Jupiter
 Marine Lynx
 Marine Marlin
 Marine Phoenix
-Marine Protector-
+Marine Protector
 Marine Serpent
 MarineTimes
 Mariner
-Marines Dodging Death: Sixty-Two Accounts of Close Calls in World War II, Korea, Vietnam, Lebanon, Iraq and Lebanon
 Marines magazine
 Marinette
 Marinette County
 Marion
 Marion County
 Mariposa
-Maritime Museum of San Diego
-Maritime Pastoral Training Foundation, Ltd
 Mariveles
 Marjorie M.
 Mark
@@ -5956,12 +5449,6 @@ Massapequa
 Massasoit
 Massey
 Massiac
-Master Chief Aircraft Maintenanceman AFCM
-Master Chief Aviation Boatswain's Mate ABCM
-Master Chief Avionics Technician AVCM
-Master Chief Constructionman CUCM
-Master chief Utilitiesman UCCM
-Master chief equipmentman EQCM
 Master of the Sky
 Mastic
 Mataco
@@ -5977,7 +5464,6 @@ Matsonia
 Mattabesett
 Mattabesset
 Mattaponi
-Matthew Calbraith Perry: A Typical American Naval Officer
 Matthew Perry
 Matthew Vassar
 Matthiesen
@@ -6029,7 +5515,6 @@ McCoy Reynolds
 McCracken
 McCulloch
 McDermut
-McDonnell Douglas Aircraft Since 1920
 McDougal
 McDougall
 McFarland
@@ -6082,8 +5567,7 @@ Melville
 Melvin
 Melvin Bell
 Melvin R. Nawman
-Member, Ad Hoc Committee to Study and Revise the Officer Personnel Act of 1947, 1960-1961.
-Member, Gorham Military Pay Study Group, 1962-1963.
+Member
 Memorable
 Memphis
 Men in Green Faces
@@ -6186,21 +5670,6 @@ Milan
 Milanian
 Milfoil
 Milford
-Military Aerospace
-Military Aerospace Electronics
-Military Arrospace
-Military Intelligence
-Military Periscope
-Military Requirements for Petty Officers Third and Second Class
-Military Requirements for Senior and Master Chief Petty Officer
-Military Requirements for Senior and Master Chief Petty Officer Chief
-Military Sealift Command
-Military Times
-Military Tools with an Edge
-Military.com
-Military.com/Kitup
-MilitaryLeak
-MilitaryPeriscope
 Milius
 Millard County
 Milledgeville
@@ -6227,7 +5696,6 @@ Minivet
 Mink
 Minneapolis
 Minneapolis-Saint Paul
-Minneapolis-Saint Paul
 Minnehaha
 Minnemac II
 Minneopa
@@ -6237,7 +5705,6 @@ Minnetonka
 Minnie
 Minniska
 Minooka
-Minor territories
 Minorca
 Minos
 Minotaur
@@ -6285,12 +5752,10 @@ Mission Santa Cruz
 Mission Santa Ynez
 Mission Solano
 Mission Soledad
-Mission and Teamwork
 Mississinewa
 Mississippi
 Missoula
 Missouri
-Missouri Secretary of State
 Mist
 Mistletoe
 Mitchell
@@ -6303,15 +5768,12 @@ Moanahonga
 Moberly
 Mobile
 Mobile Bay
-MobileRadar.org
 Mobilitas
 Mobjack
 Moccasin
 Mockingbird
 Mocoma
 Moctobi
-Modern Biographical Files
-Modern Forces
 Modoc
 Moffett
 Mohave
@@ -6333,7 +5795,6 @@ Mona Island
 Monacacy
 Monadnock
 Monaghan
-Monaghan's
 Monarch
 Mondamin
 Mongolia
@@ -6415,7 +5876,6 @@ Mount Vernon
 Mount Washington
 Mount Whitney
 Mountrail
-Mrfa.org
 Mugford
 Muir
 Muir Woods
@@ -6469,10 +5929,6 @@ Mystery
 Mystic
 Mystic Seaport
 Mytho
-NBC News
-NDIA Proceedings
-NOAA Commissioned Personnel Center Cyberflash
-NSN Lookup
 Nabigwon
 Nabob
 Nacheninga
@@ -6538,18 +5994,6 @@ Nathanael Greene
 Nathaniel Palmer
 Nathaniel Taylor
 Natick
-National Defense Magazine
-National Defense University
-National Geospatial-Intelligence Agency
-National Guard
-National Heart, Lung, and Blood Institute
-National Knife Magazine
-National Liberty Ship Memorial
-National Museum of American History
-National Museum of the Pacific War
-National Museum of the United States Air Force
-National Oceanic and Atmospheric Administration
-National Park Service
 Natoma
 Natoma Bay
 Natoya
@@ -6563,49 +6007,13 @@ Nausett
 Naushon
 Nautilus
 Nautilus II
-Nav-Radio
-NavSource
-NavSource Naval History
-NavSource Online
-NavSource Photo Archives
 Navajo
 Navajo III
-Naval Air Force Atlantic
-Naval Air: Celebrating a Century of Naval Flying
-Naval Education and Training Command
-Naval History and Heritage Command
-Naval Information Forces
-Naval Information Warfare Systems Command
-Naval News
-Naval Orientation
-Naval Sea Systems Command
-Naval Supply Systems Command
-Naval Surface Force, U.S. Pacific Fleet
-Naval Surface Forces Pacific
-Naval Technology
-Naval Vessel Register
-Naval War College Review
-Naval Warfare International
-Naval units:
 Navarro
 Navasota
 Navesink
 Navigator
-Navsource Online
-Navsource.org
-Navy Data
-Navy Electronic Commerce Online
-Navy Ford CVN-78 Class Aircraft Carrier Program: Background and Issues for Congress
-Navy Installations Command
 Navy League
-Navy Medicine
-Navy Region Mid-Atlantic
-Navy Super Tankers
-Navy Times
-Navy Yard
-Navy Yearbook
-Navy.com
-Navy.mil
 Nawat
 Nawona
 Neah Bay
@@ -6662,7 +6070,6 @@ Neunzer
 Neuse
 Nevada
 Neville
-Nevington War Museum
 New
 New Bedford
 New Berne
@@ -6682,7 +6089,6 @@ New Orleans
 New Uncle Sam
 New York
 New York City
-New York Journal of Commerce
 New-York
 Newark
 Newberry
@@ -6717,7 +6123,6 @@ Niji
 Nike
 Nimble
 Nimitz
-Nimitz-class
 Nina
 Niobe
 Niobrara
@@ -6731,9 +6136,7 @@ Nite Hawk
 Nitro
 Nitze
 Nixie
-No Better Friend, No Worse Enemy
-No Mission Too Difficult, No Sacrifice Too Great, Duty First
-No Name ex Puerto Rico
+No Name
 Noa
 Noble
 Noble Star
@@ -6747,7 +6150,6 @@ Nomad
 Non Revertar Inultus
 Non Sibi Sed Aliis
 Nonata
-None, civilian
 Nonpareil
 Nonsuch
 Noord Brabant
@@ -6763,34 +6165,27 @@ Norma
 Norman O. Pedrick
 Norman Scott
 Normandie
-Normandie 
+Normandie
 Normandy
 Normannia
 Norris
 North
-North American Aerospace Defense Command
-North American Forts 1526-1956
 North Carolina
 North Coast
 North Dakota
 North Pole
 North Star
-North and South America Illustrated: The English in America
 Northampton
 Northern Light
 Northern Pacific
 Northland
-Northrop Grumman to provide threat warning sensors for large aircraft infrared countermeasures system
 Northway
 Northwest Seaport
 Northwind
 Norton Sound
 Norwalk
 Norwich
-Not applicable
 Notable
-Note: the following camps are dispersed throughout Okinawa but are all under the administration of the MCB complex.
-Note: tonnages are given in naval light/full load displacement
 Nottoway
 Nourmahal
 Nowaki
@@ -6803,14 +6198,12 @@ Numitor
 Nunivak
 Nuthatch
 Nutmeg
-Nvr.navy.mil
 Nyack
 Nyanza
 Nyasaland
 Nye County
 Nymph
 O'Bannon
-O'Bannon's
 O'Brien
 O'Callahan
 O'Flaherty
@@ -6836,7 +6229,6 @@ Observation Island
 Observer
 Obstructor
 Ocala
-Ocean Exploration Advisory Board
 Ocean Sentry
 Oceanographer
 Oceanside
@@ -6857,19 +6249,12 @@ Octopus
 Octorara
 Odax
 Odum
-Of Mottos and Morals: Simple Words for Complex Virtues
-Office of Marine and Aviation Operations, National Oceanic and Atmospheric Administration
-Office of the Deputy Commandant for Information
-Office of the Director, Operational Test and Evaluation
-Office of the Secretary of the Navy
-Officers:
 Ogden
 Ogeechee
 Oglala
 Oglethorpe
 Ohio
 Ohio University
-Ohio-class
 Ohioan
 Ojanco
 Ojen
@@ -6937,9 +6322,6 @@ Onyx
 Oosterdijk
 Opal
 Opelika
-Operation Argus, 1958
-Operation Dominic I
-Operation Sandstone: 1948
 Ophir
 Opie Read
 Opponent
@@ -6958,7 +6340,6 @@ Oregon City
 Oregon Live
 Oregonian
 Orestes
-Organizing OPNAV 1970 - 2009
 Origny
 Oriole
 Orion
@@ -6996,7 +6377,6 @@ Ostrich
 Oswald
 Oswald A. Powers
 Oswegatchie
-Other:
 Otis W. Douglas
 Otokomi
 Otsego
@@ -7038,15 +6418,12 @@ Ozette
 P T Boats Inc
 P. H. Burnett
 P. K. Bauman
-PC Patrol Craft of World War II: A History of the Ships and their Crews
-PEO Soldier
 PFC Dewayne T. Williams
 PFC Eugene A. Obregon
 PFC James Anderson Jr.
 PFC William B. Baugh
 Pablo Valent
 Pacific Escort
-Pacific Fleet Submarine Museum
 Pacific Historic Parks
 Pacific Tracker
 Paddle
@@ -7082,7 +6459,6 @@ Pampanga
 Pampanito
 Pampeio
 Pampero
-Pamphlet No.1: Information for Personnel Returning from Overseas
 Panama
 Panaman
 Panameta
@@ -7148,22 +6524,8 @@ Patricia
 Patrick Gallagher
 Patrick Henry
 Patriot
-Patriot.net
-Patriots Point Naval and Maritime Museum
 Patroclus
 Patrol
-Patrol #1
-Patrol #10
-Patrol #11
-Patrol #2
-Patrol #4
-Patrol #5
-Patrol #6
-Patrol #7
-Patrol #8
-Patrol Boat No. 102
-Patrol Boat No. 107
-Patrol Craft Sailor Association
 Patroller
 Patroon
 Patterson
@@ -7228,7 +6590,6 @@ Penguin
 Pennewill
 Pennslvania
 Pennsylvania
-Pennsylvania R. R. No. 9
 Pennsylvanian
 Penobscot
 Penobscot Bay
@@ -7383,9 +6744,7 @@ Pivot
 Placerville
 Plaice
 Plainview
-Plane Encyclopedia
 Planetree
-Plans, Policies and Operations, Headquarters Marine Corps
 Planter
 Platono
 Platte
@@ -7533,12 +6892,9 @@ Pontotoc
 Pontus
 Poole
 Pope
-Pope's
 Popham
 Poplar
 Poppy
-Popular Mechanics
-Populated territories
 Poquim
 Porcupine
 Porobago
@@ -7613,7 +6969,6 @@ Pretext
 Pretoria
 Prevail
 Preventer
-Preventive Maintenance Monthly
 Price
 Prichett
 Pride
@@ -7653,7 +7008,6 @@ Privet
 Pro Patria Vigilans
 Proceedings of SPIE
 Procyon
-Programs and Resources, Headquarters Marine Corps
 Progress
 Progressive
 Progresso Sine Timore Aut Praejudicio
@@ -7679,7 +7033,6 @@ Prudent
 Pruitt
 Psyche V
 Ptarmigan
-Public Intelligence
 Pudiano
 Puebla
 Pueblo
@@ -7699,8 +7052,6 @@ Pursuit
 Pursuivant
 Purveyor
 Pushmataha
-Put the Vermonters Ahead
-Put the Vermonters Ahead: A History of the Vermont National Guard, 1764-1978
 Putnam
 Puyallup
 Pvt. Franklin J. Phillips
@@ -7756,7 +7107,6 @@ Racehorse
 Racer
 Rachel Seaman
 Racine
-RadarTutorial.eu
 Radcliffe
 Radford
 Radiant
@@ -7800,7 +7150,6 @@ Rappahannock
 Raritan
 Rasher
 Rathburne
-Rathburne's
 Raton
 Rattler
 Rattlesnake
@@ -7818,13 +7167,10 @@ Raymond J. Anderton
 Raymonde
 Razorback
 Razorbill
-Read Leveraging Unmanned Systems for Coast Guard Missions at NAP.edu
 Reading
 Ready
 Ready for Sea
-Ready for Sea: The Bicentennial History of the U.S. Navy Supply Corps
 Reaper
-Rear Admiral Robert L. Ghormley Advanced To Vice Admiral
 Reasoner
 Rebecca Sims
 Rebel
@@ -7859,18 +7205,6 @@ Refresh
 Refuge
 Regis II
 Register
-Register of Commissioned and Warrant Officers of the Active Duty List, NAVPERS 15018
-Register of Commissioned and Warrant Officers of the United States Navy and Marine Corps
-Register of Commissioned and Warrant Officers of the United States Navy on Active Duty
-Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the USN, NAVPERS 15939
-Register of Retired Commissioned and Warrant Officers, Regular and Reserve, of the United States Navy and Marine Corps 1945, 1950-1984
-Register of Ships of the US Navy, 1775-1990: Major Combatants
-Register of ships of the U.S. Navy, 1775-1990
-Register of ships of the U.S. Navy, 1775-1990
-Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1852
-Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1859
-Register of the Commissioned and Warrant Officers of the Navy of the United States, including Officers of the Marine Corps, and other, for the Year 1870
-Register of the Commissioned and Warrant Officers of the United States Navy and Marine Corps
 Regulus
 Rehoboth
 Reid
@@ -7882,10 +7216,9 @@ Relentless
 Reliable
 Reliable and Relentlessness
 Reliance
-Reliance-class
 Reliant
 Relief
-Relief 
+Relief
 Remey
 Remlik
 Remora
@@ -7895,7 +7228,6 @@ Rendezvous with Destiny
 Rendova
 Reno
 Renshaw
-Renshaw's
 Rentz
 Renville
 Report
@@ -8008,8 +7340,6 @@ Riverside
 Rixey
 Rizal
 Rizzi
-Ro-103
-Ro-41
 Road Runner
 Roamer
 Roanoke
@@ -8036,7 +7366,7 @@ Robert I. Paine
 Robert K. Huntington
 Robert Kerrey
 Robert L. Barnes
-Robert L. Barnes 
+Robert L. Barnes
 Robert L. Wilson
 Robert M. Emery
 Robert M. Thompson
@@ -8165,7 +7495,6 @@ Ryer
 S P Lee
 S. M. Goucher
 S. P. Lee
-S. T. Co. No. 2
 S.B. Hunt
 SLNC Corsica
 SLNC Goodwill
@@ -8221,7 +7550,6 @@ Sagua
 Saguanash
 Saidor
 Sailfish
-Sailing Warships of the US Navy
 Saint Croix
 Saint Croix River
 Saint Paul
@@ -8276,13 +7604,11 @@ Samuel Rotan
 Samuel S. Miles
 San Alberto Bay
 San Antonio
-San Antonio-class
 San Bernardino
 San Bernardino County
 San Carlos
 San Clemente
 San Diego
-San Diego Union-Tribune
 San Felipe
 San Francisco
 San Jacinto
@@ -8412,7 +7738,6 @@ Schenectady
 Schley
 Schmitt
 Schofield
-Schriever Air Force Base
 Schroeder
 Schurz
 Schuyler
@@ -8427,7 +7752,6 @@ Scoter
 Scott
 Scourge
 Scout
-Scout Sniper Association
 Scramble
 Scranton
 Screven
@@ -8485,29 +7809,19 @@ Seahawk
 Seahorse
 Seal
 Sealift
-Sealift Antarctic
-Sealift Arabian Sea
-Sealift Arctic
-Sealift Atlantic
-Sealift Caribbean
-Sealift China Sea
-Sealift Indian Ocean
-Sealift Mediterranean
-Sealift Pacific
 Sealion
 Seaman
 Seapower
 Searaven
 Search
 Searcher
-Searching the Skies - The Legacy of the United States Cold War Defense Radar Program
+Searching the Skies
 Seatag
 Seatrain Texas
 Seattle
 Seaward
 Seaweed
 Seawolf
-Seawolf-class
 Seay
 Sebago
 Sebastian
@@ -8535,7 +7849,6 @@ Seize
 Seize the Opportunity
 Seizer
 Selfridge
-Selfridge's
 Selinur
 Sellers
 Sellstrom
@@ -8543,14 +7856,11 @@ Selma
 Sémillante
 Seminole
 Semmes
-Semper Fidelis: The History of the United States Marine Corps
 Semper Paratus
 Senasqua
 Senator Ross
 Seneca
 Senibeil
-Senior Chief Constructionman CUCS
-Senior Member, Naval Clemency and Prison Inspection Board, 1943-1946.
 Sennet
 Senorita
 Sentinal
@@ -8569,11 +7879,9 @@ Seringapatm
 Serpens
 Serrano
 Service with Pride
-Serving the Armed Forces
 Setauket
 Seven
 Seven Seas
-Seventh Air Force
 Severance
 Severn
 Sevier
@@ -8604,8 +7912,7 @@ Shabonee
 Shackle
 Shad
 Shada
-Shadow III
-Shadow: Five Presidents and the Legacy of Watergate
+Shadow
 Shadwell
 Shady Side
 Shah
@@ -8626,7 +7933,6 @@ Sharps
 Shasta
 Shaula
 Shaw
-Shaw Local News Network
 Shawmut
 Shawnee
 Shawnee Trail
@@ -8656,15 +7962,8 @@ Shikellamy
 Shiloh
 Shinano
 Shiner
-Ship History Database Vessel Status Card
-Shipname
-ShipSpotting.com
-Shipbuilding History
-Shipbuildinghistory.com
 Shipley Bay
 Shippingport
-Ships for Victory: A History of Shipbuilding Under the U.S. Maritime Commission in World War II
-Shipscribe.com
 Shirin
 Shirk
 Shokokon
@@ -8720,7 +8019,6 @@ Simpson
 Sims
 Sinclair
 Sinclair Texas
-Siobhan Esposito's Blog
 Sioux
 Sioux City
 Sir Andrew Hammond
@@ -8745,7 +8043,6 @@ Skaneateles
 Skate
 Skenandoa
 Skill
-Skilled Hands, Strong Spirits: A Century of Building Trades History
 Skillful
 Skimmer
 Skink
@@ -8764,9 +8061,7 @@ Slater
 Sledge
 Slinger
 Sloat
-Small Arms Today
 Smalley
-Smart Encyclopedia
 Smartt
 Smilax
 Smiter
@@ -8780,8 +8075,7 @@ Snapdragon
 Snapper
 Snark
 Snatch
-Sniper ATP
-Sniper Extended Range
+Sniper
 Snohomish
 Snohomish County
 Snook
@@ -8798,9 +8092,6 @@ Sol Navis
 Solace
 Solano County
 Solar
-Soldier Systems Daily
-Soldiering Starts Here
-Soldiers first, lawyers always
 Soldiers for Freedom
 Soldiers of the Sky
 Sole
@@ -8844,7 +8135,6 @@ Southland
 Southport
 Southwind
 Sovereign
-SpaceForce.mil
 Spadefish
 Spangenberg
 Spangler
@@ -8858,7 +8148,6 @@ Speaker
 Spear
 Spearfish
 Spearhead
-Specialties:
 Spectacle
 Specter
 Spector
@@ -8866,7 +8155,6 @@ Speed
 Speedway
 Speedwell
 Spence
-Spence's
 Spencer
 Sperry
 Sphinx
@@ -8925,7 +8213,6 @@ St. Joseph River
 St. Lawrence
 St. Lo
 St. Louis
-St. Mary's
 St. Marys River
 St. Mihiel
 St. Olaf
@@ -8949,24 +8236,18 @@ Stanly
 Stansbury
 Stanton
 Star
-Star 1
-StarSAFIRE III
-Starboard Unit
-Starbulletin.com
 Stark
 Stark County
 Starlight
 Starling
 Starr
-Stars and Stripes
-State of Denial: Bush at War, Part III
 State of Georgia
 State of Maryland
 State of Virginia
 Staten
 Staten Island
 Statice
-Statue de La Liberte 
+Statue de La Liberte
 Staunch
 Stayner
 Steadfast
@@ -9052,7 +8333,6 @@ Sturgeon Bay
 Sturtevant
 Suamico
 Sublette County
-Submarine Tactical Data Link HF Radio Comparison Test
 Success
 Sudbury
 Suffolk
@@ -9145,8 +8425,6 @@ Syrian Arab News Agency
 Syrma
 T. A. Ward
 T. D. Horner
-TM 11-5855-209-10 Operator's Manual Night Vision Sight, Miniaturized AN/PVS-3
-TPub Integrated Publishing
 TSgt John A. Chapman
 Ta-Kiang
 Tabberer
@@ -9158,8 +8436,6 @@ Taconic
 Taconnet
 Tacony
 Tact
-Tactical Night Vision Company TNVC
-Tactical-Life.com
 Tadousac
 Taedong
 Taganak
@@ -9170,9 +8446,6 @@ Tahgayuta
 Tahoe
 Tahoma
 Taihō
-Tail codes with a first letter A denote Atlantic Fleet Air Task Groups, while N denotes Pacific Fleet Air Task Groups.
-Tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
-Tail codes with a first letter A denoted Atlantic Fleet air groups, while N denoted Pacific Fleet air groups except for RCVSG 51 RA which was also a Pacific Fleet air group.
 Taiyo Maru
 Takana
 Takanami
@@ -9205,7 +8478,6 @@ Tamarack
 Tamaroa
 Tambor
 Tampa
-Tampa Shipyards
 Tampico
 Tanager
 Tanamo
@@ -9279,7 +8551,6 @@ Tench
 Tenedos
 Tenino
 Tennessee
-Tennessee/Memphis
 Tenryū
 Tensas
 Tensaw
@@ -9301,7 +8572,6 @@ Teton
 Tetonkaha
 Texan
 Texas
-Textron Aviation newsroom
 Thach
 Thad Cochran
 Thaddeus Parker
@@ -9311,110 +8581,25 @@ Thames River
 Thane
 That We May Serve
 Thatcher
-The Army and Navy Journal
-The Army's Cargo Fleet in World War II
 The Aviationist
-The Baltimore Sun
-The Battle for Bataan: A History of the 90 Day Siege and Eventual Surrender of 75,000 Filipino and United States Troops to the Japanese in World War II
 The Beattie Eagle
-The Biographical Dictionary of World War II Generals and Flag Officers: The U.S. Armed Forces
 The Capital
-The Cincinnati Enquirer
-The Corps of Engineers: The War Against Germany
-The Corps of Engineers: Troops & Equipment
-The Courier-Journal
 The Cut
-The Defense Post
-The District: A History of the Philadelphia District, U.S. Army Corps of Engineers 1866-1971
 The Drive
-The Ethiopian Herald
-The Evolution of the Sonobuoy from World War Ii to the Cold War U
 The Eye of an Eagle
-The Fall of the Philippines
-The Free Library by Farlex
-The Fresno Bee
-The Great Book of Modern Warplanes
-The History of the American Sailing Navy; The Ships and Their Development.
-The History of the U.S. Air Force
-The History of the Unified Command Plan, 1946-1993
-The Hollywood Guard
-The Honolulu Advertiser
 The Last Patrol
-The Little Ships
-The Marine Corps Book of Lists
-The Mayor of Castro Street: The Life and Times of Harvey Milk
-The Mighty Mighty
-The Military Balance
-The Muncie Evening Press
-The Navy of the Nuclear Age, 1947-2007
-The New York Times
-The New-York Annual Register for the Year of Our Lord 1836
-The Official Bulletin
-The Official US Navy Blog
 The Oklahoman
-The Old Steam Navy.
-The Ordnance Department: On Beachhead and Battlefront
-The Organization And Role Of The Army Service Forces In World War II
-The Oxford Encyclopedia of American Military and Diplomatic History
-The Presidency Then and Now
-The Professionals
-The Public and General Statutes Passed by the Congress of the United States of America: From 1789 to 1836 Inclusive
-The Quarterdeck Log
-The Quartermaster Review
-The Records of Living Officers of the U.S. Navy and Marine Corps
 The Rock
-The Sacred Warriors: Japan's Suicide Legions
-The Sailing Navy, 1775-1854
-The Scuba Doctor
-The Second Was Always First: 2nd Aircraft Repair Unit Floating
-The Ships and Aircraft of the United States Fleet, Eighth Edition
-The Signal Corps: The Outcome Mid-1943 Through 1945
-The Soupy Sales Show
 The Sullivans
-The Sunday Star
-The Technical Services—The Medical Department: Hospitalization And Evacuation, Zone Of Interior
-The Times
-The U.S. Coast Guard in World War II
-The U.S. Navy: A History
-The United States of War
-The Wall Street Journal
-The War Zone
-The Warzone
-The Washington Post
-The Week
-The What's New Magazine
-The White House, Washington D.C. George W. Bush archive
-The Wilkes-Barre Record
-The Windsor Daily Star
-The Writings of George Washington from the Original Manuscript Sources, 1745-1799
-The Yankee mining squadron; or, Laying the North Sea mining barrage
-The invasion of France and Germany, 1944-1945
-The steam navy of the United States
-TheFreeLibrary by Farlex
 Theenim
 Thelma
-Thence Round Cape Horn: The Story of United States Naval Forces on Pacific Station, 1818-1923
-Thenceforward new heavy and light cruisers were numbered in a single sequence.
 Theodore E. Chandler
 Theodore Roosevelt
 Theta
 Thetis
 Thetis Bay
-They'll Have to Follow You!: The Triumph of the Great White Fleet
 Thi Tu
 This We'll Defend
-This wing still exists as Airborne Command & Control and Logistics Wing
-This wing still exists as Electronic Attack Wing, U.S. Pacific Fleet
-This wing still exists as Fleet Logistics Support Wing
-This wing still exists as Helicopter Maritime Strike Wing, U.S. Atlantic Fleet
-This wing still exists as Helicopter Maritime Strike Wing, U.S. Pacific Fleet
-This wing still exists as Helicopter Sea Combat Wing, U.S. Atlantic Fleet
-This wing still exists as Helicopter Sea Combat Wing, U.S. Pacific Fleet
-This wing still exists as Patrol and Reconnaissance Wing ELEVEN
-This wing still exists as Patrol and Reconnaissance Wing TEN
-This wing still exists as Strike Fighter Wing, U.S. Atlantic Fleet
-This wing still exists as Strike Fighter Wing, U.S. Pacific Fleet
-This wing still exists as Tactical Support Wing.
 Thistle
 Tho Chau
 Thomas
@@ -9435,6 +8620,7 @@ Thomas H. Barry
 Thomas Henrix
 Thomas Hudner
 Thomas Hunder
+Thomas J. Doyle
 Thomas J. Gary
 Thomas Jefferson
 Thomas Laundry
@@ -9466,7 +8652,6 @@ Thurston
 Tiburon
 Tickler
 Ticonderoga
-Ticonderoga-class
 Tide
 Tidewater
 Tien Moi
@@ -9551,7 +8736,6 @@ Torchwood
 Tornado
 Toro
 Torpedo
-Torpedoboat Sailor.
 Torrance
 Torrington
 Torry
@@ -9626,7 +8810,6 @@ Triumph
 Trocadero Bay
 Troilus
 Trollope
-Troopships of World War II
 Tropic Lightning
 Tropic Moon 3
 Trouncer
@@ -9651,7 +8834,6 @@ Tryon
 Tucana
 Tuckahoe
 Tucker
-Tucker's
 Tucson
 Tucumcari
 Tudno
@@ -9696,7 +8878,6 @@ Twilight
 Twin Falls
 Twining
 Two Sisters
-Two letter tail codes with a first letter A denote Atlantic Fleet airwings, while N denotes Pacific Fleet airwings.
 Tybee
 Tyee
 Tyler
@@ -9704,104 +8885,7 @@ Typhon
 Typhoon
 Tyrrell
 U-Go
-U. S. Army Transportation In The Southwest Pacific Area 1941-1947
 U. S. Grant
-U.S. Africa Command
-U.S. Air Force
-U.S. Aircraft Carriers: An Illustrated Design History
-U.S. Amphibious Ships and Craft: An Illustrated Design History
-U.S. Army
-U.S. Army LT/ST #
-U.S. Army Aircraft 1908-1946
-U.S. Army Corps of Engineers
-U.S. Army Corps of Engineers Dredging Operations Technical Support Program
-U.S. Army Europe and Africa
-U.S. Army Fact Files
-U.S. Army Forces Command
-U.S. Army Garrison Humphreys
-U.S. Army Heraldic Crests: A Complete Illustrated History of Authorized Distinctive Unit Insignia
-U.S. Army Ships and Watercraft of World War II
-U.S. Army Space and Missile Defense Command
-U.S. Army Training and Doctrine Command
-U.S. Army Transportation in the Southwest Pacific Area 1941-1947
-U.S. Army Transportation in the Southwest Pacific Area, 1941-1947
-U.S. Battleships, An Illustrated Design History
-U.S. Central Command
-U.S. Coast Guard
-U.S. Coast Guard History
-U.S. Coast Guard News
-U.S. Congress
-U.S. Cruisers: An Illustrated Design History
-U.S. Cyber Command
-U.S. Department of Commerce
-U.S. Department of Defense
-U.S. Destroyers: An Illustrated Design History
-U.S. European Command
-U.S. Fleet Forces Command
-U.S. Forces Japan
-U.S. Geological Survey
-U.S. Government Publishing Office
-U.S. Indo-Pacific Command
-U.S. Marine Corps
-U.S. Marine Corps Forces Command
-U.S. Marine Corps Forces, Pacific
-U.S. Marine Corps Training and Education Command
-U.S. Merchant Marine Academy
-U.S. Military Academy
-U.S. Military Aircraft Designations and Serials Since 1909
-U.S. Military about.com
-U.S. Naval Forces Europe and Africa / U.S. Sixth Fleet
-U.S. Naval Forces Europe-Africa/U.S. Sixth Fleet
-U.S. Naval Institute
-U.S. Naval Officers, Vice Admiral and Above, 1864-1963
-U.S. Navy
-U.S. Navy Auxiliary Vessels: A History and Directory from World War I to Today
-U.S. Navy Biographical Dictionary
-U.S. Navy Newsstand
-U.S. Navy Reserve
-U.S. Navy, Kitty Hawk Public Affairs
-U.S. Northern Command
-U.S. Pacific Fleet
-U.S. Second Fleet
-U.S. Senate
-U.S. Small Combatants: An Illustrated Design History
-U.S. Southern Command
-U.S. Space Command
-U.S. Space Force
-U.S. Special Operations Command
-U.S. Special Operations Command: Challenges and Opportunities
-U.S. Strategic Command
-U.S. Submarines Since 1945: An Illustrated Design History
-U.S. Transportation Command
-U.S. Warships of World War I
-U.S. Warships of World War II
-UK Airports and Airfields
-UK Land Power
-US Army
-US Army Corps of Engineers
-US Army Order of Battle 1919-1941, vol. 2
-US Army in Germany.com
-US Marine Corps
-US Marine Training Command
-US Naval Institute
-US Navy
-US Navy Fact File
-US Small Combatants: An Illustrated Design History
-US Warships of World War I
-US Warships of World War II
-USA Today
-USCG Regulations&#93;
-USMC Fact File
-USN Fact File
-USNI News
-USS Enterprise
-USS Jimmy Carter
-USS Kidd
-USS Midway Museum
-USS Orleck
-USS Pueblo
-USS Utah
-Uboat.net
 Udarnik
 Uhlmann
 Ukiah
@@ -9818,7 +8902,6 @@ Unalga
 Uncas
 Undaunted
 Underhill
-Underwater Explosives Barge Number 1
 Underwood
 Underwriter
 Undine
@@ -9827,60 +8910,9 @@ Unicoi
 Unicorn
 Unimak
 Union
-Union River Ironclad 1861-65
 Uniontown
 Unit
 United States
-United States Army In World War II - The Technical Services - The Transportation Corps: Movements, Training, And Supply
-United States Army In World War II-The Technical Services-The Transportation Corps: Movements, Training, And Supply
-United States Coast Guard
-United States Coast Guard Academy
-United States Code
-United States Committee on Armed Services
-United States Destroyer Operations in World War II
-United States Marine Corps
-United States Naval Institute Proceedings
-United States Navy
-United States Navy Aircraft since 1911
-United States Navy Biographies
-United States Navy Flag Officers Public, April 2021
-United States Navy Flag Officers Public, April 2022
-United States Navy Flag Officers Public, April 2023
-United States Navy Flag Officers Public, August 2021
-United States Navy Flag Officers Public, August 2022
-United States Navy Flag Officers Public, August 2024
-United States Navy Flag Officers Public, December 2022
-United States Navy Flag Officers Public, February 2022
-United States Navy Flag Officers Public, February 2023
-United States Navy Flag Officers Public, February 2024
-United States Navy Flag Officers Public, January 2021
-United States Navy Flag Officers Public, January 2022
-United States Navy Flag Officers Public, January 2023
-United States Navy Flag Officers Public, January 2024
-United States Navy Flag Officers Public, July 2021
-United States Navy Flag Officers Public, July 2022
-United States Navy Flag Officers Public, July 2024
-United States Navy Flag Officers Public, June 2021
-United States Navy Flag Officers Public, June 2022
-United States Navy Flag Officers Public, March 2021
-United States Navy Flag Officers Public, March 2022
-United States Navy Flag Officers Public, March 2023
-United States Navy Flag Officers Public, March 2024
-United States Navy Flag Officers Public, May 2021
-United States Navy Flag Officers Public, May 2022
-United States Navy Flag Officers Public, May 2023
-United States Navy Flag Officers Public, November 2021
-United States Navy Flag Officers Public, November 2022
-United States Navy Flag Officers Public, October 2021
-United States Navy Flag Officers Public, October 2022
-United States Navy Flag Officers Public, October 2024
-United States Navy Flag Officers Public, September 2021
-United States Navy Flag Officers Public, September 2022
-United States Navy Flag Officers Public, September 2024
-United States Navy Uniform Regulations
-United States Navy Uniform Regulations CPO Rating
-United States Senate
-United States Space Force
 Unity is Strength
 Unknown
 Unnamed
@@ -9890,7 +8922,6 @@ Uranus
 Urdaneta
 Urgent
 Usage
-Usspennsylvania.org
 Utacarbon
 Utah
 Ute
@@ -9997,8 +9028,6 @@ Victory or Death
 Videmus Omnia
 Vidette
 Vidofner
-Vietnam Ironclads, A Pictorial History of US Navy River Assault Craft, 1966-1970
-Vietnam Riverine Craft 1962-75
 Vigil
 Vigilance
 Vigilant
@@ -10015,14 +9044,12 @@ Vincent
 Vincere Vel Mori
 Vindicator
 Vineyard
-Vineyard Sound Lightship
 Vinh Long
 Vinton
 Violet
 Viper
 Vireo
 Virginia
-Virginia-class
 Virginian
 Virgo
 Virtus Perdurat
@@ -10039,7 +9066,7 @@ Vivace
 Vixen
 Voge
 Vogelgesang
-Vogelgesang 
+Vogelgesang
 Voice of Control
 Voice of the Aviation
 Voice to the Skies
@@ -10061,7 +9088,6 @@ W. T. James
 W. W. Burns
 W.M. Irish
 WT Preston
-WW2 US Medical Research Centre
 Wa'a Hele Honua
 Waa Hele Honoa
 Waban
@@ -10079,7 +9105,6 @@ Waddell
 Wadena
 Wadleigh
 Wadsworth
-Wadsworth's
 Waesche
 Wagner
 Wahaka
@@ -10090,7 +9115,6 @@ Wahpeton
 Wahtah
 Wailaki
 Wainwright
-Waiting for Dead Men's Shoes: Origins and Development of the U.S. Navy's Officer Personnel System, 1793-1941
 Wakataka
 Wake
 Wake Island
@@ -10105,7 +9129,6 @@ Waldron
 Waliaki
 Walke
 Walker
-Wall Street Journal
 Wallace L. Lind
 Wallacut
 Waller
@@ -10148,7 +9171,6 @@ Wapello
 War Bug
 War Hawk
 War Is Boring
-War in the Pacific: Pearl Harbor to Tokyo Bay: the Story of the Bitter Struggle in the Pacific Theater of World War II, Featuring Commissioned Photographs of Artifacts from All the Major Combatants
 War on the Rivers
 Warbler
 Ward
@@ -10158,21 +9180,18 @@ Warren J. Courtney
 Warrick
 Warrington
 Warrior
-Warship 2011
 Wasaka III
 Wasatch
 Washakie
 Washburn
 Washington
 Washington Chambers
-Washington Post
 Washoe County
 Washtenaw
 Washtenaw County
 Washtucna
 Wasmuth
 Wasp
-Wasp-class
 Wassaic
 Wassuc
 Watauga
@@ -10217,7 +9236,6 @@ We Pierce
 We Set the Example
 We Try Harder
 Weasel
-Weather.gov
 Weatherford
 Weaver
 Weber
@@ -10340,7 +9358,6 @@ Wheeling
 Whetstone
 Whidbey
 Whidbey Island
-Whidbey Island-class
 Whippet
 Whipple
 Whippoorwill
@@ -10374,7 +9391,6 @@ Whitley
 Whitman
 Whitney
 Who Fears?
-Who Was Who in American History—The Military
 Wichita
 Wichita Falls
 Wickakee
@@ -10501,15 +9517,12 @@ Windigo
 Winding Gulf
 Windlass
 Windom
-Winds of Change: The History of the Office of the Master Chief Petty Officer of the Navy 1967-1992
 Windsor
 Windward
 Winfield S. Cahill
 Winged Arrow
-Winged Shield, Winged Sword 1950-1997: A History of the United States Air Force
 Wingfield
 Wingina
-Wings for the Navy: A History of the Naval Aircraft Factory, 1917-1956
 Wings of Destiny
 Wings of Gold
 Wings of Victory
@@ -10536,7 +9549,6 @@ Winthrop
 Wintle
 Wire
 Wisconsin
-Wisconsin Maritime Museum
 Wiseman
 Wissahickon
 Wissoe II
@@ -10563,7 +9575,6 @@ Woodpecker
 Woodrow R. Thompson
 Woodrow Wilson
 Woodrush
-Woods Hole Oceanographic Institution
 Woodson
 Woodstock
 Woodworth
@@ -10572,16 +9583,11 @@ Woonsocket
 Worcester
 Worden
 Worland
-World Socialist Web Site
-World War II Shipwrecks of the Philippines
-World War II U.S. Navy Armed Guard
-World War II in the Pacific
 Worthington
 Worthy
 Wovoka
 Woyot
 Wrangell
-Wrecksite.eu
 Wren
 Wright
 Wullenweber
@@ -10691,8 +9697,4 @@ Zuiderdijk
 Zuikaku
 Zumbrota
 Zumwalt
-Zumwalt-class
 Zuni
-active as of Aug 2020
-i.e., those reserve officers who are not currently serving on the Training and Administration of the Reserve TAR Program, or appointed from the Naval Reserve Integration Program, or a member of the Retired Reserve, see immediately below.
-iBiblio
