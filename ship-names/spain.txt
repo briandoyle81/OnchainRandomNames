@@ -1,16 +1,13 @@
-Rodman-1250 class
--   Guadalete
-A-11 Marques de la Ensenada
-A-11 Teide
-A-62 Maquinista Macias
-A-63 Torpedista Hernandez
-A-64 Fogonero Bañobre
-A-65 Marinero Jarano
-A-66 Condestable Zaragoza
+Marques de la Ensenada
+Teide
+Maquinista Macias
+Torpedista Hernandez
+Fogonero Bañobre
+Marinero Jarano
+Condestable Zaragoza
 Acevedo
 Achernar
 Activo
-Adjutant class
 África
 Agosta
 Aguila
@@ -66,9 +63,6 @@ Argonaute
 Argos
 Ariete
 Arlanza
-Armada Española
-Armada de la Carrera de Indias
-Armada del Mar del Sur
 Arnomendi
 Arrogante
 Asia
@@ -96,7 +90,6 @@ Baracoa
 Barceló
 Barnstable County
 Basco
-Battleships: Axis and Neutral Battleships in World War II
 Berenguela
 Bidasoa
 Blanca
@@ -110,8 +103,6 @@ Brisquard
 Buen Consejo
 Buenaventura
 Bulusán
-Buques Hidrográficos Costeros
-Buques de vapor de la armada española, del vapor de ruedas a la fragata acorazada, 1834-1885
 Burlandín
 Bustamante
 Cabo Fradera
@@ -188,7 +179,6 @@ Contramaestre Castelló
 Contramaestre Lamadrid
 Contramaestre Navarrete
 Contramaestre Sanchez Fernandez
-Conway's All the World's Fighting Ships 1906-1921
 Corcuera
 Cornelia
 Cornelie
@@ -201,26 +191,23 @@ Cristóbal Colón
 Cuba Española
 Cuervo
 D'Entrecasteaux
-D-41 Oquendo
-D-42 Roger de Lauria
-D-43 Marqués de la Ensenada
-D-51 Liniers
-D-52 Álava
-DD509 Converse
-DD550 Capps
-DD551 Taylor
-DD678 McGowan
-DD711 Eugene A. Greene
-DD779 Jarvis
-DD841 Noa
-DD879 Leary
-DD882 Furse
-DD889 O'Hare
+Oquendo
+Roger de Lauria
+Marqués de la Ensenada
+Liniers
+Álava
+Converse
+Capps
+Taylor
+McGowan
+Eugene A. Greene
+Jarvis
+Noa
+Leary
+Furse
+O'Hare
 Dainty
 Dardo
-Defensa Aviacion
-Defensa.com
-Defense News
 Dejá vu
 Delfín
 Desaix
@@ -266,27 +253,27 @@ Estrella del Mar
 Eulalia
 Evangelista Torricelli
 Extremadura
-F-01 Marte
-F-02 Neptuno
-F-11 Júpiter
-F-12 Vulcano
-F-21 Eolo
-F-22 Tritón
-F-31 Pizarro
-F-32 Hernán Cortés
-F-33 Vasco Núñez de Balboa
-F-34 Martín Alonso Pinzón
-F-35 Magallanes
-F-36 Sarmiento de Gamboa
-F-41 Vicente Yáñez Pinzón
-F-42 Legazpi
-F-51 Descubierta
-F-61 Atrevida
-F-62 Princesa
-F-63 Diana
-F-64 Nautilus
-F-65 Villa de Bilbao
-F/Laurenti
+Marte
+Neptuno
+Júpiter
+Vulcano
+Eolo
+Tritón
+Pizarro
+Hernán Cortés
+Vasco Núñez de Balboa
+Martín Alonso Pinzón
+Magallanes
+Sarmiento de Gamboa
+Vicente Yáñez Pinzón
+Legazpi
+Descubierta
+Atrevida
+Princesa
+Diana
+Nautilus
+Villa de Bilbao
+Laurenti
 Falange
 Fama
 Fama Volante
@@ -313,7 +300,6 @@ Francis Marion
 Furor
 Gacela
 Gaditano
-Gagadget.com
 Galera Victoria
 Galera de España
 Galera de Neptuno
@@ -451,20 +437,20 @@ Liubek
 Los Submarinos Españoles
 Luis de Córdova
 Luzón
-M-01 Bidasoa
-M-02 Nervión
-M-03 Lérez
-M-04 Tambre
-M-05 Segura
-M-06 Ter
-M-11 Diana
-M-11 Guadiaro
-M-12 Tinto
-M-13 Eume
-M-14 Almanzora
-M-15 Navia
-M-16 Eo
-M-17 Guadalhorce
+Bidasoa
+Nervión
+Lérez
+Tambre
+Segura
+Ter
+Diana
+Guadiaro
+Tinto
+Eume
+Almanzora
+Navia
+Eo
+Guadalhorce
 Mac-Mahón
 Mactán
 Magallanes
@@ -520,7 +506,6 @@ Naval Analyses
 Naval News
 Navarra
 Navas de Tolosa
-Navíos de la Real Armada 1700-1860
 Nelson
 Neptune
 Neptuno
@@ -555,7 +540,7 @@ Nuestra Señora del Rosario
 Nuestra Señora del Triunfo
 Nueva España
 Numancia
-Ocean Osprey.
+Ocean Osprey
 Oceanía
 Oliver Hazard Perry
 Ordóñez
@@ -565,36 +550,36 @@ Osado
 Otálora
 Overijssel
 Oviedo
-P-01 Lazaga
-P-02 Alsedo
-P-03 Cadarso
-P-04 Villaamil
-P-05 Bonifaz
-P-06 Recalde
-P-11 Barceló
-P-12 Laya
-P-13 Javier Quiroga
-P-14 Ordóñez
-P-15 Acevedo
-P-16 Candido Perez
-P-21 Anaga
-P-23 Marola
-P-24 Mouro
-P-27 Izaro
-P-29 Deva
-P-30 Bergantín
-P-30 Grosa
-P-31 Conejera
-P-32 Dragonera
-P-33 Espalmador
-P-34 Alcanada
-P-41 Cormorán
-P-61 Chilreu
-P75 Descubierta
-P76 Infanta Elena
-P77 Infanta Cristina
-P78 Cazadora
-P79 Vencedora
+Lazaga
+Alsedo
+Cadarso
+Villaamil
+Bonifaz
+Recalde
+Barceló
+Laya
+Javier Quiroga
+Ordóñez
+Acevedo
+Candido Perez
+Anaga
+Marola
+Mouro
+Izaro
+Deva
+Bergantín
+Grosa
+Conejera
+Dragonera
+Espalmador
+Alcanada
+Cormorán
+Chilreu
+Descubierta
+Infanta Elena
+Infanta Cristina
+Cazadora
+Vencedora
 Palas
 Paloma Indiana
 Pampanga
@@ -854,15 +839,11 @@ Serviola
 Sicilia
 Sirena
 Siroco
-Six Galleons for the King of Spain: Imperial Defense in the Early Seventeenth Century
 Soberano
 Soberbio
 Soldado
 Somorrostro
 Sorpresa
-Spanish Galleon, 1530-1690
-Spanish Warships in the Age of Sail 1700—1860: Design Construction, Careers and Fates
-Spanish naval power, 1589-1665
 Suardiaz Galicia
 Suboficiales
 Sutil
@@ -878,17 +859,15 @@ Tetis
 Tetuan
 Tetuán
 The Americas
-The Ships of Trafalgar, the British, French and Spanish Fleets October 1805
 Tigre
 Toledo
 Tolosilla
 Tom Green County
 Tonina
 Tornado
-Torpedero T-1
+Torpedero
 Torpedista Hernández
 Tourville
-Trafalgar and the Spanish navy
 Tramontana
 Tri Sviatitelei
 Tridente
@@ -903,7 +882,6 @@ Uad-Ras
 Uad-Targa
 Ulloa
 Unicornio
-United States Naval Institute Proceedings
 Urdaneta
 Valiente
 Vasco Núñez de Balboa
@@ -931,12 +909,10 @@ Vizcaya
 Volante
 Vulcano
 Wad-Ras
-Warship International
-Wexford County
 Winchcomb
 Xauen
 Ynfante
 Ysabel
 Yumurí
 Zaragoza
-los Meregildos
+Los Meregildos

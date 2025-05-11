@@ -33,12 +33,10 @@ const config: HardhatUserConfig = {
     "flow-testnet": {
       url: "https://testnet.evm.nodes.onflow.org",
       accounts: [process.env.METAMASK_WALLET_1 as string],
-      gas: 500000,
     },
     flow: {
       url: "https://mainnet.evm.nodes.onflow.org",
       accounts: [process.env.METAMASK_WALLET_1 as string],
-      gas: 500000,
     },
   },
 };

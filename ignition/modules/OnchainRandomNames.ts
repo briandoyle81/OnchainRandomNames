@@ -13,7 +13,7 @@ const NamesModule = buildModule("NamesModule", (m) => {
   // Until we've gone through all the firstnames, deploy a NamesSubset containing 1000 firstnames and save the address
   // Handle the last subset not having the full 1000 names
   const firstnameSubsets = [];
-  for (let i = 0; i < firstnames.length; i += 500) {
+  for (let i = 0; i < firstnames.length; i += 400) {
     const subset = m.contract("NamesSubset", [firstnames.slice(i, i + 400)], {
       id: `FirstNameSubset${i}`,
       afterDeploy: async () => {
@@ -25,7 +25,7 @@ const NamesModule = buildModule("NamesModule", (m) => {
 
   // Do the same for the lastnames
   const lastnameSubsets = [];
-  for (let i = 0; i < lastnames.length; i += 500) {
+  for (let i = 0; i < lastnames.length; i += 400) {
     const subset = m.contract("NamesSubset", [lastnames.slice(i, i + 400)], {
       id: `LastNameSubset${i}`,
       afterDeploy: async () => {

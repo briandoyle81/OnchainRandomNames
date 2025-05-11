@@ -5,18 +5,12 @@ import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
 import shipNames from "../../constants/ships.json";
 
-const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
-
 const NamesModule = buildModule("NamesModule", (m) => {
-  // Until we've gone through all the firstnames, deploy a NamesSubset containing 1000 firstnames and save the address
-  // Handle the last subset not having the full 1000 names
+  // Deploy NamesSubset contracts containing 300 names each
   const shipNameSubsets = [];
-  for (let i = 0; i < shipNames.length; i += 500) {
-    const subset = m.contract("NamesSubset", [shipNames.slice(i, i + 400)], {
+  for (let i = 0; i < shipNames.length; i += 250) {
+    const subset = m.contract("NamesSubset", [shipNames.slice(i, i + 250)], {
       id: `ShipNameSubset${i}`,
-      afterDeploy: async () => {
-        await sleep(500);
-      },
     });
     shipNameSubsets.push(subset);
   }

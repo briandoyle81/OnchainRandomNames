@@ -1,19 +1,24 @@
-# Onchain Random Names
+# Onchain Random Names and Ship Names
 
-This contract is free to use, but I'll gladly accept tips at: 0xac5b774D7a700AcDb528048B6052bc1549cd73B9
+These contracts are free to use, but I'll gladly accept tips at: 0xac5b774D7a700AcDb528048B6052bc1549cd73B9
 
-This set of contracts allows anyone to generate random names from a list of firstnames and lastnames onchain.
+The first set of contracts allows anyone to generate random names from a list of firstnames and lastnames onchain.
 
 The firstnames and lastnames are stored in the contract as a list of strings.
 
 The contract uses a deterministic algorithm to generate a random index from the list of firstnames and lastnames. It is deterministic, meaning that the same seed will always produce the same name from the same seed.
 
+The second one pull a random ship name from a list of historic military vessels. See issues, and the license in the contract, there may be errors.
+
 USE AT YOUR OWN RISK
 
 ## Deployed Address
 
-Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0xe26B2E42892a5C2Cd43CE38DDa0b38547CF35464?tab=read_write_contract
-Flow EVM Mainnet: https://evm.flowscan.io/address/0x72ae7d588dec0Ff4E7b0ABf32aDc2b33e868AE66?tab=read_write_contract
+Names on Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0xe26B2E42892a5C2Cd43CE38DDa0b38547CF35464?tab=read_write_contract
+Names on Flow EVM Mainnet: https://evm.flowscan.io/address/0x72ae7d588dec0Ff4E7b0ABf32aDc2b33e868AE66?tab=read_write_contract
+
+Ship Names on Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0x9E433A07D283d56E8243EA25b7358521b1922df5
+Ship Names on Flow EVM Mainnet: Coming soon!
 
 ## Usage
 
@@ -22,6 +27,12 @@ To use, simply call the `getRandomName` function with a `bytes32` seed.
 IE: 0x6636313932303132383935653232313434333441653944433144353536374675
 
 You'll get `Justinas Pfafferodt`!
+
+For ships, simply use `getRandomShipName` in the same way.
+
+IE: 0x6636313932303132383935653232313434333441653944433144353536374675
+
+You'll get `Milne`
 
 ## Local Development Commands
 
