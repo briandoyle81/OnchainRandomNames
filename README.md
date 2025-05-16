@@ -18,7 +18,7 @@ Names on Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0xe26B2E42892
 Names on Flow EVM Mainnet: https://evm.flowscan.io/address/0x72ae7d588dec0Ff4E7b0ABf32aDc2b33e868AE66?tab=read_write_contract
 
 Ship Names on Flow EVM Testnet: https://evm-testnet.flowscan.io/address/0x9E433A07D283d56E8243EA25b7358521b1922df5
-Ship Names on Flow EVM Mainnet: Coming soon!
+Ship Names on Flow EVM Mainnet: https://evm.flowscan.io/address/0x9521F894484EFeea762F72488fB957Ace7d7535E
 
 ## Usage
 
