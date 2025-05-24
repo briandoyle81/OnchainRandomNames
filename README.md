@@ -2,9 +2,11 @@
 
 These contracts are free to use, but I'll gladly accept tips at: 0xac5b774D7a700AcDb528048B6052bc1549cd73B9
 
-The first set of contracts allows anyone to generate random names from a list of firstnames and lastnames onchain.
+It's also helpful if you star the repo and follow me on GitHub!
 
-The firstnames and lastnames are stored in the contract as a list of strings.
+The first set of contracts allows anyone to generate random names from a list of first names and last names onchain.
+
+The first names and last names are stored in the contract as a list of strings.
 
 The contract uses a deterministic algorithm to generate a random index from the list of firstnames and lastnames. It is deterministic, meaning that the same seed will always produce the same name from the same seed.
 
