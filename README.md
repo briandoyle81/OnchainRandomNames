@@ -8,7 +8,7 @@ The first set of contracts allows anyone to generate random names from a list of
 
 The first names and last names are stored in the contract as a list of strings.
 
-The contract uses a deterministic algorithm to generate a random index from the list of firstnames and lastnames. It is deterministic, meaning that the same seed will always produce the same name from the same seed.
+The contract uses a deterministic algorithm to generate a random index from the list of first names and last names. It is deterministic, meaning that the same seed will always produce the same name from the same seed.
 
 The second one pull a random ship name from a list of historic military vessels. See issues, and the license in the contract, there may be errors.
 
