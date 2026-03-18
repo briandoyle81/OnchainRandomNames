@@ -9,6 +9,9 @@ const config: HardhatUserConfig = {
     apiKey: {
       "flow-testnet": "abc",
       flow: "abc",
+      "ronin-saigon": "",
+      "xai-testnet": "",
+      "base-sepolia": process.env.BASECAN_API_KEY as string,
     },
     customChains: [
       {
@@ -27,6 +30,30 @@ const config: HardhatUserConfig = {
           browserURL: "https://evm-testnet.flowscan.io",
         },
       },
+      {
+        network: "ronin-saigon",
+        chainId: 2021,
+        urls: {
+          apiURL: "https://saigon-testnet.roninchain.com/rpc",
+          browserURL: "https://saigon-app.roninchain.com/",
+        },
+      },
+      {
+        network: "xai-testnet",
+        chainId: 37714555429,
+        urls: {
+          apiURL: "https://testnet-v2.xai-chain.net/rpc",
+          browserURL: "https://testnet-explorer-v2.xai-chain.net",
+        },
+      },
+      {
+        network: "base-sepolia",
+        chainId: 84532,
+        urls: {
+          apiURL: "https://sepolia.base.org",
+          browserURL: "https://sepolia.basescan.org",
+        },
+      },
     ],
   },
   networks: {
@@ -36,6 +63,18 @@ const config: HardhatUserConfig = {
     },
     flow: {
       url: "https://mainnet.evm.nodes.onflow.org",
+      accounts: [process.env.METAMASK_WALLET_1 as string],
+    },
+    "ronin-saigon": {
+      url: "https://saigon-testnet.roninchain.com/rpc",
+      accounts: [process.env.METAMASK_WALLET_1 as string],
+    },
+    "xai-testnet": {
+      url: "https://testnet-v2.xai-chain.net/rpc",
+      accounts: [process.env.METAMASK_WALLET_1 as string],
+    },
+    "base-sepolia": {
+      url: "https://sepolia.base.org",
       accounts: [process.env.METAMASK_WALLET_1 as string],
     },
   },

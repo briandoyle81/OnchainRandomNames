@@ -37,7 +37,7 @@ const NamesModule = buildModule("NamesModule", (m) => {
 
   console.log(
     "Total Contracts: ",
-    firstnameSubsets.length + lastnameSubsets.length
+    firstnameSubsets.length + lastnameSubsets.length,
   );
 
   // Then deploy the OnchainRandomNames contract
